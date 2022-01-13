@@ -1,2 +1,2 @@
 # WALIS
-Public repository for the World Atlas of Last Interglacial Shorelines
+Public repository for the World Atlas of Last Interglacial Shorelines (in prep)
