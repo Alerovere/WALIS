@@ -7,13 +7,11 @@ The data in WALIS is organized in a [Zenodo Community](https://zenodo.org/commun
  describes each region included in the database.
  
 ## Repository organization
-The notebooks are stored in the root (/WALIS). Within the root, there are three su-folders, as listed below.
+The notebooks are stored in the root (/WALIS). Within the root, there are three sub-folders, as listed below.
 
-**Output.** This folder stores the files exported by the notebooks. The **/data** subfolder contains the database in various formats.
-
-**scripts.** This folder stores all the python scripts called by the notebooks.
-
-**Conda_env.** In this folder are stored two files: _requirements.txt_ _and WALIS_env.yml_ that can be used to download the python packages required to run the scripts and creating the Conda environment.
+1. **Output** This folder stores the files exported by the notebooks. The **/data** subfolder contains the database in various formats.
+2. **scripts** This folder stores all the python scripts called by the notebooks.
+3. **Conda_env** In this folder are stored two files: _requirements.txt_ _and WALIS_env.yml_ that can be used to download the python packages required to run the scripts and creating the Conda environment.
 
 
 ## Other useful resources
