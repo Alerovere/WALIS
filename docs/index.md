@@ -1,4 +1,4 @@
-## The World Atlas of Last Interglacial Shorelines - WALIS
+## WALIS
 
 This is the public repository page for the World Atlas of Last Interglacial Shorelines (WALIS). It contains python scripts and Jupyter notebooks to download, query and analyse the data included in the Atlas.
 
