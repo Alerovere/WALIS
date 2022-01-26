@@ -66,23 +66,10 @@ Thank you to all those who take time answering questions on various webpages!
 
 [Finding Probability Distribution Parameters from Percentiles](https://www.codeproject.com/Articles/56371/Finding-Probability-Distribution-Parameters-from-P)
 
+[How to create a zip archive of a directory?](https://stackoverflow.com/questions/1855095/how-to-create-a-zip-archive-of-a-directory-in-python)
 
-https://stackoverflow.com/questions/44281863/saving-html-file-with-images-in-bokeh
+[Creating Web Maps in Python with GeoPandas and Folium](https://rawgit.com/agaidus/leaflet_webmaps_python/master/sf_crime_mapping_final.html)
 
-https://stackoverflow.com/questions/1855095/how-to-create-a-zip-archive-of-a-directory-in-python
+[Matplotlib, diregard outliers when plotting](https://stackoverflow.com/questions/11882393/matplotlib-disregard-outliers-when-plotting)
 
-https://stackoverflow.com/questions/57507321/make-bokeh-plot-fill-the-entire-screen
-
-https://stackoverflow.com/questions/58162200/pre-determine-optimal-level-of-zoom-in-folium
-
-https://rawgit.com/agaidus/leaflet_webmaps_python/master/sf_crime_mapping_final.html
-
-https://github.com/dmvianna/leaflet_webmaps_python/blob/functional/sf_crime_mapping_final.ipynb
-
-https://towardsdatascience.com/collect-and-visualize-covid-19-data-336e4dc9ead
-
-https://stackoverflow.com/questions/11882393/matplotlib-disregard-outliers-when-plotting
-
-https://stackoverflow.com/questions/3279560/reverse-colormap-in-matplotlib
-
-https://stackoverflow.com/questions/18012505/python-pandas-dataframe-columns-convert-to-dict-key-and-value
+[Pandas-convert to dict and key vale](https://stackoverflow.com/questions/18012505/python-pandas-dataframe-columns-convert-to-dict-key-and-value)
