@@ -5,6 +5,12 @@ More information on the project can be foound at this page: https://warmcoasts.e
 
 The data in WALIS is organized in a Zenodo Community: https://zenodo.org/communities/walis_database/
 
+A series of manuscripts in a Special Issue of the journal Earth System Science Data describes each region included in the database: https://essd.copernicus.org/articles/special_issue1055.html
+
+A repository containing a visualization interface for WALIS data, coded in R, is available here: 
+
+Field descriptors for the WALIS database are available at this link: https://walis-help.readthedocs.io
+
 ## Suggested acknowledgments
 WALIS is the result of the work of several people, within different projects. For this reason, we kindly ask you to follow these simple rules to properly acknowledge those who worked on it:
 
