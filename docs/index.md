@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The World Atlas of Last Interglacial Shorelines - WALIS
 
 You can use the [editor on GitHub](https://github.com/Alerovere/WALIS/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
