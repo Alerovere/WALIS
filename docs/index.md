@@ -1,37 +1,26 @@
 ## The World Atlas of Last Interglacial Shorelines - WALIS
 
-You can use the [editor on GitHub](https://github.com/Alerovere/WALIS/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This is the public repository for the World Atlas of Last Interglacial Shorelines (WALIS). It contains python scripts and Jupyter notebooks to download, query and analyse the data included in the Atlas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+More information on the project can be foound at this page: https://warmcoasts.eu/world-atlas
 
-### Markdown
+The data in WALIS is organized in a Zenodo Community: https://zenodo.org/communities/walis_database/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A series of manuscripts in a Special Issue of the journal Earth System Science Data describes each region included in the database: https://essd.copernicus.org/articles/special_issue1055.html
 
-```markdown
-Syntax highlighted code block
+A repository containing a visualization interface for WALIS data, coded in R, is available here: https://github.com/Alerovere/WALIS_Visualization
 
-# Header 1
-## Header 2
-### Header 3
+Field descriptors for the WALIS database are available at this link: https://walis-help.readthedocs.io
 
-- Bulleted
-- List
+## Suggested acknowledgments
+WALIS is the result of the work of several people, within different projects. For this reason, we kindly ask you to follow these simple rules to properly acknowledge those who worked on it:
 
-1. Numbered
-2. List
+1. Cite the original authors - Please maintain the original citations for each datapoint, to give proper credit to those who worked to collect the original data in the field or in the lab.
+2. Acknowledge the database contributor - The name of each contributor is listed in all public datapoints. This is the data creator, who spent time to make sure the data is standardized and (as much as possible) free of errors.
+3. Acknowledge the database structure and interface creators - The database template used in this study was developed by the ERC Starting Grant "WARMCOASTS" (ERC-StG-802414) and is a community effort under the PALSEA (PAGES / INQUA) working group.
 
-**Bold** and _Italic_ and `Code` text
+Example of acknowledgments: The data used in this study were *[extracted from / compiled in]* WALIS, a sea-level database interface developed by the ERC Starting Grant "WARMCOASTS" (ERC-StG-802414), in collaboration with PALSEA (PAGES / INQUA) working group. The database structure was designed by A. Rovere, D. Ryan, T. Lorscheid, A. Dutton, P. Chutcharavan, D. Brill, N. Jankowski, D. Mueller, M. Bartz, E. Gowan and K. Cohen. The data points used in this study were contributed to WALIS by *[list names of contributors here]*.
 
-[Link](url) and ![Image](src)
-```
+## Funding
+This software is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. ERC-StG-802414)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alerovere/WALIS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
