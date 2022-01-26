@@ -25,3 +25,4 @@ Example of acknowledgments: The data used in this study were *extracted from / c
 ### Funding
 This software is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. ERC-StG-802414)
 
+![plot](./img/ERC.png)
