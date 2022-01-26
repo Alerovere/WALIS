@@ -43,5 +43,47 @@ This software is part of a project that has received funding from the European R
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/walisdatabase.svg?style=social&label=Follow%20%40walisdatabase)](https://twitter.com/walisdatabase)
 
-
 ![logo](./img/ERC.png)
+
+### Code Acknowledgments
+Thank you to all those who take time answering questions on various webpages!
+
+https://stackoverflow.com/questions/59617019/replace-comma-separated-values-in-a-dataframe-with-values-from-another-dataframe/59617707#59617707
+
+https://stackoverflow.com/questions/53818434/pandas-replacing-values-by-looking-up-in-an-another-dataframe
+
+https://gis.stackexchange.com/questions/147156/making-shapefile-from-pandas-dataframe
+
+https://riptutorial.com/pandas/example/25462/split--reshape--csv-strings-in-columns-into-multiple-rows--having-one-element-per-row
+
+https://stackoverflow.com/questions/56466917/is-there-a-way-in-pandas-to-remove-duplicates-from-within-a-series
+
+https://stackoverflow.com/questions/185936/how-to-delete-the-contents-of-a-folder
+
+http://michael-harmon.com/blog/IntroToBokeh.html
+
+https://stackoverflow.com/questions/37877708/how-to-turn-a-pandas-dataframe-row-into-a-comma-separated-string
+
+https://stackoverflow.com/questions/53082639/python-removing-the-contents-of-a-cell-based-on-a-specific-condition
+
+https://www.codeproject.com/Articles/56371/Finding-Probability-Distribution-Parameters-from-P
+
+https://stackoverflow.com/questions/44281863/saving-html-file-with-images-in-bokeh
+
+https://stackoverflow.com/questions/1855095/how-to-create-a-zip-archive-of-a-directory-in-python
+
+https://stackoverflow.com/questions/57507321/make-bokeh-plot-fill-the-entire-screen
+
+https://stackoverflow.com/questions/58162200/pre-determine-optimal-level-of-zoom-in-folium
+
+https://rawgit.com/agaidus/leaflet_webmaps_python/master/sf_crime_mapping_final.html
+
+https://github.com/dmvianna/leaflet_webmaps_python/blob/functional/sf_crime_mapping_final.ipynb
+
+https://towardsdatascience.com/collect-and-visualize-covid-19-data-336e4dc9ead
+
+https://stackoverflow.com/questions/11882393/matplotlib-disregard-outliers-when-plotting
+
+https://stackoverflow.com/questions/3279560/reverse-colormap-in-matplotlib
+
+https://stackoverflow.com/questions/18012505/python-pandas-dataframe-columns-convert-to-dict-key-and-value
