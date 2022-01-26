@@ -48,7 +48,7 @@ This software is part of a project that has received funding from the European R
 ### Code Acknowledgments
 Thank you to all those who take time answering questions on various webpages!
 
-https://stackoverflow.com/questions/59617019/replace-comma-separated-values-in-a-dataframe-with-values-from-another-dataframe/59617707#59617707
+[Replace comma-separated values in a dataframe with values from another dataframe](https://stackoverflow.com/questions/59617019/replace-comma-separated-values-in-a-dataframe-with-values-from-another-dataframe/59617707#59617707)
 
 https://stackoverflow.com/questions/53818434/pandas-replacing-values-by-looking-up-in-an-another-dataframe
 
