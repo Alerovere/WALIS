@@ -12,7 +12,7 @@ A repository containing a visualization interface for WALIS data, coded in R, is
 
 Field descriptors for the WALIS database are available at this link: https://walis-help.readthedocs.io
 
-## Suggested acknowledgments
+### Suggested acknowledgments
 WALIS is the result of the work of several people, within different projects. For this reason, we kindly ask you to follow these simple rules to properly acknowledge those who worked on it:
 
 1. Cite the original authors - Please maintain the original citations for each datapoint, to give proper credit to those who worked to collect the original data in the field or in the lab.
@@ -21,6 +21,6 @@ WALIS is the result of the work of several people, within different projects. Fo
 
 Example of acknowledgments: The data used in this study were *[extracted from / compiled in]* WALIS, a sea-level database interface developed by the ERC Starting Grant "WARMCOASTS" (ERC-StG-802414), in collaboration with PALSEA (PAGES / INQUA) working group. The database structure was designed by A. Rovere, D. Ryan, T. Lorscheid, A. Dutton, P. Chutcharavan, D. Brill, N. Jankowski, D. Mueller, M. Bartz, E. Gowan and K. Cohen. The data points used in this study were contributed to WALIS by *[list names of contributors here]*.
 
-## Funding
+### Funding
 This software is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. ERC-StG-802414)
 
