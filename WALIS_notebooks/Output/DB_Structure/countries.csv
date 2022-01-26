@@ -1,0 +1,3 @@
+Field,Type,Collation,Null,Key,Comment
+id,int(11),,NO,PRI,Country ID
+name,varchar(255),latin1_swedish_ci,NO,UNI,Country name

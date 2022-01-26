@@ -1,0 +1,8 @@
+Field,Type,Collation,Null,Key,Comment
+WALIS RSL ID,int(11),,NO,,
+WALIS USERIES ID,varchar(11),utf8mb4_general_ci,NO,,
+WALIS AAR ID,varchar(11),utf8mb4_general_ci,NO,,
+WALIS ESR ID,varchar(11),utf8mb4_general_ci,NO,,
+WALIS Luminescence ID,varchar(11),utf8mb4_general_ci,NO,,
+WALIS Other dating ID,varchar(11),utf8mb4_general_ci,NO,,
+WALIS Chronostratigraphy ID,varchar(11),utf8mb4_general_ci,NO,,
