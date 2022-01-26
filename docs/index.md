@@ -50,19 +50,17 @@ Thank you to all those who take time answering questions on various webpages!
 
 [Replace comma-separated values in a dataframe with values from another dataframe](https://stackoverflow.com/questions/59617019/replace-comma-separated-values-in-a-dataframe-with-values-from-another-dataframe/59617707#59617707)
 
-https://stackoverflow.com/questions/53818434/pandas-replacing-values-by-looking-up-in-an-another-dataframe
+[Pandas - Replacing Values by Looking Up in an Another Dataframe](https://stackoverflow.com/questions/53818434/pandas-replacing-values-by-looking-up-in-an-another-dataframe)
 
-https://gis.stackexchange.com/questions/147156/making-shapefile-from-pandas-dataframe
+[Split (reshape) CSV strings in columns into multiple rows, having one element per row](https://riptutorial.com/pandas/example/25462/split--reshape--csv-strings-in-columns-into-multiple-rows--having-one-element-per-row)
 
-https://riptutorial.com/pandas/example/25462/split--reshape--csv-strings-in-columns-into-multiple-rows--having-one-element-per-row
+[Is there a way in pandas to remove duplicates from within a series?](https://stackoverflow.com/questions/56466917/is-there-a-way-in-pandas-to-remove-duplicates-from-within-a-series)
 
-https://stackoverflow.com/questions/56466917/is-there-a-way-in-pandas-to-remove-duplicates-from-within-a-series
+[How to delete the contents of a folder?](https://stackoverflow.com/questions/185936/how-to-delete-the-contents-of-a-folder)
 
-https://stackoverflow.com/questions/185936/how-to-delete-the-contents-of-a-folder
+[Intro to bokeh](http://michael-harmon.com/blog/IntroToBokeh.html)
 
-http://michael-harmon.com/blog/IntroToBokeh.html
-
-https://stackoverflow.com/questions/37877708/how-to-turn-a-pandas-dataframe-row-into-a-comma-separated-string
+[How to turn a pandas dataframe row into a comma separated string](https://stackoverflow.com/questions/37877708/how-to-turn-a-pandas-dataframe-row-into-a-comma-separated-string)
 
 https://stackoverflow.com/questions/53082639/python-removing-the-contents-of-a-cell-based-on-a-specific-condition
 
