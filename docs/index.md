@@ -1,12 +1,19 @@
-## WALIS
+# WALIS
 
 This is the public repository page for the World Atlas of Last Interglacial Shorelines (WALIS). It contains python scripts and Jupyter notebooks to download, query and analyse the data included in the Atlas. More information on the project can be found at [this page](https://warmcoasts.eu/world-atlas).
 
-### Data
+## Data
 The data in WALIS is organized in a [Zenodo Community](https://zenodo.org/communities/walis_database/). A series of manuscripts in a Special Issue of the journal [Earth System Science Data](https://essd.copernicus.org/articles/special_issue1055.html)
  describes each region included in the database.
+ 
+## Repository organization
+The notebooks are stored in the root (/WALIS). Within the root, there are three su-folders, as listed below.
+**Output.** This folder stores the files exported by the notebooks. The **/data** subfolder contains the database in various formats.
+**scripts.** This folder stores all the python scripts called by the notebooks.
+**Conda_env.** In this folder are stored two files: _requirements.txt_ _and WALIS_env.yml_ that can be used to download the python packages required to run the scripts and creating the Conda environment.
 
-### Other useful resources
+
+## Other useful resources
 We maintain a repository with the scripts for a [visualization interface](https://github.com/Alerovere/WALIS_Visualization) for WALIS data, coded in R. Field descriptors for the WALIS database are available in a [ReadTheDocs](https://walis-help.readthedocs.io) webpage.
 These are also deposited in Zenodo:
 
