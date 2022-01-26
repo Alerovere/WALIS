@@ -6,26 +6,26 @@ This is the public repository page for the World Atlas of Last Interglacial Shor
 The data in WALIS is organized in a [Zenodo Community](https://zenodo.org/communities/walis_database/). A series of manuscripts in a Special Issue of the journal [Earth System Science Data](https://essd.copernicus.org/articles/special_issue1055.html)
  describes each region included in the database.
  
-## Repository organization
+## Contents
+
+### Folders
 The notebooks are stored in the root (/WALIS). Within the root, there are three sub-folders, as listed below.
 
 1. **Output** This folder stores the files exported by the notebooks. The **/data** subfolder contains the database in various formats.
 2. **scripts** This folder stores all the python scripts called by the notebooks.
 3. **Conda_env** In this folder are stored two files: _requirements.txt_ _and WALIS_env.yml_ that can be used to download the python packages required to run the scripts and creating the Conda environment.
 
-## Jupyter Notebooks in the repository
-### Query and explore data
+### Jupyter Notebooks
+#### Query and explore data
 This notebook contains scripts that allow querying and extracting data from the "World Atlas of Last Interglacial Shorelines" (WALIS) database. The notebook calls scripts contained in the /scripts folder. After downloading the database (internet connection required), field headers are renamed, and field values are substituted, following 1:n or n:n relationships. The tables composing the database are then saved in CSV, XLSS (multi-sheet), and geoJSON formats. The notebook also contains some plotting functions.
-### Export data for ShinyAppp
+#### Export data for ShinyAppp
 This notebook contains the scripts to download the full WALIS database and prepare a CSV file for the R Shiny App hosted [here](https://warmcoasts.shinyapps.io/WALIS_Visualization/). 
 
-## Other useful resources
+## Other WALIS resources
 We maintain a repository with the scripts for a [visualization interface](https://github.com/Alerovere/WALIS_Visualization) for WALIS data, coded in R. Field descriptors for the WALIS database are available in a [ReadTheDocs](https://walis-help.readthedocs.io) webpage.
 These are also deposited in Zenodo:
 
-
 Garzón and Rovere (2021) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4943541.svg)](https://doi.org/10.5281/zenodo.4943541)
-
 
 Rovere et al. (2020) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3961544.svg)](https://doi.org/10.5281/zenodo.3961544)
 
