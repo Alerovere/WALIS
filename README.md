@@ -7,7 +7,7 @@ The data in WALIS is organized in a Zenodo Community: https://zenodo.org/communi
 
 A series of manuscripts in a Special Issue of the journal Earth System Science Data describes each region included in the database: https://essd.copernicus.org/articles/special_issue1055.html
 
-A repository containing a visualization interface for WALIS data, coded in R, is available here: 
+A repository containing a visualization interface for WALIS data, coded in R, is available here: https://github.com/Alerovere/WALIS_Visualization
 
 Field descriptors for the WALIS database are available at this link: https://walis-help.readthedocs.io
 
