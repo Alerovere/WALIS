@@ -62,9 +62,10 @@ Thank you to all those who take time answering questions on various webpages!
 
 [How to turn a pandas dataframe row into a comma separated string](https://stackoverflow.com/questions/37877708/how-to-turn-a-pandas-dataframe-row-into-a-comma-separated-string)
 
-https://stackoverflow.com/questions/53082639/python-removing-the-contents-of-a-cell-based-on-a-specific-condition
+[Python : Removing the contents of a cell based on a specific condition](https://stackoverflow.com/questions/53082639/python-removing-the-contents-of-a-cell-based-on-a-specific-condition)
 
-https://www.codeproject.com/Articles/56371/Finding-Probability-Distribution-Parameters-from-P
+[Finding Probability Distribution Parameters from Percentiles](https://www.codeproject.com/Articles/56371/Finding-Probability-Distribution-Parameters-from-P)
+
 
 https://stackoverflow.com/questions/44281863/saving-html-file-with-images-in-bokeh
 
