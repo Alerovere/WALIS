@@ -29,8 +29,6 @@ Garzón and Rovere (2021) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.49
 
 Rovere et al. (2020) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3961544.svg)](https://doi.org/10.5281/zenodo.3961544)
 
-
-
 ### Suggested acknowledgments
 WALIS is the result of the work of several people, within different projects. For this reason, we kindly ask you to follow these simple rules to properly acknowledge those who worked on it:
 
@@ -42,6 +40,8 @@ Example of acknowledgments: The data used in this study were *extracted from / c
 
 ### Funding
 This software is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. ERC-StG-802414)
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/walisdatabase.svg?style=social&label=Follow%20%40walisdatabase)](https://twitter.com/walisdatabase)
 
 
 ![logo](./img/ERC.png)
