@@ -1,16 +1,13 @@
 query_type='user'
 
-if str(User) != 'WALIS Admin':
  ###### Take users from existing dataframe ######
- stringbit=', '.join(map(str,multiUsr.value))
- print('Extracting values for user(s): {}'.format(stringbit))
- print('')
- list_users = list(multiUsr.value)
- users_dict_inv = {v: k for k, v in users_dict.items()}
- list_users=list(map(users_dict_inv.get, list_users))
- multiUsr = tuple(list_users)
-else:
- print('Extracting the Whole WALIS database')
+stringbit=', '.join(map(str,multiUsr.value))
+print('Extracting values for: {}'.format(stringbit))
+print('')
+list_users = list(multiUsr.value)
+users_dict_inv = {v: k for k, v in users_dict.items()}
+list_users=list(map(users_dict_inv.get, list_users))
+multiUsr = tuple(list_users)
 
 ###### Initialize the empty dataframes ######
 RSL_Datapoints = pd.DataFrame()
@@ -150,37 +147,37 @@ for User in multiUsr:
  if str(User) != 'WALIS Admin':
   #keep references in RSL datapoints created by the user
   REF1=references.loc[references['Ref_ID'].isin(RSL_Datapoints['Ref']),:]
-  REF_2=pd.DataFrame(RSL_Datapoints['addRef'].str.split(',').explode()).replace('', np.nan).dropna(subset=['addRef']).astype(float)
+  REF_2=pd.DataFrame(RSL_Datapoints['addRef'].str.split(',').explode()).replace('', np.nan).dropna(subset=['addRef'])
   REF2=references.loc[references['Ref_ID'].isin(REF_2['addRef']),:]
   #keep references in RSL indicators
-  REF_3=pd.DataFrame(RSL_Ind['Ref_indicator'].str.split(',').explode()).replace('', np.nan).dropna(subset=['Ref_indicator']).astype(float)
+  REF_3=pd.DataFrame(RSL_Ind['Ref_indicator'].str.split(',').explode()).replace('', np.nan).dropna(subset=['Ref_indicator'])
   REF3=references.loc[references['Ref_ID'].isin(REF_3['Ref_indicator']),:]
   #keep references in SL datum
-  REF_4=pd.DataFrame(sl_datum_df['Ref_SLdatum'].str.split(',').explode()).replace('', np.nan).dropna(subset=['Ref_SLdatum']).astype(float)
+  REF_4=pd.DataFrame(sl_datum_df['Ref_SLdatum'].str.split(',').explode()).replace('', np.nan).dropna(subset=['Ref_SLdatum'])
   REF4=references.loc[references['Ref_ID'].isin(REF_4['Ref_SLdatum']),:]
   #keep references in U-Series corals
-  REF_5=pd.DataFrame(useries_df['Source'].str.split(',').explode()).replace('', np.nan).dropna(subset=['Source']).astype(float)
+  REF_5=pd.DataFrame(useries_df['Source'].str.split(',').explode()).replace('', np.nan).dropna(subset=['Source'])
   REF5=references.loc[references['Ref_ID'].isin(REF_5['Source']),:]
-  REF_6=pd.DataFrame(useries_df['Other ref'].str.split(',').explode()).replace('', np.nan).dropna(subset=['Other ref']).astype(float)
+  REF_6=pd.DataFrame(useries_df['Other ref'].str.split(',').explode()).replace('', np.nan).dropna(subset=['Other ref'])
   REF6=references.loc[references['Ref_ID'].isin(REF_6['Other ref']),:]
   #keep references in aar
-  REF_7=pd.DataFrame(aar_df['AARRef'].str.split(',').explode()).replace('', np.nan).dropna(subset=['AARRef']).astype(float)
+  REF_7=pd.DataFrame(aar_df['AARRef'].str.split(',').explode()).replace('', np.nan).dropna(subset=['AARRef'])
   REF7=references.loc[references['Ref_ID'].isin(REF_7['AARRef']),:]
-  REF_8=pd.DataFrame(aar_df['IndepAgeRef'].str.split(',').explode()).replace('', np.nan).dropna(subset=['IndepAgeRef']).astype(float)
+  REF_8=pd.DataFrame(aar_df['IndepAgeRef'].str.split(',').explode()).replace('', np.nan).dropna(subset=['IndepAgeRef'])
   REF8=references.loc[references['Ref_ID'].isin(REF_8['IndepAgeRef']),:]
-  REF_9=pd.DataFrame(aar_df['CalibRef'].str.split(',').explode()).replace('', np.nan).dropna(subset=['CalibRef']).astype(float)
+  REF_9=pd.DataFrame(aar_df['CalibRef'].str.split(',').explode()).replace('', np.nan).dropna(subset=['CalibRef'])
   REF9=references.loc[references['Ref_ID'].isin(REF_9['CalibRef']),:]
   #keep references in esr
-  REF_10=pd.DataFrame(esr_df['Refs'].str.split(',').explode()).replace('', np.nan).dropna(subset=['Refs']).astype(float)
+  REF_10=pd.DataFrame(esr_df['Refs'].str.split(',').explode()).replace('', np.nan).dropna(subset=['Refs'])
   REF10=references.loc[references['Ref_ID'].isin(REF_10['Refs']),:]
   #keep references in luminescence
-  REF_11=pd.DataFrame(lum_df['lum_ref'].str.split(',').explode()).replace('', np.nan).dropna(subset=['lum_ref']).astype(float) 
+  REF_11=pd.DataFrame(lum_df['lum_ref'].str.split(',').explode()).replace('', np.nan).dropna(subset=['lum_ref'])
   REF11=references.loc[references['Ref_ID'].isin(REF_11['lum_ref']),:]
   #keep references in stratigraphy
-  REF_12=pd.DataFrame(strat_df['StratRef'].str.split(',').explode()).replace('', np.nan).dropna(subset=['StratRef']).astype(float)
+  REF_12=pd.DataFrame(strat_df['StratRef'].str.split(',').explode()).replace('', np.nan).dropna(subset=['StratRef'])
   REF12=references.loc[references['Ref_ID'].isin(REF_12['StratRef']),:]
   #keep references in other
-  REF_13=pd.DataFrame(other_df['Ref'].str.split(',').explode()).replace('', np.nan).dropna(subset=['Ref']).astype(float)
+  REF_13=pd.DataFrame(other_df['Ref'].str.split(',').explode()).replace('', np.nan).dropna(subset=['Ref'])
   REF13=references.loc[references['Ref_ID'].isin(REF_13['Ref']),:]
   References_query=References_query.append(pd.concat([REF1,REF2,REF3,REF4,REF5,REF6,REF7,REF8,REF9,REF10,REF11,REF12,REF13]).drop_duplicates(['Ref_ID']).reset_index())
  else:

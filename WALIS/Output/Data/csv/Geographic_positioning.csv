@@ -1,12 +1,5 @@
 ﻿WALIS GeoPos ID,Measurement technique,Description,Typical accuracy,Record created by,Record updated by,Last Update
-8,Cordinates in paper,"Coordinates given in the reviewed paper, with no details.",Depending on the original information.,Alessio Rovere,Alessio Rovere,2020-04-19 13:50:24
-12,Differential GPS,GPS receiving differential corrections from satellite or on-land base stations.,"Few centimeters, depending on accuracy.",Alessio Rovere,Alessio Rovere,2020-05-08 03:23:48
-10,GIS georeferenced version of original map,"The original publication contains a map figure at detailed scale (< 1:25,000). The figure is scanned or screengrabbed. The map has been CAREFULLY georeferenced in GIS: Using RMS errors of georeferencing control points, one should confirm if the typical accuracy reported below is reproduced). The GIS is used to convert between original projection and coordinates, to WGS84 lat/long values at spot locations.","Scale 1:5000: 1 m.  Scale 1:25,000:  10 m",Kim Cohen,,2020-03-27 05:59:36
-9,Google Earth from location name,The location name was geocoded in Google Earth.,Depending on how precise is the Google Earth geocoding.,Alessio Rovere,Alessio Rovere,2020-04-19 13:51:23
 4,Google Earth from publication map,"Location data is presented in a map within the publication, coordinates were extracted by georeferencing the map into Google Earth and digitizing points of interest.","Up to tens of meters, depending on how precise is the originally published map.",Alessio Rovere,Alessio Rovere,2020-04-19 13:50:54
 6,Government well/core database,"A federal, state, or local government agency website hosting a database of well log or core log descriptions and/or metadata.",Per individiual record,Deirdre Ryan,,2019-11-21 04:41:58
 7,Handheld GPS,,5 m,Deirdre Ryan,,2019-12-02 08:52:35
 5,National Map Grid Coordinates,Location provided as a grid reference to a national map. Conversion should be made to WGS 1984 decimal degrees.,equivalent to grid resolution,Deirdre Ryan,,2019-08-12 04:26:35
-1,Not Specified,The original study does not specify how the location of sites/samples was measured.,Not available or not reported,Alessio Rovere,Alessio Rovere,2020-04-19 14:02:33
-13,TerraceM,Coordinates derived from TerraceM workflow,"Depending on the accuracy of the DEM used in TerraceM, usually up to tens of meters",Alessio Rovere,,2020-11-23 14:03:13
-14,Total Station,Total station linked to local vertical datum,Unknown but likely less than 1.0 m,Alexander Simms,Alexander Simms,2021-06-07 21:44:50
