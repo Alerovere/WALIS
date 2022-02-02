@@ -1,6 +1,6 @@
 query_type='user'
 
- ###### Take users from existing dataframe ######
+###### Take users from existing dataframe ######
 stringbit=', '.join(map(str,multiUsr.value))
 print('Extracting values for: {}'.format(stringbit))
 print('')

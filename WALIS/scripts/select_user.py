@@ -34,4 +34,5 @@ multiUsr = widgets.SelectMultiple(
     options=users.Createdby,
     rows=15,
     columns=3,
-    disabled=False)
+    disabled=False,
+    value=['WALIS Admin'])
