@@ -2,6 +2,7 @@
 This is the repository for the World Atlas of Last Interglacial Shorelines (WALIS). It contains python scripts and Jupyter notebooks to download, query and analyse the data included in the Atlas.
 
 See the repository page for more information: https://alerovere.github.io/WALIS/
+Find more information on the project here: https://warmcoasts.eu/world-atlas.html
 
 ### Suggested acknowledgments
 WALIS is the result of the work of several people, within different projects. For this reason, we kindly ask you to follow these simple rules to properly acknowledge those who worked on it:
