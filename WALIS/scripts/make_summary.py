@@ -143,8 +143,8 @@ Summary['Sample Longitude'] = np.where(Summary['Sample Longitude'] == '', 99999,
 Summary['Sample Longitude']=Summary['Sample Longitude'].astype(float)
 Summary['Sample Latitude'] = np.where(Summary['Sample Latitude'] == '', 99999, Summary['Sample Latitude'])
 Summary['Sample Latitude']=Summary['Sample Latitude'].astype(float)
-Summary['distance'] = haversine_np(Summary['Longitude'],Summary['Latitude'],Summary['Sample Longitude'],Summary['Sample Latitude'])
-Summary['distance']=np.where(Summary['Sample Longitude'] == 99999, np.nan, Summary['distance'])
+Summary['Distance from sample'] = haversine_np(Summary['Longitude'],Summary['Latitude'],Summary['Sample Longitude'],Summary['Sample Latitude'])
+Summary['Distance from sample']=np.where(Summary['Sample Longitude'] == 99999, np.nan, Summary['Distance from sample'])
 Summary['Sample Longitude'] = np.where(Summary['Sample Longitude'] == 99999, np.nan, Summary['Sample Longitude'])
 Summary['Sample Latitude'] = np.where(Summary['Sample Latitude'] == 99999, np.nan, Summary['Sample Latitude'])
 

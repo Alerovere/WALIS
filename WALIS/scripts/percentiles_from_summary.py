@@ -346,5 +346,5 @@ print('Data with no Elevation information or age has been discarded')
 
 extended_df.dropna(subset=['Elevation (m)','Elevation error (m)','Age (ka) 50 perc'],inplace=True)
 
-extended_df.to_csv('analysis_summary.csv',index = False) 
+extended_df.to_csv('Output/Shiny_input/analysis_summary.csv',index = False) 
 print('Your file has been saved!')

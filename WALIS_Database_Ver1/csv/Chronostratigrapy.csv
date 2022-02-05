@@ -1,0 +1,846 @@
+﻿WALIS Strat ID,Is this datapoint public?,Chronostratigraphy ID,Reference(s),Description for chronostratigraphic constraint,Unit thickness (m),Age is Older/Equal/Younger than,Marine Isotopic Stage,Comments/details on MIS designation,Upper Age (ka),Lower Age (ka),Notes on age determination,Is this an official stratigraphic designation?,Has duration estimated in years?,Duration (yrs),Duration uncertainty (yrs),Is a subzone of a parent Chronostratigraphy entry?,Parent record (WALIS Strat ID),Record created by,Record updated by,Last Update
+92,1,Aguni Island Lower Coral Limestone Terrace,"Koike and Machida, 2001
+ Tam and Yokoyama, 2021",Carbon 14 Dated Lower Coral Limestone Terrace at Aguni Island,,Equal to,MIS 3,,0.0,0.0,34-0 ka,No,No,,,No,,Evan Tam,,2020-10-07 04:38:15
+82,1,"Ahuza, Carmel coast - beach deposits","Galili et al, 2007
+ Sivan and Galili, 2020","The beach conglomerate (consolidated beach deposit associated with the foreshore at time of deposition) is located ca. 140 m east of the coastline. Two layers were observed in the site: at the bottom and on the sides of the river channel which was artificially deepened. At least 1m thick beach deposit sandwiched between two layers (20-40 cm thick each) of aeolian derived bioclastic sandstone made of fine grained quartz  sand and small (0.5 mm) fractures of marine mollusks cemented with carbonate. The beach deposit composed of carbonate cemented fine quartz sand, partly broken, crushed and whole marine mollusk shells, flint and limestone pebbles. The dominant mollusk species belonged to the families Glycymerididae, Cardiidae and Donacidae. Withinan  intect  block, the marine indicative gastropod Lentigo latus was recovered",1,Equal to,MIS 5e,"The affiliation to MIS5 is based on the sedimentary characteristics and indicative faunal assemblage, including Strombus bubonius (also named Lentigo latus). ",,,,Yes,,,,,,Dorit Sivan and Ehud Galili,Dorit Sivan and Ehud Galili,2020-10-04 07:56:52
+50,1,Aldabra Limestone,"Braithwaite et al., 1973
+ Thompson et al., 1972
+ Boyden et al., 2021",The Aldabra Limestone represents the first reliable age within the Western Indian Ocean basin and is therefore used extensively throughout early (1960s - 1980s) geomorphological studies along the coast of eastern Africa.,,Equal to,MIS 5e,,136.0,118.0,U/Th alpha spectrometry,Yes,No,,,No,,Patrick Boyden,Patrick Boyden,2020-04-09 06:07:15
+83,1,"Amiram, Carmel coast - beach deposits","Galili et al, 2007
+ Sivan and Galili, 2020","Beach deposit, 30–40 cm thick, composed of fine quartz sand, partly broken and crushed carbonate cemented, marine mollusk shells. The dominant mollusk species belong to the families Glycymerididae and Cardiidae.The beach deposites were found in the Amiram channel close to its outlet up to elevation of +1 to+2m. The layer was found also at -1m off the channel outlet. The beach deposit is overlied by about 2 m. thick bioclastic sandstone containing small fragments of crushed shells. The two layers are MIS5.5 indicating stormy conditions at early stage turning to more calm conditions later. ",2.4,Equal to,MIS 5e,The affiliation to MIS5 is based on the sedimentary characteristics and indicative faunal assemblage ,,,,Yes,,,,,,Dorit Sivan and Ehud Galili,,2020-09-21 19:09:41
+138,1,Bahamas MIS 5e (Hearty & Kaufman 2000),"Hearty and Kaufmann, 2000",Combination of stratigraphic correlation and whole role A/I ratios. ,,Equal to,MIS 5e,Combination of stratigraphic correlation and whole role A/I ratios. ,0.0,0.0,,No,,,,,,Alexandra Villa,,2021-07-23 19:16:13
+44,1,Barrier III- Rio Grande do Sul ,"Martin et al., 1982
+ Poupeau et al., 1988
+ Suguio et al., 1985
+ Tomazelli and Dillenburg, 2007
+ Tomazelli et al., 2006
+ Villwock, 1984
+ Rubio-Sandoval et al., 2021","Barrier III is described by Tomazelli et al., (2006), as follows: ""Barrier III is the best preserved of the Pleistocene barrier systems. Its correlative sediments can be traced from north to south along the whole of the coastal plain [...]. The vertical facies succession of Barrier III testifies to its regressive stratigraphic nature [...]. The barrier is composed by sandy beach facies covered by eolian deposits. Beach facies consists of white, well sorted, quartzose fine sand, with very well developed stratification reflecting different process occurring in the various beach subenvironments. Eolian facies are composed of reddish, quartzose, and structureless fine sand with abundant root traces. Locally, the beach sands contain remarkable occurrences of the trace fossil , interpreted as sp. burrows. The level of highest concentration of burrows defines an ancient sea-level situated around 6-8 m above the present"".  Some chronologic constraints are available from Barrier III deposits from Tomazelli and Dillenburg, 2007, who report thermoluminescence ages of 85 ka (Poupeau et al., 1988) for the eaolian facies and 109+/-7.5 ka for the foreshore facies (Tomazelli et al., 2006). Based on these hints, Tomazelli et al., 2006 argue that ""Barrier III deposits, originated near the peak of the Last Intergalcial transgression, can be firmly correlated with similar sediments described in many other segments of the Brazilian coast"" such as those described by Suguio et al., (1985). These are distributed through the States of Bahia, Serguipe and Alagoas. In the state of Bahia, five U-Series ages on corals by Martin et al., 1982, that range from 116+/-6.9 ka to 142+/-9.7 ka seem to confirm this correlation.",,Equal to,MIS 5,Only a general attribution to MIS 5 is possible.,0.0,0.0,,No,No,,,No,,Karla Zurisadai Rubio Sandoval ,Karla Zurisadai Rubio Sandoval ,2021-03-22 22:56:18
+136,1,Bas-IV,"Davies et al., 2014",A tholeiitic basaltic (BAS) tephra sourced from the Grimsvötn Volcano in Iceland. This tephra is correlated to the Eemian (~127 ka) on the basis of stratigraphic position in marine sediment cores.,,Equal to,MIS 5e,Age of the tephra is based on stratigraphic position in north Atlantic sediment cores.,127.0,127.0,Age is estimated.,No,No,,,No,,Evan Gowan,,2021-03-12 16:07:17
+77,1,Bioclastic sandstone,"Sivan et al., 2016
+ Sivan and Galili, 2020",poorly sorted bio-clastic sandstone with abundant shell fragments. This is subunit of the official Yasaf unit . The age was defined based on the stratigraphy: this is the upper unit of the Yasaf Mb. ,Max thickness;  5.35m. The unit is exposed from +1.1 m up to +6.45,Equal to,MIS 5e,"The sandstone unit is the upper, therefore the younger among the Yasaf subunits. It represents the last phase of MIS5.5.",,,"The whole Yasaf unit age is constrains by the OSL age of the top aeolianite Regba Mb. (dated to 215±15ka) and alteration ages of the 9 samples from 3 different Strombus fossils found in-situ in the Strombus unit, which underlying the domes mounds. The sandstone unit is the uupermost subunit in the whole sequence attributed to the MIS5.5 and therefore represents the end of MIS5.5 pahse.",Yes,,,,,,Dorit Sivan and Ehud Galili,Dorit Sivan and Ehud Galili,2020-10-05 08:11:20
+61,1,Biozone P6,"Mildenhall, 1995
+ Ryan et al., 2020","Biozone P6 (1 of 9 biozones identified) is a unit consisting of marine shelly gravel; shelly sand with occasional sand, mud, and gravel horizons with marine shell deposited in a nearshore marine or estuarine environment. Palynology indicates a warm, moist, humid environment, likely warmer and wetter than present. 
+
+P6 is bounded by sediments deposited in cooler periglacial (below) glacial (above) environments. 
+",,Equal to,MIS 5,Broadly MIS 5 at 71-128 ka,128.0,71.0,"To determine age Mildenhall (1995) referred to stratigraphic work by Stevens (1973 - not found in the course of this review) and the review paper by Pillans (1991), which placed MIS 5 at 125 to 70 ka. 
+Begg et al (2004) in their summary of their earlier work (Begg et al 2002 - not made available in this review) referred to radiocarbon ages of shell from marginal marine deposits below the surface to assist in constraining age of deposits in the Lower Hutt Valley. They refer to Biozone P6 as the Wilford Shellbed and correlate it to an oxygen isotope sea level curve (Martinson et al., 1987), with MIS 5 between 128 to 71 ka. This age, as the more recent, is used here. ",No,,,,,,Deirdre Ryan,Deirdre Ryan,2020-05-13 13:23:10
+89,1,Bir Ibdawiya west,"Frechen et al, 2004
+ Galili et al, 2007
+ Neber et al, 2002
+ Ronen et al., 2007
+ Sivan and Galili, 2020","This beach deposit was exposed on the bottom of a quarry, some 120–150m east of the present shoreline at an elevation of 3–4m asl. It was about 40 cm thick before quarrying and is mainly composed of fine quartz sand, and partly broken and crushed marine mollusk shells. The dominant mollusks belong to the families Glycymerididae and Donacidae (Table 1). A thick layer of poorly cemented kurkar, which contains small (less than 0.5 mm) fragments of crushed shells, overlies it. Most of this layer has been removed by quarrying, but the remains have been preserved. This beach deposit is embedded on top of hard kurkar, which contained small (less than 1 mm) fragments of crushed shells. The overlaying and underlying kurkar layers were dated by RTL to 76 and 143–153 ka BP respectively, and the beachrock is attributed to MIS 5e high sea stand (Neber, 2002; Frechen et al., 2004)",,Equal to,MIS 5e,"The affiliation to MIS5 is based on the sedimentary characteristics, stratigraphy and field relation and the association with the two adjacent caves containing Middle-Paleolithic remains (Ronen et al. 2008), as well as the RTL dating of the Kurkar overlaying and underlain Kurkar (aeolianits) deposits (Neber, 2002; Frechen et al., 2004).  ",,,,Yes,,,,,,Dorit Sivan and Ehud Galili,,2020-10-04 08:17:17
+132,1,Bonaire Lower Terrace,"Lorscheid et al., 2017b
+ Obert et al., 2016 
+ Rubio-Sandoval et al., 2021","The terrace is dated to MIS 5e on the windward side of the island with a series of U-Series ages by Obert et al., 2016. Lorscheid et al., 2017 dated one coral on the leeward side and conclude:  ""The results of U-series dating suggest that both coral subsamples taken from the deposit below the notches are diagenetically altered and biased towards older ages. Thus, they need to be regarded cautiously. Nevertheless, the coral ages can be correlated with those found along the north-eastern and eastern coast of Bonaire, that are constrained to MIS 5e through strictly reliable 230Th/U-ages of seven Diploria strigosa coral colonies collected at elevations between ~1.5 and ~5.5 m [...]. The stratigraphy of the Lower Terrace is very similar between the western coast (investigated in this study) and the north-eastern and eastern coasts, the only difference being the width of the fossil reef terrace, which is much larger on the eastern and northern, windward side of the island. Thus, it is reasonable to assume that the measured palaeo tidal notch was formed in MIS 5e"" ",,Equal to,MIS 5e,,,,,No,No,,,No,,Karla Zurisadai Rubio Sandoval ,,2020-11-19 16:47:13
+19,1,Bromley Formation,"Brown et al, 1988
+ Suggate, 1958
+ Ryan et al., 2020","The Bromley Formation is found in the subsurface of coastal North Canterbury. It is composed of blue-grey gravel, sand, silt, clay, shelly clay, and peat with some brown gravel, and brown and yellow clay layers. The Formation has a maximum thickness of 30 m with a depth range of ~40-60 m below the ground surface. Depositional environment is described as beach, lagoonal, dune, and coastal swamp sediments associated with rising, high, and declining sea level.
+
+It is bound by erosional surfaces to additional Quaternary stratigraphic units. It is variably overlain in upward succession by:
+Riccarton Gravel (glacial outwash derived river deposits)
+Windwhistle Formation (glacial outwash derived river deposits)
+Burnham Formation (glacial outwash derived river deposits)
+Springtown Formation (fluvial and coastal flood deposits)
+Christchurch Formation (Holocene equivalent of the Bromely Formation)
+It is variably underlain by a similar glacial and interglacial sequence as that described above:
+Woodlands Formation, Linwood Gravel (Glacial outwash)
+Heathcote Formation (Interglacial)
+Hororata Formation, Burwood Gravel (Glacial outwash)
+Shirley Formation (Interglaical)
+Wainoni Gravel (Glacial outwash)
+See Table 2 of Brown et al., 1988",variable,Equal to,MIS 5,5,,,Determined by stratigraphic succession,,,,,,,Deirdre Ryan,WALIS Admin,2020-01-27 17:04:29
+114,1,Cananéia formation,"Martin and Suguio, 1976
+ Suguio and Petri, 1973
+ Suguio et al., 2003
+ Rubio-Sandoval et al., 2021","The formation (described on the islands of Comprida and Cananéia) includes a base composed by silts formed within a continental/marine transition, capped by sands of shallow water origin, characterized by the presence of ophiomorpha fossil traces. A series of infinite radiocarbon ages and luminescence ages constrain this formation broadly to MIS 5. ",,Equal to,MIS 5,,,,,No,,,,,,Karla Zurisadai Rubio Sandoval ,WALIS Admin,2020-10-23 13:23:39
+124,1,Cape Arago Pioneer Terrace,"McInelly and Kelsey, 1990
+ Thompson and Creveling, 2021","This terrace correlation was based upon physical continuity of platform elevation between this terrace and the regionally adjacent Pioneer terrace at Cape Blanco. The terrace at Cape Blanco was dated to 105 ka with AAR and Oxygen Isotope data, which the authors use to then date the Pioneer terrace at Coquille point to 105 ka (MIS 5c).",,Equal to ,MIS 5c,5c,98.0,90.0,,No ,No ,,,,,Jessica Creveling and Schmitty Thompson,,2020-11-19 10:49:57
+123,1,Cape Arago Whiskey Run Terrace,"McInelly and Kelsey, 1990
+ Thompson and Creveling, 2021",This terrace correlation was based upon physical continuity of platform elevation between this terrace and the regionally adjacent Pioneer terrace at Cape Blanco. ,,Equal to ,MIS 5a,5a,86.0,78.0,,No ,No ,,,,,Jessica Creveling and Schmitty Thompson,,2020-11-19 10:49:57
+122,1,Coquille Point Pioneer Terrace,"McInelly and Kelsey, 1990
+ Thompson and Creveling, 2021","This terrace correlation was based upon physical continuity of platform elevation between this terrace and the regionally adjacent Pioneer terrace at Cape Blanco. The terrace at Cape Blanco was dated to 105 ka with AAR and Oxygen Isotope data, which the authors use to then date the Pioneer terrace at Coquille point to 105 ka (MIS 5c).",,Equal to ,MIS 5c,5c,98.0,90.0,,No ,No ,,,,,Jessica Creveling and Schmitty Thompson,,2020-11-19 10:49:57
+71,1,Cyprina Clay - lower brackish parts E2b-E3a,"Funder et al., 2002
+ Konradi, 1976
+ Kristensen et al., 2000
+ Larsen et al., 2009
+ Madsen et al., 1908
+ Seidenkranz, 1993","See the main entry West Baltic Sea Cyprina Clay for a full description.
+This entry matches foraminifera zone RKFO3 as described in Kristensen et al., (2000) for the Cyprina Clay. 
+This entry correlates chronostratigraphically to foraminiferal zone E as described by Seidenkranz (1993) in deep waters in the south of the Kattegat palaeoembayment.
+This entry correlates chronostratigraphically to intervals at the very base of the 'Lower Turritella terebra' molluscan zone of Larsen et al. (2009) in the centre of the Kattegat paleoembayment: the lower most parts of regional foraminferal zone to N3 (AV-F2).
+
+The lower brackish parts of the Cyprina clay define the first stages of deposition of this marine unit (overlying liminic strata), starting brackish and becoming saline gradually. On marine biogeographic grounds the brackish onset of Cyprina clay sedimentation marks the establishment of a first tidal connection with the North Sea via the Kattegat of North Denmark (Kristensen et al., 2000; Funder et al., 2002), via deep (palaeo-)sounds of east central Denmark, notably the Alnarp-Esrum palaeovalley in the OreSund (Funder et al. 2002). Its timing must have been coincident with considerable deepening of the water depth and isotopic compositional changes signaled in foraminiferal assemblages of the Kattegat embayment (Seidenkranz, 1993: her Zone E; see also: Larsen et al.,2009). The onset of southerly marine deposition in formerly limnic deep waters of the West Baltic Basin, times relatively early (just 300 years into the Eemian; within Zagwijn PAZ E2b according to Madsen et al., 1908; Konradi, 1976; Kristensen et al., 2000). The early-Eemian brackish phase in the West Baltic Sea was a relatively short lived one: Saline stages of the Cyprina clay commence halfway PAZ E3a onwards, some 350 varve-years later when correlating to terrestrial sites some 250 km away (Kristensen et al. 2000:110, their local zone RKFO4). It is followed by two more stages (see other entries: first saline part: 'transgression', second saline part: 'high stand').
+
+In the Kattegat, the deepening signal is registered soon as meltwater fluxes derived from Scandinavian ice and spillage from lakes occupying the Baltic basin stopped. On transgression mechanistic grounds (i.e: a connection is established) the deepening of the Kattegat waters (represented by Seidenkranz 1993 single Zone E) coincides with the deepening and salinization during Kristensen et al. (2000) pair of zones RKFO3 and RKFO4 in the Cyprina Clay distribution area to the south. From the onset of Zone E / Zone RKFO3 onwards, waves of immigration of boreal-to-lusitanic foram and mollusc species into the Baltic Sea basin begin. Deep water species reach the Baltic Sea from habitats in the Kattegat where foram and mollusc species compositional changes are also recorded. Shallow water species reach the Baltic Sea from littoral habitats of the Southern North Sea and around the Danish peninsula and islands (and may have arrived mainly during zone RKFO4).
+
+
+
+
+
+",0.5,Equal to,MIS 5e,see main entry for West Baltic Sea Cyprinia Clay,126.0,121.0,"see main entry on West Baltic Sea Cyprinia Clay
+
+
+
+This entry for the brackish onset stage:
+
+For the duration estimate follows the correlations of Kristensen et al. (2000): 350 years, 
+
+   with +/- 100 years for forest succession diachronicity.
+
+
+
+For the absolute age range 
+As Upper Age copies that registered for the entry 'North Sea' Zagwijn Eemian E3a, and
+As Lower Age copies that registered for the entry 'North Sea' Zagwijn Eemian E2b. 
+
+As for other chronostratigraphic zone entries, this spans the conservative oldest onset age to a conservative youngest possible final age. The 350 years of duration should be sought within this 4000 year bracket.
+
+
+
+",No,Yes,350,100,Yes,70,Kim Cohen,Kim Cohen,2020-08-06 10:26:52
+72,1,Cyprina Clay - lower saline part E3a-E4b,"Funder et al., 2002
+ Konradi, 1976
+ Kristensen et al., 2000
+ Larsen et al., 2009
+ Madsen et al., 1908
+ Seidenkranz, 1993","See the main entry West Baltic Sea Cyprina clay for a full description.
+This entry matches foraminifera zone RKFO4 as described in Kristensen et al., (2000) for the Cyprina Clay. 
+This entry correlates chronostratigraphically to foraminiferal zone E as described by Seidenkranz (1993) in deep waters in the south of the Kattegat (palaeo)embayment.
+This entry correlates chronostratigraphically to intervals at the base of the 'Lower Turritella terebra' molluscan zone of Larsen et al. (2009) in the centre of the Kattegat (palaeo)embayment: the lower parts of regional foraminiferal zone to N3 (AV-F3).
+
+The part of the marine unit described here is the first fully saline unit, marks fully established marine exchange between the North Sea (Kattegat) and the Baltic Sea. The subunit overlies an initial brackish phases that in turn overly liminic strata. The connection with the Kattegat is evident from marine palynology (forams) and malacology (Kristensen et al., 2000; Funder et al., 2002). Saline stages of the Cyprina Clay in the West of the  Baltic Sea commence halfway PAZ E3a onwards (Kristensen et al. 2000:110, their local zone RKFO4), based on pollen content and correlation to terrestrial key sites with varve-based floating chronologies (see 'North Sea' Zagwijn entries). 
+
+Deep water species reach the Baltic Sea from habitats in the Kattegat where foram and mollusc species compositional changes are also recorded. Shallow water species reach the Baltic Sea from littoral habitats of the Southern North Sea and around the Danish peninsula and islands. By the end of zone RKFO4 littoral lusitanian mollusc species have appeared in the West Baltic Sea. By the end of zone RKFO4 bottom-water subarctic and boreal relict faunal elements have disappeared in the West Baltic Sea.
+
+The marine stage is coincident with considerable deepening of the water depth and isotopic compositional changes signaled in foraminiferal assemblages of the Kattegat embayment (Seidenkranz, 1993: her Zone E; see also: Larsen et al.,2009). This is the phase that more boreal-to-lusitanic foram and mollusc species make it to the Baltic Sea basin, mixing and replacing boreal and subarctic species. In the central baltic this includes replacement and competition with species introduced from the east through marine connections with the White Sea (reviewed by Funder et al., 2002) in Karelia (Russian-Finnish borderlands). 
+
+The first saline parts of the unit are followed by a second saline stage, where foraminiferal composition changes (initially persisting subarctic/cold bottom water species get replaced by boreal/temperate water species; Kristensen et al., 2000:110, their local zone RKFO5) and additional indications of current change (Kristensen et al., 2000:113) indicate the Baltic Sea to have reached full depth ('high stand'). The break between RKFO4 and RKFO5 has a correlated timing halfway Zagwijn PAZ E4b (Kristensen et al., 2000). The ending of the 'transgressive' stage of this zone break correlates to the break between local foram zones E and F of Seidenkranz (1993) the deeper waters of the Kattegat to the north of the Cyprina clay distribution area.  
+
+In the 'high stand' stage (not this entry), a secondary marine connection between North Sea (German Bight) and the West Baltic may have established across the Schleswig (Danish-German borderlands; sources in Konradi et al., 2005). Such offers further circumstantial explanation for the change in local oceanography registered by the marine palynology of RKFO4 and RKFO5 (Kristensen et al., 2000; Funder et al., 2002). This was reason to separate entries for the 'lower saline part' from the 'upper saline part' of the Cyprina clay when using it chronostratigraphically in this sea-level change oriented database. ",1-2,Equal to,MIS 5e,see main entry for West Baltic Sea Cyprinia Clay,126.0,119.0,"see main entry on West Baltic Sea Cyprinia Clay
+
+
+
+
+
+
+
+This entry for the brackish onset stage:
+
+
+
+For the duration estimate follows the correlations of Kristensen et al. (2000): 350 years, 
+
+
+
+   with +/- 100 years for forest succession diachronicity.
+
+
+
+
+
+
+
+For the absolute age range 
+
+As Upper Age copies that registered for the entry 'North Sea' Zagwijn Eemian E4b, and
+
+As Lower Age copies that registered for the entry 'North Sea' Zagwijn Eemian E3a. 
+
+
+
+As for other chronostratigraphic zone entries, this spans the conservative oldest onset age to a conservative youngest possible final age. The 1950 years of duration should be sought within this 7000 year bracket.
+
+
+
+
+
+
+
+",No,Yes,1950,200,Yes,70,Kim Cohen,Kim Cohen,2020-08-06 10:55:08
+73,1,Cyprina Clay - upper saline part E4b-E6a,"Funder et al., 2002
+ Houmark-Nielsen, 1987
+ Konradi, 1976
+ Kristensen et al., 2000
+ Larsen et al., 2009
+ Madsen et al., 1908
+ Seidenkranz, 1993
+ Winn & Erlenkeuser, 1995
+ Winn & Erlenkeuser, 1998","See the main entry West Baltic Sea Cyprina clay for a full description.
+This entry matches foraminifera zone RKFO5 as described in Kristensen et al., (2000) for the Cyprina Clay. 
+This entry correlates chronostratigraphically to foraminiferal zone F as described by Seidenkranz (1993) in deep waters in the south of the Kattegat (palaeo)embayment.
+This entry correlates chronostratigraphically to the main part of the 'Lower Turritella terebra' molluscan zone of Larsen et al. (2009) in the centre of the Kattegat (palaeo)embayment: the middle and upper parts of regional foraminiferal zone to N3 (AV-F3).
+
+The part of the marine unit described here is the upper part of the unit, it marks the Eemian high stand stage in the West Baltic Sea, and follows transgressive stages (brackish onset and lower saline parts). In the upper saline stage, foraminiferal composition is mainly that of boreal/temperate water species including abundant Lusitanian species (Kristensen et al., 2000:110, their local zone RKFO5). Seidenkranz (1993: her Zone F) in the deeper waters of the Kattegat to the North of the Cyprina clay distribution area describes a foraminiferal compositional change that appears correlated. These conditions established halfway Zagwijn PAZ E4b, based on correlations to terrestrial sites some 250 km to the SW (Kristensen et al., 2000). For a good part of the duration of this upper saline stage, a secondary tidal marine connection between North Sea (German Bight) and the West Baltic may have functioned across Schleswig (Danish-German borderlands; sources in Konradi et al., 2005). 
+
+The truncation of the top of the Cyprina clays, makes that a regressive signal in the fill of the Wisla (Weichsel) palaeovalley (incursed by the Baltic Sea in the Eemian), is more representative to date the end of marine high stand conditions in the West Baltic, than records obtained on the unit itself. The Wisla regressive record starting towards the end of PAZ E5 is known from site Nowiny in Poland (Makowska, 1986 op cit. Funder et al., 2002). In deeper parts of the Baltic sea basin, periglacial marine conditions prevail into the Early Weichselian (e.g. site Plasumi, Kalnina, 2001 op cit. Funder et al. 2002). Houmark-Nielsen (1987: 167) cites the sequence at North Danish site Skaerumhede (Kundsen & Lykke-Andersen, 1982) as Danish stratigraphic evidence for return from deeper 'Borea-Lusitanic' to shallower 'Boreal' conditions during ""a late Eemian/Early Weichselian regression"", recorded in deep waters of the Kattegat (see also Larsen et al., 2009). Seidenkranz (1993: her Zone G), further south but still in the Kattegat deep waters also record a foraminiferal change back to boreal compositions. Winn and Erlenkeuser (1995, 1998) record a similar change in shallower North Sea waters (site Dagebuell; above -15 m MSL; Schleswig coast).",1-2,Equal to,MIS 5e,see main entry for West Baltic Sea Cyprinia Clay,124.0,114.0,"see main entry on West Baltic Sea Cyprinia Clay
+
+This entry for the brackish onset stage:
+For the duration estimate follows the calculations by Seidenkranz (1993: Fig. 9: 5000 years) and those featured in the varve-based PAZ chronology (Muller, 1974; Zagwijn, 1996) that Kristensen et al. (2000) also correlate to. The latter comes down to: 4000 (full length of PAZ E5) + 0.5 x 1100 (halfway PAZ E4b) + initial centuries of E6a = 4700 +/- 400.
+
+For the absolute age range 
+As Upper Age copies that registered for the entry 'North Sea' Zagwijn Eemian E5/E6 transition. 
+As Lower Age copies that registered for the entry 'North Sea' Zagwijn Eemian E4b and adds half the duration of E4b has a duration of 1100 years. Conservative onset age is 125.  Adding 550 years gives 124 ka. 
+
+As for other chronostratigraphic zone entries, this spans the conservative oldest onset age to a conservative youngest possible final age. The 4700 years of duration should be sought within this 10,000 year bracket.",No,Yes,4700,400,Yes,70,Kim Cohen,Kim Cohen,2020-08-09 09:37:00
+137,1,Eemian interglacial deposit,"Mangerud et al., 1979","Eemian (MIS 5e) deposits occur throughout northern Europe. They are bounded between glacial deposits of the Saalian Glaciation (MIS 6) and Weichselian Glaciation (MIS 5d-MIS 2). Eemian deposits are correlated to MIS 5e on the basis of stratigraphic position between the two glaciations, as well as pollen, diatom and macrofossil assemblages that indicate terrestrial and marine environments that were as warm or warmer than the Holocene. Weichselian interstadial and non-glacial sediments have assemblages that indicate colder conditions. Radiocarbon ages from Eemian deposits are non-finite.",,Equal to,MIS 5e,The caveat with any sediments that are correlated with the Eemian is that they could correlate with a pre-MIS 6 interglacial if climatic conditions were the same.,130.0,115.0,,Yes,No,,,No,,Evan Gowan,,2021-03-15 15:32:44
+101,1,FR Pumice,"Hayatsu et al., 1982
+ Koike and Machida, 2001
+ Tam and Yokoyama, 2021",Furumachi Pumice Layer dated to 90 Ka (Niigata),,Equal to,MIS 5,,0.0,0.0,90-0 ka,Yes,,,,,,Evan Tam,Evan Tam,2020-10-09 01:27:09
+15,1,Facies 1 One Tree Point,"Nichol, 2002
+ Ryan et al., 2020","Nearshore facies as described in type section:
+Moderately sorted, medium to coarse-grained sand comprising mostly quartz but with minor (<1%) amounts of heavy mineral (titanomagnetite) that are organised as mm-thick laminae in small-scale, trough and planar cross-beds. Locally, fossil imprints of Pectin shells and isolated gravel clasts are preserved near the base of the cliff section. Facies is of unknown thickness and in places is sub-lithified and dark brown in color, indicating B-horizon development in a podzolic soil profile. 
+
+Correlates to ground penetrating radar Facies 1 mapped elsewhere on the point.",,Equal to,MIS 5,MIS 5,134.0,96.0,"Age determined from thermoluminescence sample, OTP 1, of overlying aeolian deposits at the type section. However, two additional TL samples were taken of this aeolian unit providing younger ages. The youngest TL age (OTP3) is 85 +/- 8 ka.",No,,,,,,Deirdre Ryan,WALIS Admin,2020-01-27 16:58:39
+14,1,Facies 2 One Tree Point,"Nichol, 2002
+ Ryan et al., 2020","Lower beach facies as described at the type section:
+A gradational contact defines the upward transition from Facies 1 to this horizontal tabular-bedded and laminated, fine to medium grained sand (moderate to well-sorted) of mixed quartz and mafic mineralogy. Laminae are highlighted by heavy mineral concentrations, generally <1 cm thick. Locally, burrow traces (e.g. Skolithos) are preserved, but at relatively low density. The deposit, interpreted as basal nearshore / lower beach facies, has an average thickness of 2.5 m and upper contact is defined by a continuous planar bed of heavy mineral sand that in type section follows a northward strike slope of about 1 degree and ranges in thickness from 5 to 50 mm. This uppermost heavy mineral bed is also exposed in cross-section at other locations along the One Tree Point cliff exposure, where it dips seaward at 3 to 6 degrees. This upper contact with Facies 3 is used as the RSL indicator.
+Correlates to ground penetrating radar Facies II mapped elsewhere on the point.",2.5,Equal to,MIS 5,MIS 5,134.0,96.0,"Age determined from thermoluminescence sample, OTP 1, of overlying aeolian deposits at the type section. However, two additional TL samples were taken of this aeolian unit providing younger ages. The youngest TL age (OTP3) is 85 +/- 8 ka.",No,,,,,,Deirdre Ryan,WALIS Admin,2020-01-27 16:58:25
+13,1,Facies 3 One Tree Point,"Nichol, 2002
+ Ryan et al., 2020","Foredune facies as described in type section: 
+The uppermost facies, comprised of a 2 m thick deposit of generally massive, well-sorted quartz sand. Local physical structures include indistinct medium- to large-scale trouph cross-bedding and high-angle planar bedding lacking strong definition in outcrop. Facies is thickest beneath ridges and in intervening swales is overlain by 1-2 m of peat. 
+The contact between Facies 3 and Facies 2 can be traced along 3.4 km of dip-section on northeast facing shoreline of One Tree Point. At many localities this facies contact is defined by the position of the uppermost heavy mineral bed - interpreted as the high tide swash deposit (RSL indicator). The elevation of this contact dips sea-ward from a maximum of +6 m to +3 m with variations of +2.5 m from the trend line. ",2 m,Equal to,MIS 5,MIS 5,134.0,96.0,"Age determined from thermoluminescence sample, OTP 1, of overlying aeolian deposits at the type section. However, two additional TL samples were taken of this aeolian unit providing younger ages. The youngest TL age (OTP3) is 85 +/- 8 ka.",No,,,,,,Deirdre Ryan,WALIS Admin,2020-01-27 16:58:10
+84,1,"Galim, Carmel coast - beach deposits","Galili et al, 2007
+ Sivan and Galili, 2020","Beach deposite composed mainly of fine quartz sand, partly broken and crushed marine mollusk shells, few limestone and flint pebbles (2–4 cm long) and the dominant mollusk species of the families Glycymerididae, Donacidae and Cardiidae. Few fragments of gastropods were also found cemented. The unit includes also few man-made Middle Palaeolithic flint artifacts.",4,Equal to,MIS 5e,"The affiliation to MIS5 is based on the sedimentary characteristics, indicative faunal assemblage and flint man-made artifacts.  The flint assemblage in the beach deposit contains high percentage of Levallois products characteristic of the Middle Palaeolithic in the Mount Carmel caves to the east (Farrand, 1994). The unit is chronologically constrained by RTL ages of the units below and above (Neber 2002; Frechen et al., 2004)",,,,Yes,,,,,,Dorit Sivan and Ehud Galili,,2020-09-21 19:29:28
+94,1,Hachinohe Pumice,"Koike and Machida, 2001
+ Tam and Yokoyama, 2021","Hachinohe Pumice from the Towada Volcano in northern Honshu, Japan",,Equal to,MIS 5,,0.0,0.0,130-0,No,No,,,No,,Evan Tam,,2020-10-07 07:01:59
+103,1,Haebaru Formation,"Koba et al., 1979
+ Tam and Yokoyama, 2021","Coral surface on Takara island, dated by C14",,Equal to,MIS 1,,3.0,2.0,,Yes,,,,,,Evan Tam,,2020-10-10 11:45:49
+105,1,Hateruma Th/U age,"Ota and Omura, 1992
+ Tam and Yokoyama, 2021",U/Th dating on Coral correlated to MIS 5e on Hateruma Island,,Equal to,MIS 5,,135.0,121.0,128 +- 7 Ka,No,No,121,135,,,Evan Tam,Evan Tam,2020-10-11 11:21:20
+64,1,Hauriri Marine Terrace,"Dickson et al., 1974
+ Fleming, 1953
+ Pillans 2017
+ Pillans and Kohn 1981
+ Pillans, 1983
+ Ryan et al., 2020","This terrace is within the Quaternary marine terrace sequence of the Whanganui Basin. The terrace consists of a basal wave-cut platform overlain by shallow marine sediments, grading upwards into non-marine sediments, which include dunesand, loess, lignite, tephra, laharic, and fluvial deposits. ",,Equal to,MIS 5a,5a,0.0,0.0,"Constraint to the terrace sequence was made possible by fission-track ages for the Rangitawa Tephra (~400 ka) found within the coverbeds of middle Pleistocene terraces, the youngest being the Ararata Terrace. AAR analysis and calibration of fossil wood samples indicated minimum ages of 190 and 110 ka for the Ngarino and Rapanui Terraces, respectively. The Rapanui strandline is correlated MIS 5e (~120 ka). The age of other terraces was determined by their physical relationship to these terraces. 
+
+The Inaha Terrace is dated to ~100 ka.",,,,,,45,Deirdre Ryan,Deirdre Ryan,2020-06-19 21:45:28
+90,1,"Hazrot Yasaf, Galilee coast","Sivan et al., 1999
+ Sivan et al., 2016
+ Sivan and Galili, 2020","Two of the Yasaf M. subunits found in the type section in Rosh Hanikra to the north have been found in Hazrot Yasaf: the Strombus (SB) bearing unit overlying by the biological sandstone.  The SB unit is poorly sorted, coarse gravel unit composed of subrounded-rounded cobbles and few bolders, fine silt quartz and bioclasts including the diagnostic Strombus bubonius LMK (Persististrombus latus or Lentigo latus).",,Equal to,MIS 5e,,,,,Yes,,,,,,Dorit Sivan and Ehud Galili,,2020-10-05 08:20:04
+98,1,Hk-Tp,"Machida, 1987
+ Tam and Yokoyama, 2021",Hakone-Tokyo Pumice layer,,Equal to,MIS 3,,0.0,0.0,49-0 ka,,No,,,,,Evan Tam,,2020-10-08 01:46:17
+49,1,IJzer Valley (Belgium) Middle Pleistocene,"Bogemans et al., 2016
+ Hijma et al., 2012",Interglacial high stand tidal depositional levels from cycles before the Last Interglacial - based on with biostratigraphic and geological-mapping architectural evidence.,10,Equal to,MIS 7,MIS 7; in places possibly MIS 9,240.0,195.0,"195 ka: end of highstand MIS7a;  
+240 ka: begin high stand of MIS 7e.",No,No,,,No,,Kim Cohen,Kim Cohen,2020-08-03 16:04:22
+41,1,Inaha Marine Terrace,"Dickson et al., 1974
+ Fleming, 1953
+ Pillans 2017
+ Pillans and Kohn 1981
+ Pillans, 1983
+ Ryan et al., 2020","This terrace is within the Quaternary marine terrace sequence of the Whanganui Basin. The terrace consists of a basal wave-cut platform overlain by shallow marine sediments, grading upwards into non-marine sediments, which include dunesand, loess, lignite, tephra, laharic, and fluvial deposits. ",,Equal to,MIS 5c,5c,0.0,0.0,"Constraint to the terrace sequence was made possible by fission-track ages for the Rangitawa Tephra (~400 ka) found within the coverbeds of middle Pleistocene terraces, the youngest being the Ararata Terrace. AAR analysis and calibration of fossil wood samples indicated minimum ages of 190 and 110 ka for the Ngarino and Rapanui Terraces, respectively. The Rapanui strandline is correlated MIS 5e (~120 ka). The age of other terraces was determined by their physical relationship to these terraces. 
+
+The Inaha Terrace is dated to ~100 ka.",,,,,,45,Deirdre Ryan,Deirdre Ryan,2020-06-19 21:45:55
+104,1,Isensaki Coral,"Machida et al., 1976
+ Tam and Yokoyama, 2021","Lower Coral terrace at Tokunoshima Island, dated by C14",,Equal to,MIS 1,,0.0,0.0,,No,No,,,No,,Evan Tam,,2020-10-11 02:40:54
+57,1,Isipingo Formation on Durban Bluff,"Porat and Botha, 2008
+ Cooper and Green, 2020","Isipingo Formation aeolianite dated on Durban Bluff at 182+/- 18 (U-Th Ramsay and Cooper, 2002) and 203+/- 13 (Porat and Botha, 2008)",,Equal to,MIS 7,,,,,Yes,,,,,,Andrew Cooper,Andrew Cooper,2020-04-08 07:28:43
+100,1,KIP-7,"Suzuki, 1992
+ Tam and Yokoyama, 2021","Hakone Volcano Pumice fall deposit (Central Honshu), dates from fission track",,Equal to,MIS 5,,0.0,0.0,130-0 ka,Yes,,,,,,Evan Tam,,2020-10-08 06:03:29
+102,1,KT,"Hayatsu et al., 1982
+ Tam and Yokoyama, 2021","Kamitaru pumice layer sourced from the Iizuna volcano. Stratigraphically correlated tephra level, ",,Equal to,MIS 6,,150.0,130.0,,,,,,,,Evan Tam,,2020-10-10 11:24:08
+63,1,Karimbolien Limestone,"Battistini et al., 1976b
+ Battistini, 1965
+ Battistini, 1966
+ Boyden et al., 2021","Reef terrace with massive corals in growth position disconformably overlain by thick-reddish aeolianite that have undergone rubification.
+ 
+The Karimbolien is the name given to the MIS 5 transgression by Battistini. Here, Battistini and co-authors use the facies description made in northern Madagascar to constrain other formations on Madagascar as well as along the coast of East Africa. ",There is no explicit definition of thickness by Battistini,Equal to,"MIS 5e, MIS 5d","The massive corals in growth position have been dated with U/Th by alpha-counting (Battistini et. al., 1976) near Antisiranana (formally Diego Suarez).
+",160.0,130.0,"Upper uncertainty: ± 30 ka (2 sigma)
+Lower uncertainty: ± 40 ka (2 sigma) ",No,No,,,No,,Patrick Boyden,Patrick Boyden,2020-06-11 08:40:49
+74,1,Kattegat Stadial (Seidenkranz 93 zones C-D) ,"Houmark-Nielsen, 1987
+ Kristensen et al., 2000
+ Larsen et al., 2009
+ Seidenkranz, 1993","See the entry West Baltic Sea Cyprina clay for a full regional paleogeographical description.
+
+The Kattegat Stadial as recognised and defined in marine deposits in NE Denmark (Seidenkranz, 1993: her Zones C, D1 and D2), marks a latest Saalian stage of marine deposition in the vicinity of meltwater outflow from Scandinavian sources. 
+
+The Kattegat Stadial immediately precedes units showing considerable deepening of the water depth and isotopic compositional changes signaled in foraminiferal assemblages (Seidenkranz, 1993: her Zone E; see also: Larsen et al.,2009), that is the deep-water registration of terminated signals of meltwater fluxes, transgression (deepening of waters), climatic amelioration (warmer waters), altered marine connections, and marine biogeographic connection to southerly North Sea and English Channel waters (first Lusitanian species). For this reason, Seidenkranz' Zones E-F-G are correlated to the Eemian interglacial substages, while Zones A-B-C-D are regarded terminal stages of the Saalian glacial. Larsen et al. 2009 further review the marine deposits for mainland sites in North Denmark (Vendsyssel) where the marine sequence is much thicker (>70 m). Over there it stretches Latest Saalian ( Nuculana pernula N. minuta Zone ), Eemian ( Lower Turritella terebra Zone ), Early Weichselian ( Upper Turritella terebra Zone ) and Middle Weichselian intervals ( Abra nitida Zone, intercalated till units; Portlandia arctica Zone). The Nuculana pernula N. minuta Zone coincides/includes the Kattegat Stadial .
+
+In this sequence Zone C-D represent a stadial / local meltwater pulse (Zone C the true pulse, zone D1/D2 the recovery). Zone B is a brief interstadial (Flakket interstadial), Zone A is a prior local meltwater pulse/stadial, representing retreat of Scandinavian ice front from the Kattegat deep waters (head of a fjord like structure in mesozoic and paleogene substratum, border zone to the Precambric substrate of mainland of Norway and Sweden; Houmark-Nielsen 1987; Seidenkranz, 1993; Larsen et al. 2009).
+
+The isotopic signals from Zone A upto Zone E correlate broadly with the structure of Termination II (while Zone E to G would be the MIS5e plateau), although the vicinity of Scandinavian meltwater sources (melting ice sheets over Sweden; spillage of lake waters gathered in the deglaciating Baltic Sea basin) complicates direct correlation: Zone C-D could also be a local meltwater pulse timing late in Termination II. Seidenkranz (1993) correlates Zone B with the midpoint of the Termination (attributed an age of c. 131 ka; following Martinson et al. 1987). Alternatively, the very base of the sequence could be tied to that moment. ",0.5,Equal to,MIS 5e,"see main description. The marine unit lies sandwiched between glaciogenic units: it directly overlies a regionally extensive Saalian till unit (penultimate glacial); it is buried by considerable thickness of Weichselian outwash sands (last glacial), which overrode the unit.",128.0,122.0,"The Kattegat stadial has an estimated duration of 1200 years (based on relative abundance of forams; calibrated to density and foram abundances in Zones A and B below). Transitional zone D2 may coincide with Zone E1 in the Southern North Sea. Zone E coincides with E2b based on finding of Kristensen et al. 2000 in the West Baltic Sea (very onset Cyprina clay) and the initiated (deep water) boreo-lusitanian biota immigration into the West Baltic Sea. The Zone D2/Zone E transgression in the Kattegat on water depth and geographic grounds likely was just before the onset of registration in the West Baltic Sea, i.e. contemporary with Zone E2a in the terrestrial record of the Southern North Sea, Netherlands, and N Germany.",Yes,Yes,1200,200,Yes,70,Kim Cohen,Kim Cohen,2021-10-17 15:27:51
+106,1,Kikai Island U/Th Date,"Inagaki and Omura, 2006
+ Tam and Yokoyama, 2021",Dates provided for Kikai Island by U/Th dating,,Equal to,MIS 5,,126.0,118.0,122.1 +- 3.8,No,No,,38,,,Evan Tam,,2020-10-11 11:21:05
+107,1,Kita Daito U/Th Ages,"Ota and Omura, 1992
+ Ota et al., 1991
+ Tam and Yokoyama, 2021",U/Th dates obtained for Kita Daito,,Equal to,MIS 5,,124.0,121.0,123 +-1,No,No,,,,,Evan Tam,Evan Tam,2020-11-24 07:07:35
+127,1,Kwambu Section 5a Terrace,"Chappell and Shackleton, 1986
+ Thompson and Creveling, 2021","These terrace ages are determined through use of an orbitally tuned timescale, and are assigned in a table in the reporting paper.",,Equal to ,MIS 5a,5a,86.0,78.0,,No ,No ,,,,,Jessica Creveling and Schmitty Thompson,,2020-11-19 10:49:57
+128,1,Kwambu Section 5c Terrace,"Chappell and Shackleton, 1986
+ Thompson and Creveling, 2021","These terrace ages are determined through use of an orbitally tuned timescale, and are assigned in a table in the reporting paper.",,Equal to ,MIS 5c,5c,98.0,90.0,,No ,No ,,,,,Jessica Creveling and Schmitty Thompson,,2020-11-19 10:49:57
+135,1,MIS 5 Terrate Correlation,,"Correlation based upon physical characteristics including, but not limited to: sediments, pollen, altitude above modern sea level, and position within a terrace sequence. With regards to the latter, terrace age can be further refined to substages within MIS 5; i.e. MIS 5e, 5c, 5a.",,Equal to,MIS 5,MIS 5,0.0,0.0,,No,No,,,No,,Víctor Cartelle,,2021-02-13 00:26:25
+118,1,MIS 5a Bahía Inglesa Terrace ,"Marquardt et al., 2004
+ Thompson and Creveling, 2021","Higher terraces are dated at MIS 11 based upon warm water faunal association, thus the lower terraces are correlated to later MIS highstands, down to the MIS 5a highstand of this terrace. Radiometric dates from terraces in a seperate region (Morro Copiapo) date the lower terraces to MIS 5, and those terraces are correlated to the lowest Bahía Inglesa terraces.",,Equal to,MIS 5a,5a,86.0,78.0,,No,No,,,,,Jessica Creveling and Schmitty Thompson,,2020-11-19 10:49:57
+120,1,MIS 5a Bruhel Point Terrace,"Merritts and Bull 1989
+ Thompson and Creveling, 2021","Terrace correlation was based upon graphs of infered uplift (local terrace altitude minus New Guinea formation altitiude) vs inferred age. Probable age assignments were evaluated on the basis of 1) point configuration on uplift-rate diagrams, 2) known terrace ages and soil development profiles, 3) correlation of adjacent terrace based upon altitudinal position.",,Equal to ,MIS 5a,MIS designation was based upon the correlation of this terrace to a corresponding terrace in New Guinea dated to 81 ka.,86.0,78.0,,No ,No ,,,,,Jessica Creveling and Schmitty Thompson,,2020-11-19 10:49:57
+119,1,MIS 5c Bahía Inglesa Terrace ,"Marquardt et al., 2004
+ Thompson and Creveling, 2021","Higher terraces are dated at MIS 11 based upon warm water faunal association, thus the lower terraces are correlated to later MIS highstands, down to the MIS 5c highstand of this terrace. Radiometric dates from terraces in a seperate region (Morro Copiapo) date the lower terraces to MIS 5, and those terraces are correlated to the lowest Bahía Inglesa terraces.",,Equal to,MIS 5c,5c,98.0,90.0,,No,No,,,,,Jessica Creveling and Schmitty Thompson,,2020-11-19 10:49:57
+121,1,MIS 5c Bruhel Point Terrace,"Merritts and Bull 1989
+ Thompson and Creveling, 2021","Terrace correlation was based upon graphs of infered uplift (local terrace altitude minus New Guinea formation altitiude) vs inferred age. Probable age assignments were evaluated on the basis of 1) point configuration on uplift-rate diagrams, 2) known terrace ages and soil development profiles, 3) correlation of adjacent terrace based upon altitudinal position.",,Equal to ,MIS 5c,MIS designation was based upon the correlation of this terrace to a corresponding terrace in New Guinea.,98.0,90.0,,No ,No ,,,,,Jessica Creveling and Schmitty Thompson,,2020-11-19 10:49:57
+139,1,MIS 5e Bahamas (Jackson 2017),Jackson PhD Thesis,Combination of stratigraphic correlation and whole role A/I ratios. ,,Equal to,MIS 5e,Combination of stratigraphic correlation and whole role A/I ratios. ,0.0,0.0,,No,,,,,,Alexandra Villa,,2021-07-23 19:17:42
+67,1,MIS 5e in the Gibraltar Strait Area,"Zazo et al., 1999
+ Cerrone et al., 2021","Deposits in the Gibraltar Strait Area (Mediterranean and Atlantic coasts of Spain) attributed to MIS 5e. The chronological attribution is based on a combination of U-series on mollusks (dating to MIS 5), biostatigraphy and relative stratigraphy across deposits.",,Equal to,MIS 5e,"While the attribution in the original paper is to MIS 5e, we conservatively attribute this stratigraphic context to general MIS 5, due to the lack of clear absolute age constraints.",0.0,0.0,,No,No,,,No,,Alessio Rovere,Alessio Rovere,2021-05-25 12:55:25
+75,1,MIS5.5 notch in RHS,"Sisma Ventura et al., 2017
+ Sivan et al., 1999
+ Sivan et al., 2016
+ Sivan and Galili, 2020
+ Sivan and Galili, 2020","The RTK measurements indicate that the floor of the RH 4.1 notch is at+0.50 m and the height is 1.79m. Patches of MIS5e marine conglomerate deposits (Sivan et al.,1999, 2016) of the Strombus sub-unit cover the notch floor overlying by  the upper MIS5e bioclastic sandstone subunit. In places, the bioclastic sandstone cover the notch. ",The SB unit is relatively thin (~0.1 to 0.2m) overlying by the biological sandstone that can reach ~0.5m. ,Equal to,MIS 5e,"Dating of the notches phase is based on field relations and local stratigraphical chronology (correlation to RHN and RHS chronostrtigraphy seeL Sivan et al., 2016) RH-4.1 notch was created in the first part of MIS5.5 (the abrasive phase) followed by the deposition phase started with the deposition of the SB unit and later by the biological sandstone that marks the last phase of MIS5.5. ",,,,No,,,,,,Dorit Sivan and Ehud Galili,,2020-09-13 08:14:55
+116,1,Maegomori,"Koba et al., 1979
+ Tam and Yokoyama, 2021",Dated Coral Layer on Takara Island,,Equal to,MIS 1,,3.0,2.0,,Yes,,,,,,Evan Tam,,2020-10-30 01:48:20
+81,1,"Mearot, Carmel coast - Beach deposits","Galili et al., 2007
+ Mauz et al., 2012
+ Sivan and Galili, 2020","The beach deposites are mainly composed of fine quartz sand, partly broken and crushed marine mollusk shells, and clay matrix with man-made flint artifacts and bone of a large mammal The dominant mollusk species belong to the families Glycymerididae, Cardiidae and Donacidae.",4,Equal to,MIS 5e,"The affiliation to MIS5 is based on the sedimentary characteristics, indicative faunal assemblage and flint man-made artifacts.  One sample from the sequence  (unknown elevation) was OSL dated to 113±5ka (Mauz et al., 2012). The unit is also chronologically constrained by RTL ages of the units below and above (Neber 2002; Frechen et al., 2004) ",,,,Yes,,,,,,Dorit Sivan and Ehud Galili,Dorit Sivan and Ehud Galili,2020-10-05 08:11:58
+60,1,Mediterranean AAR Aminozone E,"Cerrone et al., 2021","This constraint is added for papers in the Mediterranean where samples are reported to fall into the AAR Aminozone E, but no details are given on aminoacid ratios.",,Equal to,MIS 5e,,,,,No,No,,,No,,Alessio Rovere,,2020-05-06 10:40:16
+48,1,Mediterranean MIS 5e notches,"Antonioli et al., 2018
+ Cerrone et al., 2021",Tidal notches attributed to MIS 5e on the basis of nearby deposits associated to the interglacial.,,Equal to,MIS 5,,,,,No,,,,,,Alessio Rovere,,2020-03-26 11:38:51
+88,1,Megadim quarry,"Galili et al, 2007
+ Galili et al., 2017
+ Sivan and Galili, 2020","The unit is located some 100 m east of the coastline, at elevations of +3 to +10 m ASL. It is exposed on the floor of a modern Kurkar quarry and on its eastern wall. The deposit consists of cemented crushed shells. The deposit is stratified between overlying and underlying kurkar deposits. The beach deposit composed of carbonate cemented fine quartz sand, whole, partly broken and crushed marine mollusk shells. The dominant mollusk species belonged to the families Glycymerididae, Cardiidae and Donacidae. ",7,Equal to,MIS 5e,"The affiliation to MIS5 is based on the sedimentary characteristics, stratigraphy and field relations considerations.  ",,,,Yes,,,,,,Dorit Sivan and Ehud Galili,Dorit Sivan and Ehud Galili,2020-10-04 08:10:29
+85,1,"Megadim, Carmel coast - beach deposits","Frechen et al, 2004
+ Galili et al, 2007
+ Neber et al, 2002
+ Sivan and Galili, 2020","The beach deposits are composed mainly of fine quartz sand, partly broken and crushed marine mollusk shells and a few flint artifacts.",1,Equal to,MIS 5e,"The affiliation to MIS5 is based on the sedimentary characteristics and indicative faunal assemblage.  The unit is chronologically constrained by RTL ages of the units below and above (Neber 2002; Frechen et al., 2004) ",,,,Yes,,,,,,Dorit Sivan and Ehud Galili,,2020-09-22 06:31:53
+108,1,Minami Daito U/Th Ages,"Ota and Omura, 1992
+ Ota et al., 1991
+ Tam and Yokoyama, 2021",U/Th ages for Minami Daito ,,Equal to,MIS 5,,124.0,121.0,123 +- 1 Ka,No,No,,,,,Evan Tam,Evan Tam,2020-11-24 07:08:17
+99,1,Miwa-L,"Suzuki, 1992
+ Tam and Yokoyama, 2021",Correlation to Izuna-Nishiyama Pumice Layers,,Equal to,MIS 5,,0.0,0.0,130-0ka,Yes,No,,,,,Evan Tam,,2020-10-08 06:02:11
+87,1,"Nahal Bir Ibdawiya, Carmel coast ","Frechen et al, 2004
+ Galili et al, 2007
+ Neber et al, 2002
+ Sivan and Galili, 2020","The unit is located some 200 m east of the coastline, at elevations of +5 to +9 m ASL. on a small hill disturbed by modern quarrying, and on the eastern wall of a modern railway trench, north -south oriented. 
+The deposit is adjacent to the eastern slopes of the Carmel coast ridge, south of the channel of Nahal Bir Ibdawiya, a 150m long, 50m wide beach deposit is exposed. The gray colored deposit is composed mainly of fine quartz sand, partly broken and crushed marine mollusk shells. The dominant mollusk species belong to the families Glycymerididae and Donacidae.  Microfauna of shallow sea and foraminifera (mainly Miliolidea), and fragments of coralline, red algae and echinoidea algae were also identified (Neber, 2002; Frechen et al., 2004). Unweathered Middle Paleolithic artifacts made of white flint were identified within this beach deposit.",4,Equal to,MIS 5e,"The affiliation to MIS5 is based on the sedimentary characteristics, indicative faunal assemblage and flint man-made artifacts.  The unit is chronologically constrained by RTL ages of the units below and above (Neber 2002; Frechen et al., 2004) ",,,,Yes,,,,,,Dorit Sivan and Ehud Galili,Dorit Sivan and Ehud Galili,2020-10-04 08:11:03
+86,1,"Nahal Ovadia, Carmel coast - beach deposits","Galili et al, 2007
+ Sivan and Galili, 2020","Cemented beach deposit is exposed on land, on the bottom and south of the Nahal Ovadia channel and also in a petch of about 30X60 m around 150m offshore.  It composed of fine quartz sand, partly broken and crushed marine mollusk shells including larger remains of dominant mollusk  species belong to the families Glycymerididae and Cardiidae. ",,Equal to,MIS 5e,The affiliation to MIS5 is based on the sedimentary characteristics and indicative faunal assemblage ,,,,Yes,,,,,,Dorit Sivan and Ehud Galili,,2020-09-22 06:37:42
+24,1,North Sea 'Zagwijn' Eemian PAZ E1 100 yrs,"Behre, 1962
+ Funder et al., 2002
+ Jessen & Milthers, 1928
+ Litt, 1990
+ Mamakowa, 1976
+ Menke & Tynni, 1984
+ Muller, 1974
+ Selle, 1962
+ Turner, 2002b
+ Zagwijn, 1961
+ Zagwijn, 1996","Pollen Association zone E1 cf. Zagwijn 1996.
+E1 Betula-Pinus acme zones
+
+This is Zone I cf. Selle, 1962; Muller, 1974
+This is the very end of the lateglacial Pollen Zone I cf.  Behre, 1962; Menke & Tynne, 1984.
+This is zone 'c' of Jessen & Milthers 1928 (op. cit. Funder et al. 2002)
+",0.1-1.0,Equal to,MIS 5e,MIS 5e,127.0,122.0,"Duration of PAZ E1 (Zagwijn 1996: Fig. 2): 100 yrs in NW Germany counted from varved lakes (sites near Luneburg, Muller 1974) in the vicinity of last residual Scandinavian ice masses (continental climate). Apparently similar durations in West-central (Sirocko et al. 2005: Eifel ELSA) and in East-central Germany (Litt, 1990: Groebern, north of Leipzig). Duration of PAZ E1 phase is potentially a bit longer/earlier in Southwestward direction, e.g. Southern North Sea and Eastern English Channel (atlantic climate) - perhaps 300 years? The absolute age confidence interval (i.e. the time  between Lower and Upper Age) measures a few millennia, this is much larger than the above duration uncertainty.
+
+See the general entry "" North Sea 'Zagwijn' Eemian pollenzones E1-E6 "" for a longer note on absolute age and total duration of the Eemian and its relation with phases within MIS5e and 5d.",Yes,Yes,100,10,Yes,23,Kim Cohen,Kim Cohen,2020-08-03 15:19:57
+26,1,North Sea 'Zagwijn' Eemian PAZ E2 425 yrs,"Behre, 1962
+ Funder et al., 2002
+ Jessen & Milthers, 1928
+ Litt, 1990
+ Mamakowa, 1976
+ Menke & Tynni, 1984
+ Muller, 1974
+ Selle, 1962
+ Turner, 2002b
+ Zagwijn, 1961
+ Zagwijn, 1996","Pollen Association zone E2 (E2a+E2b) cf. Zagwijn 1996.
+E2a Pinus-Ulmus acme zone.
+E2b Pinus-Quercus acme zone.
+
+This is Zone IIa and lower half of Zone IIb cf. Selle, 1962; Muller, 1974. 
+This is zone II and lower half of Zone III cf Behre, 1962; Menke & Tynni, 1984.
+This is zone 'd' and the lower part of zone 'e' of Jessen & Milthers (1928), op. cit. Funder et al. (2002:Table 2)",0.5-1.0,Equal to,MIS 5e,MIS 5e,126.0,121.0,"Duration of PAZ E2 (Zagwijn 1996: Fig. 2): c. 425 yrs in NW Germany counted from varved lakes (sites near Luneburg, Muller 1974) in the vicinity of last residual Scandinavian ice masses (continental climate). Apparently similar durations in West-central (Sirocko et al. 2005: Eifel ELSA) and in East-central Germany (Litt, 1990: Groebern, north of Leipzig). Duration of PAZ E2a phase is potentially a bit longer/earlier in Southwestward direction, e.g. Southern North Sea and Eastern English Channel (atlantic climate) - perhaps 500 years? The absolute age confidence interval (i.e. the time  between Lower and Upper Age) measures a few millennia, this is much larger than the above duration uncertainty.
+See the general entry "" North Sea 'Zagwijn' Eemian pollenzones E1-E6 "" for a longer note on absolute age and total duration of the Eemian and its relation with phases within MIS5e and 5d.",Yes,Yes,425,30,Yes,23,Kim Cohen,Kim Cohen,2020-08-03 15:19:35
+25,1,North Sea 'Zagwijn' Eemian PAZ E2a 200 yrs,"Behre, 1962
+ Funder et al., 2002
+ Jessen & Milthers, 1928
+ Litt, 1990
+ Mamakowa, 1976
+ Menke & Tynni, 1984
+ Muller, 1974
+ Selle, 1962
+ Turner, 2002b
+ Zagwijn, 1961
+ Zagwijn, 1996","Pollen Association zone E2a cf. Zagwijn 1996.
+E2a Pinus-Ulmus acme zone
+
+This is Zone IIa cf. Selle, 1962; Muller, 1974. 
+This is Zone II cf. Behre, 1962; Menke & Tynni, 1984
+This is zone 'd' of Jessen & Milthers (1928), op. cit. Funder et al. (2002:Table 2)",0.2-1.0,Equal to,MIS 5e,MIS 5e,126.0,122.0,"Duration of PAZ E2 (Zagwijn 1996: Fig. 2): 200 yrs in NW Germany counted from varved lakes (sites near Luneburg, Muller 1974) in the vicinity of last residual Scandinavian ice masses (continental climate). Apparently similar durations in West-central (Sirocko et al. 2005: Eifel ELSA) and in East-central Germany (Litt, 1990: Groebern, north of Leipzig). Duration of PAZ E2a phase is potentially a bit longer/earlier in Southwestward direction, e.g. Southern North Sea and Eastern English Channel (atlantic climate) - perhaps 500 years? The absolute age confidence interval (i.e. the time  between Lower and Upper Age) measures a few millennia, this is much larger than the above duration uncertainty.
+
+See the general entry "" North Sea 'Zagwijn' Eemian pollen zones E1-E6 "" for a longer note on absolute age and total duration of the Eemian and its relation with phases within MIS5e and 5d.",Yes,Yes,200,20,Yes,26,Kim Cohen,Kim Cohen,2021-10-16 17:38:21
+27,1,North Sea 'Zagwijn' Eemian PAZ E2b 225 yrs,"Behre, 1962
+ Funder et al., 2002
+ Jessen & Milthers, 1928
+ Kristensen et al., 2000
+ Litt, 1990
+ Mamakowa, 1976
+ Menke & Tynni, 1984
+ Muller, 1974
+ Selle, 1962
+ Turner, 2002b
+ Zagwijn, 1961
+ Zagwijn, 1996","Pollen Association zone E2b cf. Zagwijn, 1961-1996
+E2b Pinus-Quercus acme zone.
+
+This is lower half of Zone IIb cf. Selle, 1962; Muller, 1974. 
+This is lower half of Zone III cf. Behre, 1962; Menke & Tynni, 1984.
+This is the lowermost part of zone 'e' of Jessen & Milthers (1928), op. cit. Funder et al. (2002:Table 2)
+This is the uppermost part of zone 'd' of Jessen & Milthers (1928), op. cit. Kristensen et al. (2000:107, ""RKFO2 Betula-Pinus-Alnus"")",0.2-0.5,Equal to,MIS 5e,MIS 5e,126.0,121.0,"Duration of PAZ E2b (Zagwijn 1996: Fig. 2): c. 225 yrs in NW Germany counted from varved lakes (sites near Luneburg, Muller 1974) in the vicinity of last residual Scandinavian ice masses (continental climate). Apparently similar durations in West-central (Sirocko et al. 2005: Eifel ELSA) and in East-central Germany (Litt, 1990: Groebern, north of Leipzig). 
+
+
+
+See the general entry "" North Sea 'Zagwijn' Eemian pollen zones E1-E6 "" for a longer note on absolute age and total duration of the Eemian and its relation with phases within MIS5e and 5d.",Yes,Yes,225,25,Yes,26,Kim Cohen,Kim Cohen,2020-08-03 15:20:24
+30,1,North Sea 'Zagwijn' Eemian PAZ E3 675 yrs,"Behre, 1962
+ Funder et al., 2002
+ Jessen & Milthers, 1928
+ Konradi et al., 2005
+ Litt, 1990
+ Mamakowa, 1976
+ Menke & Tynni, 1984
+ Muller, 1974
+ Selle, 1962
+ Turner, 2002b
+ Zagwijn, 1961
+ Zagwijn, 1996","Pollen Association zone E3a-E3b cf. Zagwijn 1961-1996
+E3a Quercus acme zone c. 225 yrs
+E3b Quercus-Corylus acme zone c. 450 yrs
+
+This is equivalent to Zones IIIa+IIIb cf. Selle (1962) op cit. Konradi et al.  (2005: section 5.2.3)
+This is zone IVa of Behre 1962.
+This is the upper part of Zone IIb + Zone IIIa cf. Muller 1974. 
+This is the upper half of Zone III + the lower one-third of Zone IVa cf Menke & Tynni 1984.
+This is the upper part of zone 'e' and lower part of zone 'fa' of Jessen & Milthers (1928), op. cit. Funder et al. (2002:Table 2)",0.2-0.5,Equal to,MIS 5e,MIS 5e,126.0,121.0,"Duration of PAZ E3 (E3a +E3b (Zagwijn 1996: Fig. 2): 225+450 yrs in NW Germany counted from varved lakes (sites near Luneburg, Muller 1974). Apparently similar durations in West-central (Sirocko et al. 2005: Eifel ELSA) and in East-central Germany (Litt, 1990: Groebern, north of Leipzig). West-East (Atlantic-Continental) climatic zonations over NW Europe become similar to that of the Early Holocene during this phase (Zagwijn 1996).
+
+See the general entry "" North Sea 'Zagwijn' Eemian pollen zones E1-E6 "" for a longer note on absolute age and total duration of the Eemian and its relation with phases within MIS5e and 5d.",Yes,Yes,675,45,Yes,23,Kim Cohen,Kim Cohen,2021-10-16 17:12:54
+28,1,North Sea 'Zagwijn' Eemian PAZ E3a 225 yrs,"Behre, 1962
+ Funder et al., 2002
+ Jessen & Milthers, 1928
+ Konradi et al., 2005
+ Litt, 1990
+ Mamakowa, 1976
+ Menke & Tynni, 1984
+ Muller, 1974
+ Selle, 1962
+ Turner, 2002b
+ Zagwijn, 1961
+ Zagwijn, 1996","Pollen Association zone E3a cf. Zagwijn 1961-1996
+E3a Quercus acme zone.
+
+This is the (lower part of) Zone IIIa cf. Selle 1962 (op. cit. Konradi et al. 2005:section 8) 
+This is the lower half of Zone III cf. Behre 1962
+This is the upper half of Zone IIb cf. Muller 1974.
+This is the upper half of Zone III cf Menke & Tynni 1984.
+This is the upper part of zone 'e' of Jessen & Milthers (1928), op. cit. Funder et al. (2002:Table 2)",0.2-0.5,Equal to,MIS 5e,MIS 5e,126.0,121.0,"Duration of PAZ E3a (Zagwijn 1996: Fig. 2): c. 225 yrs in NW Germany counted from varved lakes (sites near Luneburg, Muller 1974) in the vicinity of last residual Scandinavian ice masses (continental climate). Apparently similar durations in West-central (Sirocko et al. 2005: Eifel ELSA) and in East-central Germany (Litt, 1990: Groebern, north of Leipzig). 
+
+
+
+See the general entry "" North Sea 'Zagwijn' Eemian pollen zones E1-E6 "" for a longer note on absolute age and total duration of the Eemian and its relation with phases within MIS5e and 5d.",Yes,Yes,225,25,Yes,30,Kim Cohen,Kim Cohen,2020-08-03 15:37:38
+29,1,North Sea 'Zagwijn' Eemian PAZ E3b 450 yrs,"Behre, 1962
+ Benda & Schneekloth, 1965
+ Funder et al., 2002
+ Jessen & Milthers, 1928
+ Konradi et al., 2005
+ Litt, 1990
+ Mamakowa, 1976
+ Menke & Tynni, 1984
+ Muller, 1974
+ Selle, 1962
+ Turner, 2002b
+ Zagwijn, 1961
+ Zagwijn, 1996","Pollen Association zone E3b cf. Zagwijn 1961-1996
+E3b Quercus-Corylus acme zone.
+
+This is Zone IIIa+b cf. Selle 1962 (op. cit. Konradi et al. 2005:section 8)
+This is Zone IIIa cf. Muller 1974. 
+This is the lower one-third of Zone IVa cf Menke & Tynni 1984
+This is the lower part of zone 'fa' of Jessen & Milthers 1928 (op. cit. Benda & Schneeklott 1965:Table 2; Funder et al. 2002:Table 2).
+This is approximately equivalent to the lower part of Eem zone 4 cf. Andersen 1965 (op. cit. Konradi et al., 2005: section 5.2.3)
+",0.2-0.5,Equal to,MIS 5e,MIS 5e,126.0,121.0,"Duration of PAZ E3b (Zagwijn 1996: Fig. 2): 450 yrs in NW Germany counted from varved lakes (sites near Luneburg, Muller 1974) in the vicinity of last residual Scandinavian ice masses (continental climate). Apparently similar durations in West-central (Sirocko et al. 2005: Eifel ELSA) and in East-central Germany (Litt, 1990: Groebern, north of Leipzig). 
+
+See the general entry "" North Sea 'Zagwijn' Eemian pollen zones E1-E6 "" for a longer note on absolute age and total duration of the Eemian and its relation with phases within MIS5e and 5d.",Yes,Yes,450,35,Yes,30,Kim Cohen,Kim Cohen,2020-08-03 15:28:15
+33,1,North Sea 'Zagwijn' Eemian PAZ E4 1800 yrs,"Behre, 1962
+ Funder et al., 2002
+ Jessen & Milthers, 1928
+ Litt, 1990
+ Mamakowa, 1976
+ Menke & Tynni, 1984
+ Muller, 1974
+ Selle, 1962
+ Turner, 2002b
+ Zagwijn, 1961
+ Zagwijn, 1996","Pollen Association zone E4 cf. Zagwijn 1961-1996.
+E4a Corylus acme zone c. 700 yrs
+E4b Taxus(/Tilia) acme zone c. 1000-1200 yrs
+
+This is Zone IIIb + IIIc cf. Selle 1962, Muller 1974. 
+This is the upper two thirds of Zone IVa  + Zone  IVb cf. Behre 1962, Menke & Tynni 1984. 
+This is the upper part of zone 'fa' + the full zone 'fb' of Jessen & Milthers (1928), op. cit. Funder et al. (2002:Table 2)",1-8,Equal to,MIS 5e,MIS 5e,125.0,119.0,"Duration of PAZ E4 (E4a + E4b)  (Zagwijn 1996: Fig. 2): c. 1700-1900 yrs in NW Germany counted from varved lakes (sites near Luneburg, Muller 1974). Apparently similar durations in West-central (Sirocko et al. 2005: Eifel ELSA) and in East-central Germany (Litt, 1990: Groebern, north of Leipzig). 
+
+
+
+See the general entry "" North Sea 'Zagwijn' Eemian pollen zones E1-E6 "" for a longer note on absolute age and total duration of the Eemian and its relation with phases within MIS5e and 5d.",Yes,Yes,1800,110,Yes,23,Kim Cohen,Kim Cohen,2020-08-03 15:44:49
+31,1,North Sea 'Zagwijn' Eemian PAZ E4a 700 yrs,"Behre, 1962
+ Funder et al., 2002
+ Jessen & Milthers, 1928
+ Konradi et al., 2005
+ Litt, 1990
+ Mamakowa, 1976
+ Menke & Tynni, 1984
+ Muller, 1974
+ Selle, 1962
+ Turner, 2002b
+ Zagwijn, 1961
+ Zagwijn, 1996","Pollen Association zone E4a cf. Zagwijn 1961-1996
+E4a Corylus acme zone c. 700 yrs
+
+This is approximately equivalent to zone IIIc of Selle (1962) op cit. Konradi et al.  (2005: section 5.2.3)
+This is Zone IVb cf. Behre 1962
+This is Zone IIIb cf. Muller 1974. 
+This is the upper two thirds of Zone IVa cf Menke & Tynni 1984. 
+This is approximately equivalent to the upper part of zone 4 cf. Andersen (1965) op cit. Konradi et al. (2005: section 5.2.3)
+This is the upper part of zone 'fa' of Jessen & Milthers (1928), op. cit. Funder et al. (2002:Table 2)",0.2-0.5,Equal to,MIS 5e,MIS 5e,125.0,120.0,"Duration of PAZ E4a (Zagwijn 1996: Fig. 2): 700 yrs in NW Germany counted from varved lakes (sites near Luneburg, Muller 1974). Apparently similar durations in West-central (Sirocko et al. 2005: Eifel ELSA) and in East-central Germany (Litt, 1990: Groebern, north of Leipzig). 
+
+See the general entry "" North Sea 'Zagwijn' Eemian pollen zones E1-E6 "" for a longer note on absolute age and total duration of the Eemian and its relation with phases within MIS5e and 5d.",Yes,Yes,700,50,Yes,33,Kim Cohen,Kim Cohen,2020-08-03 15:45:15
+32,1,North Sea 'Zagwijn' Eemian PAZ E4b 1100 yrs,"Behre, 1962
+ Funder et al., 2002
+ Jessen & Milthers, 1928
+ Litt, 1990
+ Mamakowa, 1976
+ Menke & Tynni, 1984
+ Muller, 1974
+ Selle, 1962
+ Turner, 2002b
+ Zagwijn, 1961
+ Zagwijn, 1996","Pollen Association zone E4b cf. Zagwijn 1961-1996
+E4b Taxus acme zone c. 1000-1200 yrs  
+in NW Germany/Denmark: Tilia (+Taxus) acme zone 
+
+This is Zone IIIc cf. Selle, 1962; Muller 1974. 
+This is Zone IVb cf. Behre, 1962; Menke & Tynni 1984. 
+This is zone 'fb' of Jessen & Milthers (1928), op. cit. Funder et al. (2002:Table 2)",0.2-0.5,Equal to,MIS 5e,MIS 5e,125.0,119.0,"Duration of PAZ E4b (Zagwijn 1996: Fig. 2): 1000-1200 yrs in NW Germany counted from varved lakes (sites near Luneburg, Muller 1974). Apparently similar durations in West-central (Sirocko et al. 2005: Eifel ELSA) and in East-central Germany (Litt, 1990: Groebern, north of Leipzig). 
+See the general entry "" North Sea 'Zagwijn' Eemian pollen zones E1-E6 "" for a longer note on absolute age and total duration of the Eemian and its relation with phases within MIS5e and 5d.",Yes,Yes,1100,100,Yes,33,Kim Cohen,Kim Cohen,2020-08-03 15:45:03
+34,1,North Sea 'Zagwijn' Eemian PAZ E5 4000 yrs,"Behre, 1962
+ Funder et al., 2002
+ Jessen & Milthers, 1928
+ Litt, 1990
+ Mamakowa, 1976
+ Menke & Tynni, 1984
+ Muller, 1974
+ Selle, 1962
+ Turner, 2002b
+ Zagwijn, 1961
+ Zagwijn, 1996","Pollen Association zone E5 cf. Zagwijn 1961-1996.
+
+E5 Carpinus acme zone c. 4000 yrs
+E5a Carpinus acme zone (Zagwijn 1983)
+E5b Pinus-Carpinus acme zone (Zagwijn 1983)
+
+This is Zone IV cf. Selle 1962, Muller 1974. 
+This is Zone V cf. Behre 1962, Menke & Tynni 1984. 
+This is zone 'g' of Jessen & Milthers (1928), op. cit. Funder et al. (2002:Table 2)",1-10m,Equal to,MIS 5e,MIS 5e,124.0,115.0,"Duration of PAZ E5  (Zagwijn 1996: Fig. 2): c. 4000 yrs in NW Germany counted from varved lakes (sites near Luneburg, Muller 1974). Apparently similar durations in West-central (Sirocko et al. 2005: Eifel ELSA) and in East-central Germany (Litt, 1990: Groebern, north of Leipzig). 
+
+
+
+See the general entry "" North Sea 'Zagwijn' Eemian pollen zones E1-E6 "" for a longer note on absolute age and total duration of the Eemian and its relation with phases within MIS5e and 5d.",Yes,Yes,4000,250,Yes,23,Kim Cohen,Kim Cohen,2020-08-03 15:47:18
+38,1,North Sea 'Zagwijn' Eemian PAZ E5/6 break,"Behre, 1962
+ Funder et al., 2002
+ Jessen & Milthers, 1928
+ Litt, 1990
+ Mamakowa, 1976
+ Menke & Tynni, 1984
+ Muller, 1974
+ Selle, 1962
+ Turner, 2002b
+ Zagwijn, 1961
+ Zagwijn, 1996","Break between PAZ E5b and PAZ E6a
+Pollen Association Zone E5(b) cf. Zagwijn 1961-1996.
+Pollen Association Zone E6a cf. Zagwijn 1961-1996.
+
+Duration arbitrary set to 600+/-200  years: the last 300+/-150 years of PAZ E5 and the first 300+/-150 years of E6a (pseudo)varved trajectories. 
+E5b = Pinus-Carpinus acme zone (Zagwijn 1983; about 1000-2000 years before the E5/E6 break)
+E6a = Picea acme zone (and lasts c. 2000 years beyond the E5/6 break) 
+
+This is the break between Zone IV and Zone V cf. Selle 1962, Muller 1974. 
+This is the break between Zone V and Zone VI cf. Behre 1962, Menke & Tynni 1984. 
+This is the break between zone 'g' and zone 'h' of Jessen & Milthers (1928), op. cit. Funder et al. (2002:Table 2)",1-2m,Equal to,"MIS 5e, MIS 5d","MIS 5e, MIS 5d",120.0,114.0,"The PAZ E5/E6 break is approximately synchronous to the MIS5e, MIS 5d break (could be up to a few 1000 years before and after). See Sirocko et al. (2005); Sier et al. (2015).
+
+See the general entry "" North Sea 'Zagwijn' Eemian pollen zones E1-E6 "" for a longer note on absolute age and total duration of the Eemian and its relation with phases within MIS5e and 5d.  ",Yes,Yes,600,200,Yes,23,Kim Cohen,Kim Cohen,2020-08-03 15:52:07
+35,1,North Sea 'Zagwijn' Eemian PAZ E6 4000 yrs,"Behre, 1962
+ Funder et al., 2002
+ Jessen & Milthers, 1928
+ Litt, 1990
+ Mamakowa, 1976
+ Menke & Tynni, 1984
+ Muller, 1974
+ Selle, 1962
+ Turner, 2002b
+ Zagwijn, 1961
+ Zagwijn, 1996","Pollen Association zone E6 cf. Zagwijn 1961-1996.
+E6a Picea acme zone c. 2000 yrs
+E6b Pinus acme zone c. 2000 yrs
+
+This is Zone V + Zone VI cf. Selle 1962; Muller 1974. 
+This is Zone VI + Zone VII cf. Behre 1962, Menke & Tynni 1984. 
+This is zone 'h'+ zone 'i' of Jessen & Milthers (1928), op. cit. Funder et al. (2002:Table 2)",1-3m,Equal to,"MIS 5e, MIS 5d","MIS 5e, MIS 5d",120.0,110.0,"Duration of PAZ E6  (Zagwijn 1996: Fig. 2): c. 4000 yrs in NW Germany counted from varved lakes (sites near Luneburg, Muller 1974). Apparently similar durations in West-central (Sirocko et al. 2005: Eifel ELSA) and in East-central Germany (Litt, 1990: Groebern, north of Leipzig). 
+
+See the general entry "" North Sea 'Zagwijn' Eemian pollen zones E1-E6 "" for a longer note on absolute age and total duration of the Eemian and its relation with phases within MIS5e and 5d.",Yes,Yes,4000,250,Yes,23,Kim Cohen,Kim Cohen,2020-08-03 15:48:56
+36,1,North Sea 'Zagwijn' Eemian PAZ E6a 2000 yrs,"Behre, 1962
+ Funder et al., 2002
+ Jessen & Milthers, 1928
+ Litt, 1990
+ Mamakowa, 1976
+ Menke & Tynni, 1984
+ Muller, 1974
+ Selle, 1962
+ Turner, 2002b
+ Zagwijn, 1961
+ Zagwijn, 1996","Pollen Association zone E6a cf. Zagwijn 1961-1996.
+E6a Picea acme zone c. 2000 yrs
+
+This is Zone V cf. Selle 1962, Muller 1974. 
+This is Zone VI cf. Behre 1962, Menke & Tynni 1984. 
+This is zone 'h' of Jessen & Milthers (1928), op. cit. Funder et al. (2002:Table 2)",1-2m,Equal to,"MIS 5e, MIS 5d","MIS 5e, MIS 5d",120.0,112.0,"Duration of PAZ E6a (Zagwijn 1996: Fig. 2): c. 2000 yrs in NW Germany counted from varved lakes (sites near Luneburg, Muller 1974). Apparently similar durations in West-central (Sirocko et al. 2005: Eifel ELSA) and in East-central Germany (Litt, 1990: Groebern, north of Leipzig). 
+
+
+
+See the general entry "" North Sea 'Zagwijn' Eemian pollen zones E1-E6 "" for a longer note on absolute age and total duration of the Eemian and its relation with phases within MIS5e and 5d.",Yes,Yes,2000,180,Yes,35,Kim Cohen,Kim Cohen,2020-08-03 15:50:34
+37,1,North Sea 'Zagwijn' Eemian PAZ E6b 2000 yrs,"Behre, 1962
+ Funder et al., 2002
+ Jessen & Milthers, 1928
+ Litt, 1990
+ Mamakowa, 1976
+ Menke & Tynni, 1984
+ Muller, 1974
+ Selle, 1962
+ Turner, 2002b
+ Zagwijn, 1961
+ Zagwijn, 1996","Pollen Association zone E6b cf. Zagwijn, 1961-1996.
+E6b Pinus acme zone c. 2000 yrs
+
+This is Zone VI cf. Selle 1962, Muller 1974. 
+This is Zone VII cf. Behre 1962, Menke & Tynni 1984. 
+This is zone 'i' of Jessen & Milthers (1928), op. cit. Funder et al. (2002:Table 2)",1-2m,Equal to,MIS 5d,MIS 5d,118.0,110.0,"Duration of PAZ E6b  (Zagwijn 1996: Fig. 2): c. 2000 yrs in NW Germany counted from varved lakes (sites near Luneburg, Muller 1974). Apparently similar durations in West-central (Sirocko et al. 2005: Eifel ELSA) and in East-central Germany (Litt, 1990: Groebern, north of Leipzig). 
+
+See the general entry "" North Sea 'Zagwijn' Eemian pollen zones E1-E6 "" for a longer note on absolute age and total duration of the Eemian and its relation with phases within MIS5e and 5d.",Yes,Yes,2000,180,Yes,35,Kim Cohen,Kim Cohen,2020-08-03 15:51:26
+47,1,North Sea 'Zagwijn' Eemian PAZ E6b/EW1a break,"Behre, 1962
+ Jessen & Milthers, 1928
+ Litt, 1990
+ Mamakowa, 1976
+ Menke & Tynni, 1984
+ Muller, 1974
+ Selle, 1962
+ Sirocko et al., 2005
+ Turner, 2002b
+ Zagwijn, 1961
+ Zagwijn, 1996","Break between PAZ E6b and PAZ EWIa
+
+Pollen Association Zone E6b cf. Zagwijn 1961-1996.
+Pollen Association Zone EWIa cf. Zagwijn 1961-1996.
+
+Duration arbitrary set to 600+/-200  years: the last 300+/-150 years of PAZ E6b and first 300+/-150 years of EWIa (pseudo)varved trajectories (notably in the ELSA record, Sirocko et al. 2005). 
+
+This is the top/end of Zone VI cf. Selle 1962, Muller 1974. 
+This is the top/end of Zone VII cf. Behre 1962, Menke & Tynni 1984. 
+This is the break between zones 'i' and 'k' of Jessen & Milthers 1928.",1-2m,Equal to,MIS 5d,MIS 5d,116.0,110.0,"The PAZ E6b/EWIa break is some 4000+/-1000 years later than the MIS5e, MIS 5d break. See the entry on the PAZ E5/E6 break. See Sirocko et al. (2005); Sier et al. (2015).
+
+
+
+See the general entry "" North Sea 'Zagwijn' Eemian pollen zones E1-E6 "" for a longer note on absolute age and total duration of the Eemian and its relation with phases within MIS5e and 5d.  ",Yes,Yes,600,200,Yes,23,Kim Cohen,Kim Cohen,2020-08-03 15:54:06
+23,1,North Sea 'Zagwijn' Eemian Pollenzones E1-E6,"Beets & Beets, 2003
+ Beets et al., 2006
+ Behre, 1962
+ Benda & Schneekloth, 1965
+ Funder et al., 2002
+ Gruger, 1989
+ Hahne et al., 1994
+ Jessen & Milthers, 1928
+ Konradi et al., 2005
+ Kukla et al., 2002
+ Lambeck et al., 2006
+ Long et al., 2015
+ Menke & Tynni, 1984
+ Muller, 1974
+ Peeters et al., 2019
+ Sanchez-Goni et al., 1999
+ Seidenkranz, 1993
+ Shackleton et al. 2003
+ Shackleton et al., 2002
+ Sier et al., 2015
+ Streif, 2004
+ Turner, 2002a
+ Turner, 2002b
+ Zagwijn, 1961
+ Zagwijn, 1983
+ Zagwijn, 1996","Note: This entry describes the entire Eemian (spanning six main pollen zones in the Zagwijn scheme). Further entries are created for individual zones and subzones - compliant to the floating scheme in Zagwijn 1996, and the absolute age-considerations documented in this main entry. The entries are successively updated to include the correlated schemes of Zagwijn 1961, 1996 (Netherlands); Behre 1962, Selle 1962, Muller 1974 and Menke & Tynne 1984 (NW Germany), Jessen & Millers 1928 (Denmark and NW Germany) - discussions in Benda & Schneekloth, 1965; Gruger, 1989; Zagwijn, 1969; Funder et al., 2002. As such, the entry is optimised for use in and along the Southern North Sea. See Notes on Age Determination when seeking to apply the chronostratigraphic units in areas east (e.g. Baltic Sea) and South West (e.g. French and SW English Atlantic coasts).
+
+Succession of vegetation (arboreal pollen mostly), interglacial half cycle - recorded in lake fills and peats of various type (paraglacial negative relief, lagoonal inland rim, river channel fill). Several Zagwijn Netherlands' references (1961; 1983; 1996) and parallel palynological investigations in Western Germany (Behre 1962, Selle 1962, Muller 1974; Menke & Tynni 1984 - see Zagwijn 1996), building on pioneering work in Denmark (Jessen & Milthers 1928; Andersen 1965). Multiple later references regarding absolute timing and degree of diachronicity and (non-)analogy in succession and paleoclimatic zonal developments with the Lateglacial-Holocene half cycle, notably: Van Leeuwen et al., 2000; Cleveringa et al., 2000; Turner, 2002; Kukla et al. 2002; Beets & Beets, 2003; Beets et al. 2006; Lambeck et al., 2006; Sier et al., 2015; Long et al., 2015.
+
+Thickness of the Eemian sequences varies considerably with setting. The key sites are meter-thick infills of negative relief in deglaciated terrains just inside the ice-margins of the Saalian glaciation (Drenthe and Warthe substages; correlated to MIS6 and 'PGM'). The southern coastline of the North Sea contains glaciogenic basins and valleys that were transgressed (Netherlands' sites Amsterdam basin. Amersfoort basin, Petten-Rutten Rhine valley-estuary). Such sites also exist in German-Danish-Polish North Sea and Baltic Sea Eemian paleocoasts (e.g. Zagwijn, 1983; Streif, 2004), and continuations to the White Sea through Finnish-Russian Federation terrains (e.g. Funder et al. 2002). Transgression events (although similarly diachronic as vegetation successions) in such circumstances can be given a timing within the biochronostratigrapical schemes.",0.5 to >30m,Equal to,"MIS 5e, MIS 5d",see Notes on age determination.,127.0,110.0,"Durations (some 11,000 years in total +/- 1,000) based on cross-correlation to warved sites in lowlands of Northwest Germany, notably Muller (1974) and in the Eifel mar-lakes (central west Germany, notably Sirocko et al., 2005: ELSA dataset). Onset of zone E1 (terminating zone LS, Late Saalian) is based on similarity of forest succession at the onset of the Holocene: temperate conditions reestablished allowing succession to continue to a climax vegetation in E4-E5. Zone E6 is the beginning of cooling - and its definition based on observed palynological change, but here no analogies with younger events can be drawn: the ending of the Last Interglacial is the ending of the last completed interglacial, the current interglacial (Holocene+Anthropocene) has yet to end, thus has no ending. The boundary from E6 to EW (early Weichselian) is based on loss of boreal forest at the temperate latitudes  of The Netherlands / Western Germany. Absolute ages of the onset are based on correlation to marine isotope-staged records and their age models (in turn correlated to U/Th dated speleothem records and tuned). Ages of ending of the interglacial (E6/EW and E6/E5 pollen zonations) are based on correlations (using dust-records within palynologically well resolved lake-sequences) to Greenland Ice-core isotope records and  their age models (that are in turn correlated to U/Th dated speleothem records, and tuned).  The palynological biochronostratigraphical Eemian of North West Europe, as that of the Iberian Peninsula, is regarded to have started well after (Sanchez-Goni et al. 1999; Shackleton et al. 2002; 2003; Turner 2002; Kukla et al. 2002; Sier et al. 2015 ) the MIS6/MIS5e benthic oxygen isotope transition that defines the mid-point of Termination II (ca. 131 ka +/- 2 ka); and to have started slightly after reaching the plateau values (ca. 128-127 ka) in Caribbean Near Field and further Tropical in Far Field coral areas (Sanchez-Goni et al., 1999; Shackleton et al., 2002; 2003; Long et al., 2015), in the direct vicinity of the deglaciating Scandinavian ice front accommodating some meltwater discharge events just prior to the onset of the Eemian (Seidenkranz, 1993). Further modest diachronicity may be present between 'first temperate/interglacial-announcing vegetation returns' over the Iberian Peninsula and that of North West Europe, especially because of the larger size of the Scandinavian Ice Sheet  of the Saalian (a player in global ice volume of MIS6 and the PGM, with extend maxima around 160 ka and a submaximum around 140 ka, just 10,000 years before midpoint Termination II) - compared to the LGM/Lateglacial/Holocene (maxima around 27 ka, 13,000 years before midpoint Termination I / MWp1a) and 15,500  years before the palynological onset of the Holocene. Hence remnant presence of a disintegrating Scandinavian Ice Sheet in the first millennia of MIS5e can be envisaged and a cooling effect delaying the return of vegetation (relative to the Holocene analogue envisaged (also discussed by Kukla 2000, Turner 2000). Hence it is possible that the Eemian pollenzones correlate to a  later moment than those in more southern parts of Europe that are their biostratigraphic correlates (but imprecise biochronostratigraphical correlates). Other data and correlations, such as the mean values of >30 OSL dates (Peeters et al. 2017); the onset position of the paleomagnetic Blake event (Sier et al., 2015); strategies to anchor the ending of the Eemian (E5/E6 and E6/EW boundaries; Sirocko et al. 2005; Sier et al. 2015) - all give support to the idea that the E5/E6 boundary correlates to the MIS5e/5d and equivalents in Greenland Ice Core stratigraphy (between 116-114 ka, +/- 1 ka). Such would mean that a good part of the duration attributed to pollenzone E6 (estimated 4000(+) years) correlated to MIS5d, and that pollen zone E1-E5 (some 7000(+) years) correlates to the later half of MIS5e.  Oldest slotting for the Eemian in North West Europe would be 127-115 ka (with E5/E6 boundary at 119 ka: early cooling). Youngest slotting for the Eemian of North West Europe would be: 121-110 ka (with E5/E6 boundary at 115 ka: late onset).  Correlations of the onset of the Eemian to the midpoint of Termination II in the MIS record (ca. 131 ka) have been entertained and return in the literature (Notably: Funder et al. 2002; Beets et al. 2006; Lambeck et al. 2006; Kopp et al. 2009), but appear falsified in the above cited references (Sanchez-Goni et al., 1999 to Kukla et al. 2002). The advised slotting of the 'Zagwijn' palynological Eemian for this entry hence is 122+/-1 to 111+/-1 (with E5/E6 at 116 ka). These are the 11,000 years on the younger side of the full 127-110 ka bracket that is a most-conservative lower-upper age span for this entry. Modest additional diachronicity in onset (E1-E4a timing 100-2000 year later) and differences in durations (E5 and E6 biozones 500-1000 yrs shorter) may apply to biostratigraphically correlated areas in Eastern Europe (Kukla et al. 2002; Funder et al. 2002). Such is reason to make separate entries in this database for the 'Mikulinian' zonation scheme. Similarly, French and South English atlantic coastal sites may have a modestly earlier onset of the E1-E4a correlated stages (100-1000 years earlier) and modest differences in durations. The geochronological user of the database may want to apply latitudinal and/or longitudinal lapse rates in iterative 'bayesian' age-modeling, further combining (glacio)eustatic event-markers (onset high stand), results varve-counts (floating durations), and vegetation succession (pollen zone order), and other information (paleomagnetic Blake event; occasional U/Th and OSL dates).    ",Yes,Yes,11000,500,No,,Kim Cohen,Kim Cohen,2021-02-24 16:30:00
+56,1,North Sea 'Zagwijn' PAZ EW-I,"Sier et al., 2015
+ Sirocko et al., 2005
+ Zagwijn, 1961
+ Zagwijn, 1983
+ Zagwijn, 1996","Note: This entry describes the EW-I pollen zone, the base of which marks the Eemian/Weichselian regional stage boundary. Absolute age considerations connect to the North Sea 'Zagwijn' Eemian PAZ entries (the user is referred to the documentation in the E1-E6 main entry).",1 to >10m,Equal to,MIS 5d,MIS 5d; also Greenland IS correlations. ,116.0,102.0,"A floating duration of PAZ EW-I is not as well established as that for Eemian PAZ zones E1-E6. Continuous varved records from the PAZ E5/E6 boundary up to dust-flux intervals correlating with Greenland Stadials GS-25 and 24 (=North Atlantic cold period C24 resp. C23) allow to connect varve-durations to the age-models for the lower parts (not annually resolved) of the NGRIP (prelim-2005) and NEEM ice cores.  Assuming that EWI ends when GS-24 (=C23) ends - and using the NEEM (2013) age models, suggests it to represent 10,000 years.",Yes,Yes,10000,800,No,,Kim Cohen,Kim Cohen,2021-10-16 17:32:36
+80,1,OR95-168,"Ortlieb et al., 1995
+ Freisleben et al., 2021","Thin marine deposit on the terrace platform (Cobija, Chile) consisting of very large boulders and blocks, and a well-cemented sandstone with very little fossiliferous remains.",,Equal to,MIS 5e,,,,,No,,,,,,Roland Freisleben,,2020-09-18 09:36:22
+109,1,Okinoerabujima U/Th Dates,"Koike and Machida, 2001
+ Tam and Yokoyama, 2021",U/Th dates for Okinoerabujima,,Equal to,MIS 5,,95.0,79.0,,No,Yes,16,,,,Evan Tam,,2020-10-11 11:37:40
+110,1,On-Pm1,"Kobayashi et al., 1967
+ Machida, 2002
+ Tam and Yokoyama, 2021","Ontake Pumice layer 1, from the Ontake volcano",,Equal to,MIS 5,,0.0,0.0,100-0 ka,Yes,,,,,,Evan Tam,,2020-10-15 00:50:52
+58,1,Oostermeer Interglacial NW NL,"Busschers et al. 2008
+ Meijer & Cleveringa 2009
+ Meijer et al., 2021
+ Peeters et al., 2015
+ Peeters et al., 2016","A Lower Rhine interglacial high-stand estuary is located in the NW of the Netherlands (Friesland province, western Wadden Sea). The estuarine system (meso-tidal based on modern analogue, supported by sedimentology) including a well preserved high stand/early regressive peat bed is mapped at depth immediately below glacigenic contacts. The estuary functioned up to the sea-level fall from MIS 7 into MIS 6. The area was then affected by glaciation (the estuary became till sheet covered) and drainage reorganisation (the Rhine never returned to an estuary with this orientation) during the Saalian Drenthe Substage (mid MIS-6, ca. 160-150 ka). Meijer & Cleveringa (2009) review the malacology and AAR aminostratigraphy of the Oostermeer interglacial compared to older and younger levels. The estuarine 'transgressive' and overlying coastal peat 'high stand' parts of the estuaries in the NW Netherlands have hosted type sites for the Oostermeer interglacial (following up on Zwartkruis-borehole interglacial described by Zagwijn & Van Staalduijnen 1975; see Meijer & Cleveringa 2002; 2009). That smaller estuary inherited its position from a tunnel valley of Elsterian age (glaciation during MIS 12 and/or 10). West of it, below what is now the western wadden sea, the larger contemporary estuary of the Rhine was positioned. In that estuary the estuarine and high stand peaty units are more extensively developed and more widely preserved. The chronostratigraphic age is based on biostratigraphic information, OSL dating, and AAR-dating, besides geological-mapping architectural evidence. (TNO Geological Survey of the Netherlands research boreholes; Busschers et al. 2008; Peeters et al. 2015, 2016; Meijer et al. 2021; Busschers et al., in prep.)",10-25,Equal to,MIS 7,MIS 7,240.0,195.0,"Age is for the peat bed topping the unit. 195 ka: end of highstand MIS7a;  240 ka: begin high stand of MIS 7e)
+The underlying estuarine deposits in places may be MIS 9 too. Age assignments comply to Busschers et al. 2008 fig. 7a.",No,No,,,No,,Kim Cohen,Kim Cohen,2021-10-16 16:17:31
+62,1,Otaki Formation,"Fleming 1972
+ Oliver, 1948
+ Te Punga 1962
+ Ryan et al., 2020","Marine gravels and sands, beach and dune sands, and lignites. There is no type section. The formation is subdivided into two informal units, Otaki beach (marine sands) and Otake dune sands. The formation is also referred to as the Otaki Sandstone. ",,Equal to,MIS 5e,"The marine units were designated the Otaki Terrace by Palmer et al 1988 on the basis that they could trace the terrace surface from Otaki near continuously to the Whanganui Sequence, where it was correlated to the Tokomaru Terrace.  The seaward margin of the terrace has at least two more narrow treads ""preserved a few km north of Otaki"", possibly MIS 5c and 5a.
+
+The early Holocene highstand eroded a marine cliff into the seaward extent of the Otaki Formation. Sediments and wood fragments underlying the Holocene terrace surface and dune sands onlapping the marine cliff were analyzed with radiocarbon and OSL to provide an age to the younger terrace and support for the MIS 5 age of the Otaki Formation.",140.0,120.0,Palmer et al 1988 refer to Pillans 1985 (not available for this review) for MIS 5e extent. ,,,,,,,Deirdre Ryan,Deirdre Ryan,2020-05-13 14:49:42
+10,1,P. latus or Senegalese fauna (Mediterranean),"Benjamin et al., 2017
+ Gignoux, 1913
+ Taviani, 2014
+ Zazo et al., 2013
+ Cerrone et al., 2021","In the Mediterranean, the key fossil indicator for MIS 5e found in palaeo beach deposits is the gastropod currently named as Persististrombus latus (Taviani, 2014), but generally described in the literature with its former name, Strombus bubonius (e.g., Gignoux, 1913). This gastropod is the most conspicuous specimen of the Senegalese fauna, which indicates a relatively warm coastal and littoral environment. Strombus-bearing terraces are mainly attributed to MIS 5e, although they also occur in terraces assigned to MIS 7 in the western Mediterranean (Zazo et al., 2013). Due to this ongoing discussion, strombus-bearing deposits are assigned a general MIS 5 age.",N/A,Equal to,MIS 5,,,,"Conservatively, the age is set to general MIS 5. ",No,,,,,,Alessio Rovere,Alessio Rovere,2020-03-05 04:16:40
+11,1,Port MacDonnell Beach conglomerate,"Blakemore et al., 2014
+ Ryan et al., 2020",The conglomerate is dominated by flint cobbles and shell fragments within a well-cemented calcite matrix. The surface of the conglomerate is pitted and a 2 cm thick calcrete within the conglomerate indicates subaerial exposure. The conglomerate unconformably overlies the Oligo-Miocene Gambier Limestone and occurs beneath highly eroded aeolianite of late Pleistocene Bridgewater Formation. The aeolianite is constrained to MIS 3 via OSL analysis in this research.,less than 1.0 m,Equal to,MIS 5c,,118.0,86.0,"AAR calibrated numerical age
+OSL analysis of overlying aeolianite.",No,,,,,,Deirdre Ryan,Deirdre Ryan,2020-02-03 05:35:14
+129,1,Punta Banda MIS Second Terrace ,"Muhs et al., 1988
+ Thompson and Creveling, 2021",The adjacent upper and lower terraces are radiometrically dated to MIS 5a and 5e. Stratigraphic relationships are used to infer a terrace age of MIS 5c.,,Equal to ,MIS 5c,5c,98.0,90.0,,No,No,,,,,Jessica Creveling and Schmitty Thompson,,2020-11-19 10:49:57
+46,1,RA08-001,"Rabassa et al., 2008
+ Gowan et al., 2021","Wisconsin aged Moat Glaciation glacial till (MIS 2 or possibly MIS 4), overlying Pleistocene beach deposits. The Wisconsin aged glacial till is a widespread unit on Isla Navarino and is unlikely to represent an older glaciation. This unit cannot be Holocene, since the Holocene maximum extent did not extend to the coastal edge of Isla Navario.",,Older than,MIS 2,MIS 2 or MIS 4 aged glacial till,70.0,10.0,Glacial till sediments from the last or second last (MIS 2 or MIS 4) glaciation.,No,No,,,No,,Evan Gowan,,2020-03-12 02:37:38
+59,1,RPL Unit 10,"De Santis et al., 2010
+ Cerrone et al., 2021",Shallow marine (infrallitoral) deposits with C. caespitosa corals layer in clayey sediments,13,Equal to,MIS 5e,,,,,No,No,,,No,,Ciro Cerrone,Ciro Cerrone,2020-04-28 09:57:53
+40,1,Rapanui Marine Terrace,"Dickson et al., 1974
+ Fleming, 1953
+ Pillans 2017
+ Pillans and Kohn 1981
+ Pillans, 1983
+ Ryan et al., 2020","This terrace is within the Quaternary marine terrace sequence of the Whanganui Basin. The terrace consists of a basal wave-cut platform overlain by shallow marine sediments, grading upwards into non-marine sediments, which include dunesand, loess, lignite, tephra, laharic, and fluvial deposits. ",,Equal to,MIS 5e,5e,,,"Constraint to the terrace sequence was made possible by fission-track ages for the Rangitawa Tephra (~400 ka) found within the coverbeds of middle Pleistocene terraces, the youngest being the Ararata Terrace. AAR analysis and calibration of fossil wood samples indicated minimum ages of 190 and 110 ka for the Ngarino and Rapanui Terraces, respectively. The Rapanui strandline is correlated MIS 5e (~120 ka). The age of other terraces was determined by their physical relationship to these terraces. 
+",,,,,,45,Deirdre Ryan,Deirdre Ryan,2020-06-19 21:43:19
+96,1,Riss-Wurm Interglacial Period,"Yonekura, 1968
+ Tam and Yokoyama, 2021",Designation based on climate change indicators between the Riss and Wurm Glaciation,,Equal to,MIS 5e,Older historical designation for MIS 5e,,,,Yes,,,,,,Evan Tam,,2020-10-07 08:25:42
+130,1,San Miguel Island 5a Terrace,"Muhs et al., 2014a
+ Thompson and Creveling, 2021",The stratigraphic position of this terrace is used to assign it to MIS 5a.,,Equal to ,MIS 5a,5a,86.0,78.0,,No,No,,,,,Jessica Creveling and Schmitty Thompson,,2020-11-19 10:49:57
+43,1,Sector I-Bahia Brazil,"Bernat et al., 1983
+ Bittencourt et al., 1979
+ Martin et al., 1979
+ Martin et al., 1982
+ Rubio-Sandoval et al., 2021","According to the authors, in the state of Bahia there are relic deposits from the last two transgressive episodes of the Quaternary, recorded above present mean sea level. The deposits were divided into sectors (Sector I - Sector VI). Among these, sector I represents the oldest deposits and is associated with the Last Interglacial transgression. In general, these are arenaceous sediments, white on the surface and black or brownish in the interior. The littoral origin of these deposits is evidenced by the presence of Callianassa fossil burrows. The first datings obtained for the Sector I deposits were obtained by Martin et al., 1979, and are infinite radiocarbon ages. Successively, Bernat et al., 1983 obtained five alpha-counting U-Series ages on a reef, that is described by Martin et al., 1982 as correlated with sandy deposits of the Sector I - Bahia chronostratigraphic unit. The ages are consistent with a MIS 5e age of the reef, which is also assumed to be the age of the Bahia - Sector I deposits.",,Equal to,MIS 5e,,,,,No,No,,,No,,Karla Zurisadai Rubio Sandoval ,WALIS Admin,2020-10-24 08:44:36
+65,1,Sep 4,"Santangelo et al., 2010
+ Cerrone et al., 2021",Tefra layer ,,Equal to,MIS 5c,,0.0,0.0,"Tephra layer correlated with the X-5 marker layer, 40Ar/39Ar dated to 105 ka (Allen et alii, 1999).",No,No,,,No,,Ciro Cerrone,Ciro Cerrone,2021-06-01 08:26:43
+79,1,Shavey Zion - Bioclastic sandstone,"Sivan et al., 1999
+ Sivan et al., 2016
+ Sivan and Galili, 2020","Two of the Yasaf M. subunits found in the type section in Rosh Hanikra to the north are eaposedin Shavey Zion: the Strombus (SB) bearing unit overlying by the biological sandstone.  The age is based on the sedimentological and palaeontological characteristic, field relations and correlation with the Type section of Rosh Hanikra. ",4.3,Equal to,MIS 5e,"The age is based on the sedimentological and palaeontological characteristic, field relations and correlation with the Type section of Rosh Hanikra. ",,,,Yes,,,,,,Dorit Sivan and Ehud Galili,Dorit Sivan and Ehud Galili,2020-10-05 08:11:44
+78,1,Shavey Zion - SB,"Sivan et al., 1999
+ Sivan et al., 2016
+ Sivan and Galili, 2020","Two of the Yasaf M. subunits found in the type section in Rosh Hanikra to the north are eaposedin Shavey Zion: the Strombus (SB) bearing unit overlying by the biological sandstone.  The SB unit is poorly sorted, coarse gravel unit composed of subrounded-rounded cobbles and few bolders, fine silt quartz and bioclasts including the diagnostic Strombus bubonius LMK (Persististrombus latus or Lentigo latus).",0.76,Equal to,MIS 5e,"The age is based on the sedimentological and palaeontological characteristic, field relations and correlation with the Type section of Rosh Hanikra. ",,,,Yes,,,,,,Dorit Sivan and Ehud Galili,Dorit Sivan and Ehud Galili,2020-10-05 08:11:34
+91,1,Shimosueyoshi Loam,"Toma, 1974
+ Tam and Yokoyama, 2021",Fission Track dated air fallen ash layers,,Equal to,MIS 5e,,130.0,120.0,Dated by Fission Track,Yes,No,,,,,Evan Tam,,2020-10-07 03:35:03
+93,1,Shimosueyoshi Transgression,"Machida and Suzuki, 1971
+ Tam and Yokoyama, 2021","Interglacial Transgression, associated with the Shimosueyoshi Loam",,Equal to,MIS 5e,,130.0,120.0,,Yes,Yes,10000,,,,Evan Tam,,2020-10-07 06:33:48
+111,1,South Tokunoshima U/Th Dates,"Ikeya and Ohmura, 1983
+ Tam and Yokoyama, 2021","U/Th dates for South Tokunoshima, on Terrace defining Corals",,Equal to,MIS 5,,135.0,115.0,125 +- 10 Ka,No,,,,,,Evan Tam,,2020-10-15 04:13:14
+97,1,Stratigraphic Correlation (MIS 5e),"Tam and Yokoyama, 2021","Based on the sea level highstands correlated to MIS stages and localized terrace series, terraces have been assigned to MIS 5e",,Equal to,MIS 5e,,,,,No,,,,,,Evan Tam,,2020-10-07 11:30:11
+115,1,Subsintema di Villa Verucchio (AES7) ,"Cerrone et al., 2021","This stratigraphic unit corresponds to alluvial, lagoon and coastal deposits formed during the penultimate marine transgression recorded in the subsoil of Region Emilia Romagna. 
+Some geochronological data are available for constraining the age of the base to MIS 5e. The top of the unit include the alluvial deposits of LGM and Lateglacial.",,Younger than,MIS 6,"The official unit (synthema) include a rather long period almost coinciding with Upper Pleistocene. So, only the basal part is to be considered for the MIS 5e deposits. In several cores the distinction between deposits belonging to MIS 5e and other warm substages of MIS 5 (i.e. MIS 5c and MIS 5a) is not clear.",132.0,14.0,Some U/Th dates are available for the basal portion of the Villa Verucchio Synthem (AES7) which is characterized by coastal and marine deposits.,Yes,No,,,No,,Alessandro Fontana,,2020-10-27 07:13:45
+69,1,Sylvestra seminis,"Barra et al., 1991
+ Cerrone et al., 2021","Foreshore deposits.
+The presence of Sylvestra seminis (Bonaduce, Masoli & Pugliese, 1976) and Falsocytere maccagnoi are interpretated as marker of the Last Interglacial",,Equal to,MIS 5e,,,,,No,No,,,No,,Ciro Cerrone,Ciro Cerrone,2020-06-26 20:29:06
+134,1,Tephra in aeolian sand,"Bini et al., 2020QSR
+ Cerrone et al., 2021","Tephra correlated with X-6 tephra, which has been 40Ar/39Ar dated to 109.1 ± 0.8 ka (Sulmona) and 108.9 ± 1.8 ka (Tyrrhenian Sea)",,Equal to,MIS 5e,,0.0,0.0,,No,No,,,No,,Ciro Cerrone,Ciro Cerrone,2020-12-22 17:15:19
+125,1,Tewai Section 5a Terrace,"Chappell and Shackleton, 1986
+ Thompson and Creveling, 2021","These terrace ages are determined through use of an orbitally tuned timescale, and are assigned in a table in the reporting paper.",,Equal to ,MIS 5a,5a,86.0,78.0,,No ,No ,,,,,Jessica Creveling and Schmitty Thompson,,2020-11-19 10:49:57
+126,1,Tewai Section 5c Terrace,"Chappell and Shackleton, 1986
+ Thompson and Creveling, 2021","These terrace ages are determined through use of an orbitally tuned timescale, and are assigned in a table in the reporting paper.",,Equal to ,MIS 5c,5c,98.0,90.0,,No ,No ,,,,,Jessica Creveling and Schmitty Thompson,,2020-11-19 10:49:57
+9,1,Tipaza Eemian Terrace,"Authemayou et al., 2017
+ Stearns and Thurber, 1965
+ Cerrone et al., 2021","Consolidated beach deposit containing Strombus latus (ex bubonius), that in the Mediterranean is often associated with MIS 5e deposits. Two U/Th ages on S. latus shells (elevations lower than 10m) are reported between Tipaza (140±10 ka) and Ain Tagourait (125±10 ka) by Stearns and Thurber (1965). Athemayou et al. (2017) correlate these deposits to the Tipaza Eemian Terrace.",N/A,Equal to,MIS 5,MIS 5,168.0,98.0,The age was calculated using the upper and lower age limits from Stearns and Thurber (1995) U-series ages,No,No,,,No,,Alessio Rovere,WALIS Admin,2020-04-28 11:55:17
+117,1,Tyrrhenian Adriatic (Eemian pollen unit),"Amorosi et al., 2004
+ Campo et al., 2020
+ Fontana et al., 2010
+ Fontana et al., 2012
+ Massari et al., 2004
+ Mullenders et al., 1996
+ Cerrone et al., 2021","The unit corresponds to a coastal wedge formed along the Adriatic in the area of the Po Plain and Venetian-Friulian Plain during the transgression of the last interglacial (MIS 5e), when the coastline and coastal plain reached an inner position respect the Holocene one. The thickness displays a large variability with a maximum value of 40 m. Towards the mainland the unit onlaps over the former alluvial plain.
+From the sea to the mainland, the unit consits of inner shelf muds, sandy sediments of shoreface and beach facies, lagoonal and swamp facies.",,Equal to,MIS 5e,"The age is mainly constrained by pollen analyses, but some ESR dates are available (Ferranti et al., 2006).",132.0,116.0,,No,No,,,Yes,97,Alessandro Fontana,,2020-10-30 08:12:32
+66,1,Unit D - Cope Basin MIS 5e,"Bardají et al., 2015
+ Cerrone et al., 2021","Grey conglomerate of coastal origin, characterized by dominating presence of rounded quartz pebbles, cobbles and boulders. The deposit contains Ostrea, Glycymeris and few individuals of S. bubonius, Thais haemastoma and Conus sp.",,Equal to,MIS 5,"Designated in the paper as MIS 5e, but no absolute age constraints are available. Here assigned to general MIS 5",,,,No,No,,,No,,Alessio Rovere,,2020-06-22 07:28:36
+20,1,"Unit H, Gebbies Valley Borehole (G2)","Shulmeister et al, 1999
+ Ryan et al., 2020","Dark olive grey silt with localised woody organics and infrequent marine/estuarine shell hash.The shell hash, where preserved, is composed of shell with marine or estuarine origin. A sample at -26.8 m AMSL is dominated by a single marine species, the diatom Melosira westii (90%). Together with the underlying Unit G, this unit records a transgressive sequence. The overlying Unit I, described as massive, fine silty sands, locally laminated, from -24.67 to 22.74 m AMSL, is interpreted to represent a sea-level fall and correlated to MIS 5b.  ",9.43,Equal to,MIS 5c,5c,,,"Two TL ages and a minimum radiocarbon age were sampled and analyzed from within the unit. The age was further constrained by TL and radiocarbon analyses for stratigraphic units above and below. TL results suggest either MIS 5e or 5c correlation. The authors argue, ""The coarser texture of Unit H and the absence of interglacial pollen and dinoflagellates, which should be preserved in deeper water deposits, all tend to suggest a MIS 5c rather than a MIS 5e age for these sediments.""
+
+Original publication provides additional unit descriptions and thermoluminescence ages. Only the details of those directly associated with the units (H, J, K) used to constrain MIS 5 sea level have been entered into WALIS.",No,,,,,,Deirdre Ryan,WALIS Admin,2020-01-27 17:04:40
+21,1,"Unit J, Gebbies Valley Borehole (G2)","Shulmeister et al, 1999
+ Ryan et al., 2020","Gray to olive gray fine sand and silt with extensive shell hash. Some woody organics also present. Dominated by marine diatoms. Interpreted as a beach or storm deposit, at or close to sea level (w/in 5 m), based upon foraminiferal (Ammonia beccari) and macrofossil (Austrovenus sp.) evidence .",0.59,Equal to,MIS 5a,5a,,,"One TL ages and a minimum radiocarbon age were sampled and analyzed from within the unit. The age was further constrained by TL and radiocarbon analyses for stratigraphic units above and below. 
+
+
+
+Original publication provides additional unit descriptions and thermoluminescence ages. Only the details of those directly associated with the units (H, J, K) used to constrain MIS 5 sea level have been entered into WALIS.
+
+
+
+Additional age justification from the publication (page 119): 
+
+""The juxtaposition of this sand between a coarse silty sand below and a fine silty clay above allows for this unit to either represent a continued shallowing form Unit I or more probably, a new transgressive deposit under the fine aqueous deposits of Unit K. This unit was beyond the limit of radiocarbon dating and the TL age of 154 +/- 21 ka is both older and less well resolved than the ages above and below it. The sediments of Unit J may be the products of a storm event, or even a tsunami, and if so the light-sensitive TL could have been incompletely zeroed. This age is not statistically different from those around it, however. We suggest correlation with the rising limb of MIS 5a for this unit.""",No,,,,,,Deirdre Ryan,WALIS Admin,2020-01-27 17:04:49
+22,1,"Unit K, Gebbies Valley Borehole (G2)","Shulmeister et al, 1999
+ Ryan et al., 2020","Gray silty clay, locally extensively laminated. Fibrous and woody organics and tubular structures common in basal 3 m. Mottling present in top ~0.20 m. In association with underlying units, this unit indicates a transgressive sequence. Diatoms indicate transition from marine embayment to lake or lagoon environment at -18.5 m AMSL. Phytoliths indicate probable interglacial conditions. Marine diatoms, of inferred coastal provenance, dominate. The predominant species is Melosira westii, with the exception at -21.12 m AMSL, where the mainly marine assemblage is composed of Diploneis parma and Thalassiosira eccentrica with some brackish and freshwater taxa. At -18.5 m AMSL there is an abrupt change to freshwater assemblage dominated by small Fragilaria species. Freshwater taxa dominant through to -15.50 m AMSL except for one reversal at -18.06 m AMSL. Above -15.50 m AMSL diatom preservation ceases until -7 m AMSL. The upper contact appears unconformable as mottling and pedogenesis are present in the top of the grey clays at -14.12 m AMSL. An unknown thickness of material may have been removed. ",8.03,Equal to,MIS 5a,5a,,,"Two TL ages and a minimum radiocarbon age were sampled and analyzed from within the unit. The age was further constrained by TL and radiocarbon analyses for stratigraphic units above and below. The TL ages suggest compatibility with either MIS 5c or 5a; on stratigraphic grounds the unit is correlated to MIS 5a.
+
+
+
+Original publication provides additional unit descriptions and thermoluminescence ages. Only the details of those directly associated with the units (H, J, K) used to constrain MIS 5 sea level have been entered into WALIS.
+
+",No,,,,,,Deirdre Ryan,WALIS Admin,2020-01-27 17:05:00
+68,1,Unit Senzielli,"Antonioli et al., 2009
+ Fontana et al., 2010
+ Fontana et al., 2012
+ Cerrone et al., 2021","The characteristics and the age of the lagoon deposits, which is referred to the unit of Senzielli, are described in Fontana et al., 2012 (pag. 86-91). It is an informal unit of the Italian Geological Survey",In the coring site the thickness of the unit is 5.1 m,Equal to,MIS 5e,"The age of the unit of Senzielli was determined throgh pollen analyses that are described in Fontana et al., 2012 (pag. 86-91)",130.0,116.0,"In the coring site the marine transgression of MIS 5e arrived at the peak of the transgression, as the place is located in the very nothern part of Adriatic Sea.",No,No,,,No,,Alessandro Fontana,Alessandro Fontana,2020-10-24 07:10:44
+76,1,Vermetidae domes covered by algal crust on to,"Sivan et al., 2016
+ Sivan and Galili, 2020","Vermetidae domes encrusting by calcareous algae. The mound shape contains poorly sorted bioclastic fragments: bivalve and red algae and fine squartz grains. The Vermetidae reef domes  are overlain by algal crust. In places where the mounds are missing the crust overlyies the Strombus unit. This subunit overlies the SB unit and is ovelyies by the upper bioclastic sandstone. All the three construct the Yasaf Mb, attributed to the MIS5.5. ",Max. 1.70m. The unit elevation range between +1.08 to +2.78m. ,Equal to,MIS 5e,"In the frame of the yasaf Mb, attributed to the MIS5.5, the domes subunit is younger than the SB unit.",,,"The whole Yasaf unit age is constrains by the OSL age of the top aeolianite Regba Mb. (dated to 215±15ka) and alteration ages of the 9 samples from 3 different Strombus fossils found in-situ in the Strombus unit, which underlying the domes mounds. The domes are mid subunit in the whole sequence attributed to the MIS5.5. ",Yes,,,,,,Dorit Sivan and Ehud Galili,Dorit Sivan and Ehud Galili,2020-10-05 08:10:49
+17,1,Waiau A Formation,"Chappell, 1970
+ Ryan et al., 2020","Waiau A is correlated to the Shelly Beach Formation (Brothers, 1954) and Brunswick Terrace (Fleming, 1953) based upon altitude and the interglacial preceding the Last Interglacial; at the time referred to the Terangian (Suggate, 1965).
+",,Equal to,MIS 5,MIS 5,,,"Later, Chappell (1975) correlates Waiau A to the Ngarino Terrace and places deposition at the '120,000' year sea-level. Later work by Pillans (1983; 1990) constrained deposition to MIS 7. 
+",Yes,,,,,,Deirdre Ryan,WALIS Admin,2020-01-27 17:04:10
+16,1,Waiau B Formation,"Chappell, 1970
+ Ryan et al., 2020","In this region Chappell found insufficient evidence to associate Waiau B with either the local 70 ft (21.3 m) or 35 ft (10.6 m) terraces, respectively Ngarino Terrace or Rapanui Terrace (Fleming, 1953). However, following Brothers (1954) example of correlating the Waioneke transgression (post Shelly Beach transgression - see Waiau A Formation) in the Kaipara region to the 70 ft surface there, Chappell correlates Waiau B to the 70 ft (21.3 m) terrace and the Last Interglacial.  ",23,Equal to,MIS 5,MIS 5,,,"Later, Chappell (1975) correlates Waiau B to the Rapanui Terrace and places deposition post '120,000' year sea-level, about 105,000 to 107,000 years. Later work by Pillans (1983; 1990) constrained deposition to MIS 5e. ",Yes,,,,,,Deirdre Ryan,WALIS Admin,2020-01-27 17:03:53
+70,1,West Baltic Sea Cyprina Clay E2b/E3a-E5/E6a ,"Buylaert et al., 2011
+ Funder et al., 2002
+ Houmark-Nielsen, 1987
+ Konradi, 1976
+ Kristensen et al., 2000
+ Larsen et al., 2009
+ Madsen et al., 1908
+ Seidenkranz, 1993
+ Winn & Erlenkeuser, 1995
+ Winn & Erlenkeuser, 1998","Based on phrasings in Funder et al. (2002): The Cyprina clay, named after Cyprina (now Arctica) islandica is a shell bearing marine clay that represents the last interglacial (Eemian) marine inundation of the west of the Baltic Sea - just south of the main connection with the North Sea (last interglacial representations of the present Kattegat and OreSund (Sont) and Stoerebelt straits), with ramifications for the salinity and currents/oxic water state (Funder et al., 2002).  
+
+The clay is exposed in very much displaced position coastal cliffs in SE Denmark (notably: at Ristige Klint, Madsen et al. 1908:3-43,47-65, Kristensen et al. 2000; at Aero: Madsen et al. 1908:65-77) and N Germany with southern incursions near Lubeck and as far east as Ruegen and Usedom (Madsen et al., 1908; Konradi, 1976; Houmark-Nielsen, 1987; Winn and Erlenkeuser, 1998; Kubisch and Schoenfeld, 1985; Hoefle et al., 1985; Mueller et al., 1995; Ruehberg et al., 1995 - op. cit. Funder et al. 2002).
+
+The lower contact is usually a drowning surface overlying limnic sand or clay (Baltic lake phases before the Eemian Transgression; 'shiny clay' and 'freshwater sand' in Kristensen et al., 2000). The Cyprina clay represents deposition in relative deeper waters in this part of the baltic basin. It has characteristic marine mollusc fauna, with the species Paphia aurea senescens (Tapes senescens in older literature; part of littoral Lusitanian fauna) in the middle part. This is the regionally Eemian-typical species in this clay (Jessen & Milthers, 1928; Miller & Mangerud, 1985; Kristensen et al., 2000; Funder et al., 2002). At site Gammelmarke, the clay grades into shoreface sand that is rich in shells, but usually the top is an erosive contact with glacial and/or glaciofluvial sediments (of Last Glacial age). In shallower sands the Eemian-typical species are Bittium reticulatum and Venerupis senescens (Miller & Mangerud, 1985; Funder et al. 2002).
+
+The brackish onset of Cyprina clay sedimentation marks the establishment of a first tidal connection through the deep Alnarp-Esrum palaeovalley in the OreSund (Funder et al. 2002) and this times relatively early (just 300 years into the Eemian; within Zagwijn PAZ E2b according to Kristensen et al., 2000). Subsequent relatively more saline stages of the Cyprina clay (from halfway PAZ E3a onwards, some 350 varve-years later in nearby terrestrial sites; Kristensen et al. 2000:110, their local zone RKFO4) mark continuation of sea-level rise and establishment of full marine connection between North Sea and Baltic Sea basin through that palaeovalley primarily. North of the OreSund, in the Kattegat, Seidenkranz (1993) describes Late Saalian ice-marginal marine deposition directly overlying lodgement tills, and considerable warming and deepening of waters in the first part of the Eemian (her Zone E), which would correlate with this initial phase of the Cyprina clay deposition. 
+
+Larsen et al. (2009) further review the marine deposits for mainland sites in North Denmark (Vendsyssel) where the marine sequence is much thicker (>70 m) and regional molluscan and foraminiferal zonations have been established. Over there the marine deposition stretches Latest Saalian ( Nuculana pernula N. minuta Molluscan Zone; Foraminiferal zone N4/AV-F2), Eemian ( Lower Turritella terebra Moluscan Zone, Foraminiferal zone N3/AV-F3), Early Weichselian ( Upper Turritella terebra Molluscan Zone; foraminiferal zone continued) and Middle Weichselian intervals ( Abra nitida and  Portlandia arctica Molluscan Zones; Foraminiferal zone N2/AV-F2); with glaciogenic separating and interrupting intervals). Their Lower Turritella terebra Zone correlates chronostratigraphically with the Cyprina clay. 
+
+As the sea-level rose further and the water deepened, the salinity and temperature signals of the foraminiferal composition changes (subarctic/cold bottom water species replaced by boreal/temperate water species; Kristensen et al., 2000:110, their local zone RKFO5) and further indications of current change (Kristensen et al., 2000:113). This occurs some 1950 further (correlated) varve-years later (ibid., this is c. 2200 years after the onset brackish phase and 2500 years after the start of the Eemian; this is halfway Zagwijn PAZ E4b). At that stage a secondary marine connection across Schleswig may have established (Funder et al., 2002), as is suspected from geological mapping the dented inland extent of the Eemian high stand of the German Bight on the North Sea side (notably at site Schnittlohn, N Germany; Menke 1985; Knudsen 1985; Miller & Mangerud 1985), but the connection is not fully traced or proven (Kosack and Lange, 1985 and Schulz et al., 2001 - op cit. Konradi et al., 2005). Streif (2004) for Schleswig (=Danish-German border zone) indicates the shallowest occurence of Eemian marine deposits at -5 m NN on the North Sea side. In the deeper waters of the Kattegat, Seidenkranz (1993) reports foraminiferal change (her Zone F) which would coincide with this phase of the Cyprina clay.
+
+The truncation of the top of the Cyprina clays, makes that a regressive signal in the fill of the Wisla (Weichsel) palaeovalley (incursed by the Baltic Sea in the Eemian), is more representative to date the end of marine high stand conditions in the West Baltic, than records obtained on the unit itself. The Wisla regressive record starting towards the end of PAZ E5 is known from site Nowiny in Poland (Makowska, 1986 op cit. Funder et al., 2002). In deeper parts of the Baltic sea basin, periglacial marine conditions prevail into the Early Weichselian (e.g. site Plasumi, Kalnina, 2001 op cit. Funder et al. 2002). Houmark-Nielsen (1987: 167) cites the sequence at North Danish site Skaerumhede I (Kundsen & Lykke-Andersen, 1982) as Danish stratigraphic evidence for return from deeper 'Borea-Lusitanic' to shallower 'Boreal' conditions during ""a late Eemian/Early Weichselian regression"", recorded in deep waters of the Kattegat (see also Larsen et al., 2009). Seidenkranz (1993: her Zone G), further south but still in the Kattegat deep waters also record a foraminiferal change back to boreal compositions. Winn and Erlenkeuser (1995) record a similar change in shallower North Sea waters (site Dagebuell; above -15 m MSL; Schleswig coast).
+",2-4,Equal to,MIS 5e,"The marine unit occurs sandwiched between glacial and glacio-fluvial deposits from the last glacial (Weichselian) and the penultimate glacial (Saalian). In most locations it has been displaced from its original position by ice-pushing in the last glacial, causing it to outcrop in cliffs along the present Baltic Sea. It contains forams (zonations: Konradi, 1976; Funder et al. 2002) and could be used to obtain a regional marine oxygen isotope signal from. Winn & Erlenkeuser (1998) present results for several sites. For the Kattegat sound, where marine deposition began in the Late Saalian (Seidenkranz, 1993), and for a core in the German Bight (Winn & Erlenkeuser, 1995, 1998) isotopic studies are available, but this is outside the Cyprina clay distribution area.",126.0,114.0,"Note that the unit in many places is erosively truncated and actual duration represented may be smaller than that for an ideal locality that has not suffered truncation. The upper age is for such hypothetical untructated locations where the deep water cyprina clay would be fully preserved. At site Ristige Klint, for example. the actually represented duration is reckoned to be some 3500 years (Kristensen et al. 2000: Fig. 6). Littoral sites along the Baltic Coast in North Germany are more compete in recording the high stand duration (Winn & Erlenkeuser, 1998: sites Krummland and Tuschenbek).
+
+Relative age within the Last Interglacial based on palynological correlations (see entry North Sea 'Zagwijn' Eemian Pollenzones E1-E6; see Kristensen et al., 2000; Funder et al., 2002) of limnic deposits immediately underlying the clay and samples within the clay (the classic location being Stensigmose, Jessen & Milthers, 1928:178-179; Miller & Mangerud 1995; op. cit. Kristensen et al. 2000), to nearby terrestrial sites onshore in Jutland and Schleswick-Holstein (mainland Denmark and N Germany) and the Bispingen varved site at 180 km distance in Lower Saxony (N Germany). The absolute age (conservative range) and a duration constraint (Bisplingen varve counts) are taken over from the entries for PAZ E2b (first brackish conditions at site Ristinge Klint cf. Kristensen et al., 2000; Funder et al., 2002 - see main description), and  the PAZ E5/E6 break (cf. Funder et al., 2002:Table 2; as also suggested in Houmark-Nielsen, 1987: 167). The duration of the Cyprina clay from brackish onset to boreal regression is correlated to foraminiferal Zones E and F of Seidenkranz (1993), who attributes these c. 6000 years duration. (these two estimates are regarded as internally consistent). 
+
+Buylaert et al. (2011) present K-Feldspar IRSL and Quartz OSL luminescence dates from the Tapes Sand littoral-facies associated to the Cyprina clay. The report 119 +/- 6 ka resp. 114 +/- 7 ka as their results.",Yes,Yes,6750,500,Yes,23,Kim Cohen,Kim Cohen,2021-10-21 14:31:13
+45,1,Whanganui Sequence,"Pillans, 1983
+ Pillans, 1990
+ Ryan et al., 2020","An sequence of uplifted marine terraces spanning the past ~700 ka with additional shallow marine sediments representing all high sea-level stages of the past 2.6 Ma. 
+The marine terrace sequence has been constrained by fission track dating of the Rangitawa Tephra (c. 340 ka per Lowe, 2019) which mantles the Ararata Terrace of ~400 ka (MIS 11) and older terraces. 
+Constraint also provided by AAR dates of wood samples from deposits underlying the Rangitawa Tephra and associated with the Brunswick (MIS 9), Ngarino (MIS 7), Rapanui (MIS 5e), and younger terraces, which provide minimum radiocarbon ages. The AAR overlying the Ararata Terrace was calibrated to determine numerical age for AAR D/L values. 
+Additional constraint for the terraces is provided by identification of the Brunhes/Matuyama Booundary; the MIS 7 and younger terraces are constrained by composition of coverbeds (presence of loess units) and biostratigraphy (Beu and Edwards, 1984).",,,N/A,Quaternary highstand framework,,,,No,,,,,,Deirdre Ryan,Deirdre Ryan,2020-06-19 21:32:27
+112,1,Yokaichiba 14C date,"Koike and Machida, 2001
+ Tam and Yokoyama, 2021",Lower terraces dated by 14C,,Equal to,MIS 1,,0.0,0.0,,No,,,,,,Evan Tam,,2020-10-15 04:45:25
+113,1,Yonaguni U/Th Age,"Omura et al. 1994
+ Tam and Yokoyama, 2021",U/Th ages from Yonaguni Coral Terrace,,Equal to,MIS 5,,0.0,0.0,120-0 ka,No,,,,,,Evan Tam,,2020-10-15 04:58:10
+95,1,Zarame Pumice,"Miyauchi, 1988
+ Tam and Yokoyama, 2021","Stratigraphic Pumice Layer, found in northern Honshu",,Equal to,MIS 5e,,120.0,110.0,,Yes,,,,,,Evan Tam,,2020-10-07 07:28:57
