@@ -1,0 +1,8 @@
+Field,Type,Collation,Null,Key,Comment
+idvrtpostech,int(11),,NO,PRI,WALIS ElevMeas ID
+VrtType,mediumtext,utf8_general_ci,YES,,Measurement technique
+VrtDescr,longtext,utf8_general_ci,YES,,Description
+VrtAcc,mediumtext,utf8_general_ci,YES,,Typical accuracy
+Createdby,varchar(45),utf8_general_ci,YES,,Record created by
+Updatedby,varchar(45),utf8_general_ci,YES,,Record updated by
+LastUpdate,datetime,,YES,,Last Update

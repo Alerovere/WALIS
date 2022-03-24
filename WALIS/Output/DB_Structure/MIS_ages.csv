@@ -1,6 +1,0 @@
-Field,Type,Collation,Null,Key,Comment
-MIS ID,int(11),,NO,PRI,WALIS MIS ID
-MIS name,varchar(45),utf8_general_ci,YES,,Name of Marine Isotopic stage
-MIS peak age,varchar(45),utf8_general_ci,YES,,MIS peak age (ka)
-MIS start age,varchar(45),utf8_general_ci,YES,,MIS start age (ka)
-MIS end age,varchar(45),utf8_general_ci,YES,,MIS end age (ka)

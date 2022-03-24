@@ -1,4 +1,0 @@
-Field,Type,Collation,Null,Key,Comment
-id,int(11),,NO,PRI,Region ID
-name,varchar(255),utf8_general_ci,NO,,Region name
-country_id,smallint(5) unsigned,,NO,MUL,Country ID

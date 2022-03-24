@@ -1,0 +1,8 @@
+Link to atlas in a public MySQL server:
+host: es5.siteground.eu 
+user= ugvgouyqphgeu
+passwd=WALIS_PUBLIC
+db='dbvvfcofpmwxz7
+charset='utf8'
+use_unicode=True
+port=3306

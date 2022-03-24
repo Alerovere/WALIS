@@ -1,0 +1,22 @@
+Field,Type,Collation,Null,Key,Comment
+Strat_ID,int(11),,NO,PRI,WALIS Strat ID
+Public,tinytext,utf8_general_ci,YES,,Is this datapoint public?
+StratName,varchar(45),utf8_general_ci,YES,,Chronostratigraphy ID
+StratRef,mediumtext,utf8_general_ci,YES,,Reference(s)
+StratDescr,longtext,utf8_general_ci,YES,,Description for chronostratigraphic constraint
+UnitThickness,mediumtext,utf8_general_ci,YES,,Unit thickness (m)
+MISchoice_limits,varchar(45),utf8_general_ci,YES,,Age is Older/Equal/Younger than
+MISchoice,varchar(45),utf8_general_ci,YES,,Marine Isotopic Stage
+MIS,longtext,utf8_general_ci,YES,,Comments/details on MIS designation
+UpperAge,"decimal(10,0)",,YES,,Upper Age (ka)
+LowerAge,"decimal(10,0)",,YES,,Lower Age (ka)
+AgeNotes,longtext,utf8_general_ci,YES,,Notes on age determination
+OfficialStrat,varchar(45),utf8_general_ci,YES,,Is this an official stratigraphic designation?
+dur_yrs_y_n,varchar(45),utf8_general_ci,YES,,Has duration estimated in years?
+duration,varchar(45),utf8_general_ci,YES,,Duration (yrs)
+duration_unc,varchar(45),utf8_general_ci,YES,,Duration uncertainty (yrs)
+parent_strat_y_n,varchar(45),utf8_general_ci,YES,,Is a subzone of a parent Chronostratigraphy entry?
+parent_link,varchar(45),utf8_general_ci,YES,,Parent record (WALIS Strat ID)
+Createdby,varchar(45),utf8_general_ci,YES,,Record created by
+Updatedby,varchar(45),utf8_general_ci,YES,,Record updated by
+LastUpdate,datetime,,YES,,Last Update

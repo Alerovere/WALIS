@@ -1,0 +1,3 @@
+Field,Type,Collation,Null,Key,Comment
+login,varchar(255),utf8_general_ci,NO,PRI,
+name,varchar(64),utf8_general_ci,YES,,
