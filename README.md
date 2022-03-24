@@ -1,6 +1,6 @@
 # WALIS - The World Atlas of Last Interglacial Shorelines
 
-Download the repository here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5979520.svg)](https://doi.org/10.5281/zenodo.5979520)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5979520.svg)](https://doi.org/10.5281/zenodo.5979520)
 
 This is the repository for the World Atlas of Last Interglacial Shorelines (WALIS). It contains the full database in various formats, and python scripts and Jupyter notebooks to download, query and analyse the data included in the Atlas.
 
