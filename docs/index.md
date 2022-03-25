@@ -16,6 +16,7 @@ The data in WALIS is organized in a [Zenodo Community](https://zenodo.org/commun
  
 # Contribute
 
+<i class="fa-brands fa-github"></i>
 
 ### Folders
 The notebooks are stored in the root (/WALIS). Within the root, there are three sub-folders, as listed below.
