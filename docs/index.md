@@ -1,5 +1,3 @@
-<script src="https://kit.fontawesome.com/f4ba202135.js" crossorigin="anonymous"></script>
-
 This is the public repository page for the World Atlas of Last Interglacial Shorelines (WALIS). It contains python scripts and Jupyter notebooks to download, query and analyse the data included in the Atlas. WALIS is part of the [WARMCOASTS project](www.warmcoasts.eu), funded by the European Research Council. WALIS is compiled in collaboration with PALSEA (a PAGES-INQUA working group).
 
 WALIS aims at collecting existing and new data on Last Interglacial sea-level indicators reviewed following a standardized template, that can be filled using an online interface.
@@ -57,3 +55,7 @@ This software is part of a project that has received funding from the European R
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/walisdatabase.svg?style=social&label=Follow%20%40walisdatabase)](https://twitter.com/walisdatabase)
 
 ![logo](./img/ERC.png)
+
+
+<script src="https://kit.fontawesome.com/f4ba202135.js" crossorigin="anonymous"></script>
+
