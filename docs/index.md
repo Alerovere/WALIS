@@ -1,8 +1,10 @@
+<script src="https://kit.fontawesome.com/f4ba202135.js" crossorigin="anonymous"></script>
+
 This is the public repository page for the World Atlas of Last Interglacial Shorelines (WALIS). It contains python scripts and Jupyter notebooks to download, query and analyse the data included in the Atlas. WALIS is part of the [WARMCOASTS project](www.warmcoasts.eu), funded by the European Research Council. WALIS is compiled in collaboration with PALSEA (a PAGES-INQUA working group).
 
 WALIS aims at collecting existing and new data on Last Interglacial sea-level indicators reviewed following a standardized template, that can be filled using an online interface.
 
-# How does it work?
+# How does it work? <link rel="icon" href="http://[percorso]/favicon.ico"/>
 1. **Contribute data**. Geoscientists wishing to contribute data should register to our interface. This will allow them to use an intuitive interface to insert both published and new sea level indicators, ages and metadata. During the compilation process, data remain private and are accessible only by the registered user. This is done to allow registered users to keep inserting and modifying data points until they are ready for publication. Registration to the system is (and will always be) free.
 2. **Data publication**. WALIS aims to make Last Interglacial sea level data open-access and readily available. Data creators are encouraged, once their work is finalized, to submit their data to a repository under a CC BY license, and give it a DOI. To this purpose, we set up a [Zenodo Repository](https://zenodo.org/communities/walis_database/). Users are free to decide to submit to another open-access repository and let us know writing to alessio.rovere@unive.it
 3. **Download WALIS data**. Once the data inserted by a data creator has been assigned a DOI from an open-access repository, it can be downloaded and re-used freely (complying with the simple rules at the bottom of this page). 
