@@ -18,3 +18,32 @@ Example of acknowledgments: The data used in this study were extracted from / co
 
 ### Funding
 This software is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. ERC-StG-802414)
+
+### Code Acknowledgments
+Thank you to all those who take time answering questions on various forums!
+
+[Replace comma-separated values in a dataframe with values from another dataframe](https://stackoverflow.com/questions/59617019/replace-comma-separated-values-in-a-dataframe-with-values-from-another-dataframe/59617707#59617707)
+
+[Pandas - Replacing Values by Looking Up in an Another Dataframe](https://stackoverflow.com/questions/53818434/pandas-replacing-values-by-looking-up-in-an-another-dataframe)
+
+[Split (reshape) CSV strings in columns into multiple rows, having one element per row](https://riptutorial.com/pandas/example/25462/split--reshape--csv-strings-in-columns-into-multiple-rows--having-one-element-per-row)
+
+[Is there a way in pandas to remove duplicates from within a series?](https://stackoverflow.com/questions/56466917/is-there-a-way-in-pandas-to-remove-duplicates-from-within-a-series)
+
+[How to delete the contents of a folder?](https://stackoverflow.com/questions/185936/how-to-delete-the-contents-of-a-folder)
+
+[Intro to bokeh](http://michael-harmon.com/blog/IntroToBokeh.html)
+
+[How to turn a pandas dataframe row into a comma separated string](https://stackoverflow.com/questions/37877708/how-to-turn-a-pandas-dataframe-row-into-a-comma-separated-string)
+
+[Python : Removing the contents of a cell based on a specific condition](https://stackoverflow.com/questions/53082639/python-removing-the-contents-of-a-cell-based-on-a-specific-condition)
+
+[Finding Probability Distribution Parameters from Percentiles](https://www.codeproject.com/Articles/56371/Finding-Probability-Distribution-Parameters-from-P)
+
+[How to create a zip archive of a directory?](https://stackoverflow.com/questions/1855095/how-to-create-a-zip-archive-of-a-directory-in-python)
+
+[Creating Web Maps in Python with GeoPandas and Folium](https://rawgit.com/agaidus/leaflet_webmaps_python/master/sf_crime_mapping_final.html)
+
+[Matplotlib, diregard outliers when plotting](https://stackoverflow.com/questions/11882393/matplotlib-disregard-outliers-when-plotting)
+
+[Pandas-convert to dict and key vale](https://stackoverflow.com/questions/18012505/python-pandas-dataframe-columns-convert-to-dict-key-and-value)
