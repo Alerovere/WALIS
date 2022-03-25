@@ -15,6 +15,7 @@ The data in WALIS is organized in a [Zenodo Community](https://zenodo.org/commun
  describes each region included in the database. The database is also included in this GitHub repository.
  
 ## <i class="fa-solid fa-pen-to-square"></i> Contribute data
+To register as data contributor or submit to Zenodo, click the buttons below (registration is required for both)
 
 ## <i class="fa-solid fa-comments-question"></i> Help
 We know that, for less expert users, the large quantity of fields in WALIS might appear intimidating. For this reason, we prepared a set of tools that can facilitate data insertion or can help the user to better understand the various data columns. Both are a continuous work in progress, so please feel free to contact arovere@marum.de for questions and requests.
