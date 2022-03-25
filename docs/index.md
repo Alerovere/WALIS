@@ -3,16 +3,17 @@ This is the public repository page for the World Atlas of Last Interglacial Shor
 WALIS aims at collecting existing and new data on Last Interglacial sea-level indicators reviewed following a standardized template, that can be filled using an online interface.
 
 # How does it work?
-1. **Contribute data**. Geoscientists wishing to contribute data must register to our system (see below). This will allow them to use an intuitive interface to insert both published and new sea level indicators, ages and metadata. During the compilation process, data remain private and are accessible only by the registered user. This is done to allow registered users to keep inserting and modifying data points until they are ready for publication. Registration to the system is (and will always be) free, but users must read and accept our policy​.
-2. **Data publication**. WALIS aims to make Last Interglacial sea level data open access and readily available. Within the database interface, a tool allows to export the data inserted by the logged user as a multi-sheet xls file. Data creators are encouraged, once their work is finalized, to submit this file to a repository where it will get a DOI. To this purpose, we set up a Zenodo Repository (link). As a user, you are free to decide to submit to another open-access repository, but if you do please let us know by writing a message to arovere@marum.de
+1. **Contribute data**. Geoscientists wishing to contribute data should register to our interface. This will allow them to use an intuitive interface to insert both published and new sea level indicators, ages and metadata. During the compilation process, data remain private and are accessible only by the registered user. This is done to allow registered users to keep inserting and modifying data points until they are ready for publication. Registration to the system is (and will always be) free.
+2. **Data publication**. WALIS aims to make Last Interglacial sea level data open-access and readily available. Data creators are encouraged, once their work is finalized, to submit their data to a repository under a CC BY license, and give it a DOI. To this purpose, we set up a [Zenodo Repository](https://zenodo.org/communities/walis_database/). Users are free to decide to submit to another open-access repository and let us know writing to alessio.rovere@unive.it
 3. **Download WALIS data**. Once the data inserted by a data creator has been assigned a DOI from an open-access repository, it can be downloaded and re-used freely (complying with the simple rules at the bottom of this page). 
 4. **Periodical database collations**. Periodically, WALIS data will be collated into a single release, containing all the data that were assigned a DOI up to the release date. The release will contain WALIS data in different formats, as well as scripts to query the database. The first release is planned to coincide with the closing of an ongoing Special Issue in the journal Earth System Science Data. 
 
 # Download data
 The data in WALIS is organized in a [Zenodo Community](https://zenodo.org/communities/walis_database/). A series of manuscripts in a Special Issue of the journal [Earth System Science Data](https://essd.copernicus.org/articles/special_issue1055.html)
- describes each region included in the database.
+ describes each region included in the database. The database is also included in this GitHub repository.
  
-## Contents
+# Contribute
+
 
 ### Folders
 The notebooks are stored in the root (/WALIS). Within the root, there are three sub-folders, as listed below.
@@ -50,32 +51,3 @@ This software is part of a project that has received funding from the European R
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/walisdatabase.svg?style=social&label=Follow%20%40walisdatabase)](https://twitter.com/walisdatabase)
 
 ![logo](./img/ERC.png)
-
-### Code Acknowledgments
-Thank you to all those who take time answering questions on various forums!
-
-[Replace comma-separated values in a dataframe with values from another dataframe](https://stackoverflow.com/questions/59617019/replace-comma-separated-values-in-a-dataframe-with-values-from-another-dataframe/59617707#59617707)
-
-[Pandas - Replacing Values by Looking Up in an Another Dataframe](https://stackoverflow.com/questions/53818434/pandas-replacing-values-by-looking-up-in-an-another-dataframe)
-
-[Split (reshape) CSV strings in columns into multiple rows, having one element per row](https://riptutorial.com/pandas/example/25462/split--reshape--csv-strings-in-columns-into-multiple-rows--having-one-element-per-row)
-
-[Is there a way in pandas to remove duplicates from within a series?](https://stackoverflow.com/questions/56466917/is-there-a-way-in-pandas-to-remove-duplicates-from-within-a-series)
-
-[How to delete the contents of a folder?](https://stackoverflow.com/questions/185936/how-to-delete-the-contents-of-a-folder)
-
-[Intro to bokeh](http://michael-harmon.com/blog/IntroToBokeh.html)
-
-[How to turn a pandas dataframe row into a comma separated string](https://stackoverflow.com/questions/37877708/how-to-turn-a-pandas-dataframe-row-into-a-comma-separated-string)
-
-[Python : Removing the contents of a cell based on a specific condition](https://stackoverflow.com/questions/53082639/python-removing-the-contents-of-a-cell-based-on-a-specific-condition)
-
-[Finding Probability Distribution Parameters from Percentiles](https://www.codeproject.com/Articles/56371/Finding-Probability-Distribution-Parameters-from-P)
-
-[How to create a zip archive of a directory?](https://stackoverflow.com/questions/1855095/how-to-create-a-zip-archive-of-a-directory-in-python)
-
-[Creating Web Maps in Python with GeoPandas and Folium](https://rawgit.com/agaidus/leaflet_webmaps_python/master/sf_crime_mapping_final.html)
-
-[Matplotlib, diregard outliers when plotting](https://stackoverflow.com/questions/11882393/matplotlib-disregard-outliers-when-plotting)
-
-[Pandas-convert to dict and key vale](https://stackoverflow.com/questions/18012505/python-pandas-dataframe-columns-convert-to-dict-key-and-value)
