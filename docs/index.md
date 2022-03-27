@@ -9,7 +9,7 @@ WALIS aims at collecting existing and new data on Last Interglacial sea-level in
 4. **Periodical database collations**. Periodically, WALIS data will be collated into a single release, containing all the data that were assigned a DOI up to the release date. The release will contain WALIS data in different formats, as well as scripts to query the database. The first release is planned to coincide with the closing of an ongoing Special Issue in the journal Earth System Science Data. 
 
 ##  <i class="fa-solid fa-cloud-arrow-down"></i> Download data
-The data in WALIS is organized in a Zenodo Community. A series of manuscripts in a Special Issue of the journal Earth System Science Data  describes each region included in the database. The latest version of the global database, that collates all regional contributions, is also included in this GitHub repository linked on this page.
+The data in WALIS is organized in a Zenodo Community. A series of manuscripts in a Special Issue of the journal Earth System Science Data  describes each region included in the database. The latest version of the global database, that collates all regional contributions, is also included in the GitHub repository linked on this page.
 
 <i class="fa-solid fa-users"></i> [Zenodo Community](https://zenodo.org/communities/walis_database/)
 
@@ -20,18 +20,23 @@ The data in WALIS is organized in a Zenodo Community. A series of manuscripts in
 ## <i class="fa-solid fa-pen-to-square"></i> Contribute data
 Anyone can create an account and work with our interface. It is free and only requires registration. If you already have the data standardized in WALIS format and want to submit them to Zenodo, the link below resolves directly to the data submission page for our community.
 
-<i class="fa-solid fa-arrow-down-left-and-arrow-up-right-to-center"></i> INTERFACE
+<i class="fa-solid fa-arrow-down-left-and-arrow-up-right-to-center"></i> [Access the database interface](http://ec2-52-14-227-13.us-east-2.compute.amazonaws.com/Management_Login/)
 
-<i class="fa-solid fa-circle-envelope"></i> ZENODO
+<i class="fa-solid fa-circle-envelope"></i> [Submit data to Zenodo WALIS community](https://zenodo.org/login/?next=%2Fdeposit%2Fnew%3Fc%3Dwalis_database) 
 
 ## <i class="fa-solid fa-circle-question"></i> Get help
 We know that, for less expert users, the large quantity of fields in WALIS might appear intimidating. For this reason, we prepared a ReadTheDocs page and a series of YouTube tutorials to facilitate data insertion and help the user to better understand the database structure. Both are a continuous work in progress, so please feel free to contact alessio.rovere@unive.it for questions, bug reports and requests.
 
-<i class="fa-brands fa-youtube"></i> YOUTUBE
+<i class="fa-brands fa-youtube"></i> [YouTube](https://www.youtube.com/playlist?list=PLhYGGzjMovNfAK9Q9NAio52mBj55-MB6V)
 
-<i class="fa-solid fa-glasses"></i> READTHEDOCS
+<i class="fa-solid fa-glasses"></i> [ReadTheDocs](https://walis-help.readthedocs.io/en/latest/)
 
-The ReadTheDocs files are also hosted in **GitHub** and **Zenodo**.
+The ReadTheDocs files are also hosted in [GitHub](https://github.com/Alerovere/WALIS_Help) and the latest version is stored in [Zenodo](https://doi.org/10.5281/zenodo.3961543).
+
+## <i class="fa-solid fa-earth-americas"></i> Visualize data
+
+https://warmcoasts.shinyapps.io/WALIS_Visualization/
+
 
 # WALIS in GitHub
 
