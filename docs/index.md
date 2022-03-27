@@ -44,6 +44,10 @@ Garzón and Rovere (2021) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.49
 
 Rovere et al. (2020) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3961544.svg)](https://doi.org/10.5281/zenodo.3961544)
 
+<i class="fa-solid fa-timer"></i> # Future developments
+
+
+
 ### Suggested acknowledgments
 WALIS is the result of the work of several people, within different projects. For this reason, we kindly ask you to follow these simple rules to properly acknowledge those who worked on it:
 
