@@ -11,15 +11,18 @@ WALIS aims at collecting existing and new data on Last Interglacial sea-level in
 ##  <i class="fa-solid fa-cloud-arrow-down"></i> Download data
 The data in WALIS is organized in a Zenodo Community. A series of manuscripts in a Special Issue of the journal Earth System Science Data  describes each region included in the database. The latest version of the global database, that collates all regional contributions, is also included in this GitHub repository linked on this page.
 
-<i class="fa-solid fa-users"></i> *[Zenodo Community](https://zenodo.org/communities/walis_database/)* 
+<i class="fa-solid fa-users"></i> [Zenodo Community](https://zenodo.org/communities/walis_database/)
 
-<i class="fa-solid fa-book"></i> *[Earth System Science Data](https://essd.copernicus.org/articles/special_issue1055.html)*
+<i class="fa-solid fa-book"></i> [Earth System Science Data](https://essd.copernicus.org/articles/special_issue1055.html)
 
-<i class="fa-brands fa-github"></i> *[GitHub (latest stable version from Zenodo)](https://doi.org/10.5281/zenodo.5979519)* 
+<i class="fa-brands fa-github"></i> [GitHub (latest stable version from Zenodo)](https://doi.org/10.5281/zenodo.5979519)
 
 ## <i class="fa-solid fa-pen-to-square"></i> Contribute data
 Anyone can create an account and work with our interface. It is free and only requires registration. If you already have the data standardized in WALIS format and want to submit them to Zenodo, the link below resolves directly to the data submission page for our community.
 
+<i class="fa-solid fa-arrow-down-left-and-arrow-up-right-to-center"></i> INTERFACE
+
+<i class="fa-solid fa-circle-envelope"></i> ZENODO
 
 ## <i class="fa-solid fa-circle-question"></i> Get help
 We know that, for less expert users, the large quantity of fields in WALIS might appear intimidating. For this reason, we prepared a ReadTheDocs page and a series of YouTube tutorials to facilitate data insertion and help the user to better understand the database structure. Both are a continuous work in progress, so please feel free to contact alessio.rovere@unive.it for questions, bug reports and requests.
@@ -27,6 +30,8 @@ We know that, for less expert users, the large quantity of fields in WALIS might
 <i class="fa-brands fa-youtube"></i> YOUTUBE
 
 <i class="fa-solid fa-glasses"></i> READTHEDOCS
+
+The ReadTheDocs files are also hosted in **GitHub** and **Zenodo**.
 
 # WALIS in GitHub
 
