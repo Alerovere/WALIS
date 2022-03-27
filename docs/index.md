@@ -24,13 +24,12 @@ Anyone can create an account and work with our interface. It is free and only re
 <i class="fa-solid fa-circle-envelope"></i> [Submit data to Zenodo WALIS community](https://zenodo.org/login/?next=%2Fdeposit%2Fnew%3Fc%3Dwalis_database) 
 
 ## <i class="fa-solid fa-circle-question"></i> Get help
-We know that, for less expert users, the large quantity of fields in WALIS might appear intimidating. For this reason, we prepared a ReadTheDocs page and a series of YouTube tutorials to facilitate data insertion and help the user to better understand the database structure. Both are a continuous work in progress, so please feel free to contact alessio.rovere@unive.it for questions, bug reports and requests.
+We know that, for less expert users, the large quantity of fields in WALIS might appear intimidating. For this reason, we prepared a ReadTheDocs page and a series of YouTube tutorials to facilitate data insertion and help the user to better understand the database structure. Both are a continuous work in progress, so please feel free to contact alessio.rovere@unive.it for questions, bug reports and requests. The ReadTheDocs files are also hosted in [GitHub](https://github.com/Alerovere/WALIS_Help) and the latest version is stored in [Zenodo](https://doi.org/10.5281/zenodo.3961543).
 
 <i class="fa-brands fa-youtube"></i> [YouTube](https://www.youtube.com/playlist?list=PLhYGGzjMovNfAK9Q9NAio52mBj55-MB6V)
 
 <i class="fa-solid fa-glasses"></i> [ReadTheDocs](https://walis-help.readthedocs.io/en/latest/)
 
-The ReadTheDocs files are also hosted in [GitHub](https://github.com/Alerovere/WALIS_Help) and the latest version is stored in [Zenodo](https://doi.org/10.5281/zenodo.3961543).
 
 ## <i class="fa-solid fa-earth-americas"></i> Visualize data
 
