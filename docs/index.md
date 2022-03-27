@@ -11,19 +11,25 @@ WALIS aims at collecting existing and new data on Last Interglacial sea-level in
 ##  <i class="fa-solid fa-cloud-arrow-down"></i> Download data
 The data in WALIS is organized in a Zenodo Community. A series of manuscripts in a Special Issue of the journal Earth System Science Data  describes each region included in the database. The latest version of the global database, that collates all regional contributions, is also included in this GitHub repository linked on this page.
 
-<i class="fa-solid fa-users"></i> [Zenodo Community](https://zenodo.org/communities/walis_database/). 
+<i class="fa-solid fa-users"></i> *[Zenodo Community](https://zenodo.org/communities/walis_database/)* 
 
-<i class="fa-solid fa-book"></i> [Earth System Science Data](https://essd.copernicus.org/articles/special_issue1055.html)
- 
+<i class="fa-solid fa-book"></i> *[Earth System Science Data](https://essd.copernicus.org/articles/special_issue1055.html)*
+
+<i class="fa-brands fa-github"></i> *[GitHub (latest stable version from Zenodo)](https://doi.org/10.5281/zenodo.5979519)* 
+
 ## <i class="fa-solid fa-pen-to-square"></i> Contribute data
-Anyone can create an account and work with our interface. 
-To register as data contributor or submit to Zenodo, click the buttons below (registration is required for both)
-
-## <i class="fa-solid fa-circle-question"></i> Help
-We know that, for less expert users, the large quantity of fields in WALIS might appear intimidating. For this reason, we prepared a set of tools that can facilitate data insertion or can help the user to better understand the various data columns. Both are a continuous work in progress, so please feel free to contact arovere@marum.de for questions and requests.
+Anyone can create an account and work with our interface. It is free and only requires registration. If you already have the data standardized in WALIS format and want to submit them to Zenodo, the link below resolves directly to the data submission page for our community.
 
 
-# Folders
+## <i class="fa-solid fa-circle-question"></i> Get help
+We know that, for less expert users, the large quantity of fields in WALIS might appear intimidating. For this reason, we prepared a ReadTheDocs page and a series of YouTube tutorials to facilitate data insertion and help the user to better understand the database structure. Both are a continuous work in progress, so please feel free to contact alessio.rovere@unive.it for questions, bug reports and requests.
+
+<i class="fa-brands fa-youtube"></i> YOUTUBE
+
+<i class="fa-solid fa-glasses"></i> READTHEDOCS
+
+# WALIS in GitHub
+
 The notebooks are stored in the root (/WALIS). Within the root, there are three sub-folders, as listed below.
 
 1. **Output** This folder stores the files exported by the notebooks. The **/data** subfolder contains the database in various formats.
@@ -44,9 +50,7 @@ Garzón and Rovere (2021) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.49
 
 Rovere et al. (2020) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3961544.svg)](https://doi.org/10.5281/zenodo.3961544)
 
-<i class="fa-solid fa-timer"></i> # Future developments
-
-
+# <i class="fa-solid fa-timer"></i> Future developments
 
 ### Suggested acknowledgments
 WALIS is the result of the work of several people, within different projects. For this reason, we kindly ask you to follow these simple rules to properly acknowledge those who worked on it:
