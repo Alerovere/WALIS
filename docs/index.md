@@ -1,6 +1,5 @@
-This is the public repository page for the World Atlas of Last Interglacial Shorelines (WALIS). It contains python scripts and Jupyter notebooks to download, query and analyse the data included in the Atlas. WALIS is part of the [WARMCOASTS project](www.warmcoasts.eu), funded by the European Research Council. WALIS is compiled in collaboration with PALSEA (a PAGES-INQUA working group).
-
-WALIS aims at collecting existing and new data on Last Interglacial sea-level indicators reviewed following a standardized template, that can be filled using an online interface.
+# <i class="fa-solid fa-circle-info"></i> What is WALIS?
+WALIS stands for "World Atlas of Last Interglacial Shorelines". It is a database effort aiming to collect existing and new data on Last Interglacial sea-level indicators reviewed following a standardized template, that can be filled using an online interface. WALIS is part of the [WARMCOASTS project](www.warmcoasts.eu), funded by the European Research Council. WALIS is compiled in collaboration with PALSEA (a PAGES-INQUA working group).
 
 # <i class="fa-solid fa-gears"></i> How does it work?
 1. **Contribute data**. Geoscientists wishing to contribute data should register to our interface. This will allow them to use an intuitive interface to insert both published and new sea level indicators, ages and metadata. During the compilation process, data remain private and are accessible only by the registered user. This is done to allow registered users to keep inserting and modifying data points until they are ready for publication. Registration to the system is (and will always be) free.
@@ -35,7 +34,7 @@ The ReadTheDocs files are also hosted in [GitHub](https://github.com/Alerovere/W
 
 ## <i class="fa-solid fa-earth-americas"></i> Visualize data
 
-https://warmcoasts.shinyapps.io/WALIS_Visualization/
+<i class="fa-solid fa-globe-stand"></i>[Visualization interface](https://warmcoasts.shinyapps.io/WALIS_Visualization/)
 
 
 # WALIS in GitHub
