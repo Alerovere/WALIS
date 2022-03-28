@@ -35,8 +35,8 @@ We know that, for less experienced users, the large number of fields in WALIS mi
 
 <i class="fa-solid fa-glasses"></i> [ReadTheDocs](https://walis-help.readthedocs.io/en/latest/)
 
-## <i class="fa-solid fa-timer"></i> Future developments
-Prova
+## <i class="fa-solid fa-arrow-trend-up"></i> Future developments
+We are constantly working to improve WALIS and the associated tools. One of the most extensive developments is extending the database and the interface to include Holocene sea-level datapoints. For this, we are working with the [HOLSEA](https://www.holsea.org) project. We have been recently financed by PAGES via two [Data Stewardship Scholarships](https://pastglobalchanges.org/science/wg/palsea/data).
 
 ## <i class="fa-solid fa-handshake-simple"></i> Acknowledgements
 WALIS is the result of the work of several people. For this reason, we kindly ask you to follow these simple rules to acknowledge those who worked on it correctly.
