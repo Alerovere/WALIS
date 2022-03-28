@@ -35,28 +35,27 @@ We know that, for less experienced users, the large number of fields in WALIS mi
 
 <i class="fa-solid fa-glasses"></i> [ReadTheDocs](https://walis-help.readthedocs.io/en/latest/)
 
-# <i class="fa-solid fa-timer"></i> Future developments
+## <i class="fa-solid fa-timer"></i> Future developments
 Prova
 
-# <i class="fa-regular fa-sack-dollar"></i> Suggested acknowledgments and funding
+## <i class="fa-solid fa-handshake-simple"></i> Acknowledgements
 WALIS is the result of the work of several people. For this reason, we kindly ask you to follow these simple rules to acknowledge those who worked on it correctly.
 
 1. **Cite the original authors.** Please maintain the citations to credit the scientists who worked to collect the original data.
 2. **Acknowledge the database contributor.** Reviewing and standardizing sea-level data takes time and effort. Therefore, please maintain each contributor's name, as listed in all data points.
 3. **Acknowledge the WALIS team.** WALIS was developed primarily by the team working on the ERC Starting Grant "WARMCOASTS" (ERC-StG-802414) and collaborators from the broader PALSEA community. Make sure they receive credit for their work.
 
-### Example of acknowledgments
-The data used in this study were *extracted from / compiled in* WALIS, a sea-level database interface developed by the ERC Starting Grant "WARMCOASTS" (ERC-StG-802414), in collaboration with PALSEA (PAGES / INQUA) working group. The database structure was designed by A. Rovere, D. Ryan, T. Lorscheid, A. Dutton, P. Chutcharavan, D. Brill, N. Jankowski, D. Mueller, M. Bartz, E. Gowan and K. Cohen. The data points used in this study were contributed to WALIS by *list names of database contributors here*.
+**Example.** The data used in this study were *extracted from / compiled in* WALIS, a sea-level database interface developed by the ERC Starting Grant "WARMCOASTS" (ERC-StG-802414), in collaboration with PALSEA (PAGES / INQUA) working group. The database structure was designed by A. Rovere, D. Ryan, T. Lorscheid, A. Dutton, P. Chutcharavan, D. Brill, N. Jankowski, D. Mueller, M. Bartz, E. Gowan and K. Cohen. The data points used in this study were contributed to WALIS by *list names of database contributors here*.
 
-### Funding
+## <i class="fa-regular fa-sack-dollar"></i> Funding
 This software is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. ERC-StG-802414)
 
 # Contact us
 You may get in touch with us using the following channels.
 
-<i class="fa-brands fa-twitter"></i>[Find us on twitter](https://twitter.com/walisdatabase)
+<i class="fa-brands fa-twitter"></i>  [Find us on twitter](https://twitter.com/walisdatabase)
 
-<i class="fa-solid fa-at"></i> [email](mailto:alessio.rovere@unive.it)
+<i class="fa-solid fa-at"></i>  [email](mailto:alessio.rovere@unive.it)
 
 ![logo](./img/ERC.png)
 
