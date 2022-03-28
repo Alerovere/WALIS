@@ -45,11 +45,17 @@ WALIS is the result of the work of several people, within different projects. Fo
 2. Acknowledge the database contributor - The name of each contributor is listed in all public datapoints. This is the data creator, who spent time to make sure the data is standardized and (as much as possible) free of errors.
 3. Acknowledge the database structure and interface creators - The database template used in this study was developed by the ERC Starting Grant "WARMCOASTS" (ERC-StG-802414) and is a community effort under the PALSEA (PAGES / INQUA) working group.
 
-Example of acknowledgments: The data used in this study were *extracted from / compiled in* WALIS, a sea-level database interface developed by the ERC Starting Grant "WARMCOASTS" (ERC-StG-802414), in collaboration with PALSEA (PAGES / INQUA) working group. The database structure was designed by A. Rovere, D. Ryan, T. Lorscheid, A. Dutton, P. Chutcharavan, D. Brill, N. Jankowski, D. Mueller, M. Bartz, E. Gowan and K. Cohen. The data points used in this study were contributed to WALIS by *list names of contributors here*.
+### Example of acknowledgments
+The data used in this study were *extracted from / compiled in* WALIS, a sea-level database interface developed by the ERC Starting Grant "WARMCOASTS" (ERC-StG-802414), in collaboration with PALSEA (PAGES / INQUA) working group. The database structure was designed by A. Rovere, D. Ryan, T. Lorscheid, A. Dutton, P. Chutcharavan, D. Brill, N. Jankowski, D. Mueller, M. Bartz, E. Gowan and K. Cohen. The data points used in this study were contributed to WALIS by *list names of contributors here*.
 
+### Funding
 This software is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. ERC-StG-802414)
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/walisdatabase.svg?style=social&label=Follow%20%40walisdatabase)](https://twitter.com/walisdatabase)
+# Contact us
+You may get in touch with us using the following channels.
+
+<i class="fa-brands fa-twitter"></i>[Find us on twitter](https://twitter.com/walisdatabase)
+<i class="fa-solid fa-at"></i> [email](mailto:alessio.rovere@unive.it)
 
 ![logo](./img/ERC.png)
 
