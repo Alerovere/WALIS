@@ -31,21 +31,14 @@ We know that, for less expert users, the large quantity of fields in WALIS might
 <i class="fa-solid fa-glasses"></i> [ReadTheDocs](https://walis-help.readthedocs.io/en/latest/)
 
 ## <i class="fa-solid fa-earth-americas"></i> Visualize and query data
-A summary with the main WALIS data can be visualized and queries via a ShinyApp coded in R. The code is 
+A summary with the main WALIS data can be visualized and queried via a ShinyApp coded in R. The R code is available in [Github](https://github.com/Alerovere/WALIS_Visualization/tree/v1.0) and [Zenodo](https://doi.org/10.5281/zenodo.4943540). 
 
 <i class="fa-solid fa-eye"></i> [Visualization interface](https://warmcoasts.shinyapps.io/WALIS_Visualization/)
 
-## Other WALIS resources
-We maintain a repository with the scripts for a [visualization interface](https://github.com/Alerovere/WALIS_Visualization) for WALIS data, coded in R. Field descriptors for the WALIS database are available in a [ReadTheDocs](https://walis-help.readthedocs.io) webpage.
-These are also deposited in Zenodo:
-
-Garzón and Rovere (2021) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4943541.svg)](https://doi.org/10.5281/zenodo.4943541)
-
-Rovere et al. (2020) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3961544.svg)](https://doi.org/10.5281/zenodo.3961544)
-
 # <i class="fa-solid fa-timer"></i> Future developments
+Prova
 
-### Suggested acknowledgments
+# <i class="fa-regular fa-circle-dollar"></i> Suggested acknowledgments and funding
 WALIS is the result of the work of several people, within different projects. For this reason, we kindly ask you to follow these simple rules to properly acknowledge those who worked on it:
 
 1. Cite the original authors - Please maintain the original citations for each datapoint, to give proper credit to those who worked to collect the original data in the field or in the lab.
@@ -54,7 +47,6 @@ WALIS is the result of the work of several people, within different projects. Fo
 
 Example of acknowledgments: The data used in this study were *extracted from / compiled in* WALIS, a sea-level database interface developed by the ERC Starting Grant "WARMCOASTS" (ERC-StG-802414), in collaboration with PALSEA (PAGES / INQUA) working group. The database structure was designed by A. Rovere, D. Ryan, T. Lorscheid, A. Dutton, P. Chutcharavan, D. Brill, N. Jankowski, D. Mueller, M. Bartz, E. Gowan and K. Cohen. The data points used in this study were contributed to WALIS by *list names of contributors here*.
 
-### Funding
 This software is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. ERC-StG-802414)
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/walisdatabase.svg?style=social&label=Follow%20%40walisdatabase)](https://twitter.com/walisdatabase)
