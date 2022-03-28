@@ -16,8 +16,8 @@ The data in WALIS is organized in a Zenodo Community. A series of manuscripts in
 
 <i class="fa-brands fa-github"></i> [GitHub (latest stable version from Zenodo)](https://doi.org/10.5281/zenodo.5979519)
 
-## <i class="fa-solid fa-magnifying-glass"></i> Visualize and query WALIS
-A summary with the main WALIS data can be visualized and queried via a ShinyApp coded in R. The R code is available in [Github](https://github.com/Alerovere/WALIS_Visualization/tree/v1.0) and [Zenodo](https://doi.org/10.5281/zenodo.4943540). 
+## <i class="fa-solid fa-magnifying-glass"></i> Visualize and query WALIS data
+WALIS data can be queried and visualized via a ShinyApp interface. The R code used to develop the app is available in [Github](https://github.com/Alerovere/WALIS_Visualization/tree/v1.0) and [Zenodo](https://doi.org/10.5281/zenodo.4943540). In addition, we developed other query and plotting tools in a series of Jupyter notebooks, available at the GitHub repository linked on the side of this page and archived in [Zenodo](https://doi.org/10.5281/zenodo.5979519).
 
 <i class="fa-solid fa-earth-americas"></i> [Visualization interface](https://warmcoasts.shinyapps.io/WALIS_Visualization/)
 
@@ -39,11 +39,11 @@ We know that, for less experienced users, the large number of fields in WALIS mi
 Prova
 
 # <i class="fa-regular fa-sack-dollar"></i> Suggested acknowledgments and funding
-WALIS is the result of the work of several people, within different projects. For this reason, we kindly ask you to follow these simple rules to properly acknowledge those who worked on it:
+WALIS is the result of the work of several people. For this reason, we kindly ask you to follow these simple rules to acknowledge those who worked on it correctly.
 
-1. **Cite the original authors.** Please maintain the original citations for each datapoint, to give proper credit to those who worked to collect the original data in the field or in the lab.
-2. **Acknowledge the database contributor.** Reviewing and standardizing sea-level data takes time and effort. The name of each contributor is listed in all datapoints.
-3. **Acknowledge the WALIS team.** WALIS was developed primarily by the team workin on the ERC Starting Grant "WARMCOASTS" (ERC-StG-802414), and collaborators from the broader PALSEA community. Make sure they receive credit for their work.
+1. **Cite the original authors.** Please maintain the citations to credit the scientists who worked to collect the original data.
+2. **Acknowledge the database contributor.** Reviewing and standardizing sea-level data takes time and effort. Therefore, please maintain each contributor's name, as listed in all data points.
+3. **Acknowledge the WALIS team.** WALIS was developed primarily by the team working on the ERC Starting Grant "WARMCOASTS" (ERC-StG-802414) and collaborators from the broader PALSEA community. Make sure they receive credit for their work.
 
 ### Example of acknowledgments
 The data used in this study were *extracted from / compiled in* WALIS, a sea-level database interface developed by the ERC Starting Grant "WARMCOASTS" (ERC-StG-802414), in collaboration with PALSEA (PAGES / INQUA) working group. The database structure was designed by A. Rovere, D. Ryan, T. Lorscheid, A. Dutton, P. Chutcharavan, D. Brill, N. Jankowski, D. Mueller, M. Bartz, E. Gowan and K. Cohen. The data points used in this study were contributed to WALIS by *list names of database contributors here*.
