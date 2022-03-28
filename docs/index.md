@@ -1,5 +1,5 @@
 # <i class="fa-solid fa-circle-info"></i> What is WALIS?
-WALIS stands for "World Atlas of Last Interglacial Shorelines". It is a database collecting data on Last Interglacial sea-level proxies. Each data point in WALIS follows a standard template that can be filled from an online interface. WALIS is part of the [WARMCOASTS project](www.warmcoasts.eu), funded by the European Research Council, and falls under the purview of the [PALSEA](https://palseagroup.weebly.com) working group (supported by [PAGES](https://pastglobalchanges.org) and [INQUA](https://www.inqua.org)).
+WALIS stands for "World Atlas of Last Interglacial Shorelines". It is a database collecting data on Last Interglacial (70-125 ka) sea-level proxies. Each data point in WALIS follows a standard template that can be filled from an online interface. WALIS is part of the [WARMCOASTS project](www.warmcoasts.eu), funded by the European Research Council, and falls under the purview of the [PALSEA](https://palseagroup.weebly.com) working group (supported by [PAGES](https://pastglobalchanges.org) and [INQUA](https://www.inqua.org)).
 
 # <i class="fa-solid fa-gears"></i> How does it work?
 1. **Contribute data**. Geoscientists wishing to contribute data should register to our database interface and insert their data directly online. Data remain private and are accessible only by the registered user until they are ready for publication. Registration to the system is (and will always be) free.
@@ -30,7 +30,7 @@ We know that, for less experienced users, the large number of fields in WALIS mi
 
 <i class="fa-solid fa-glasses"></i> [ReadTheDocs](https://walis-help.readthedocs.io/en/latest/)
 
-## <i class="fa-solid fa-magnifying-glass"></i> Visualize and query data
+## <i class="fa-solid fa-magnifying-glass"></i> Visualize and query WALIS
 A summary with the main WALIS data can be visualized and queried via a ShinyApp coded in R. The R code is available in [Github](https://github.com/Alerovere/WALIS_Visualization/tree/v1.0) and [Zenodo](https://doi.org/10.5281/zenodo.4943540). 
 
 <i class="fa-solid fa-earth-americas"></i> [Visualization interface](https://warmcoasts.shinyapps.io/WALIS_Visualization/)
