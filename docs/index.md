@@ -32,7 +32,7 @@ We know that, for less expert users, the large quantity of fields in WALIS might
 
 ## <i class="fa-solid fa-earth-americas"></i> Visualize data
 
-<i class="fa-solid fa-globe-stand"></i> [Visualization interface](https://warmcoasts.shinyapps.io/WALIS_Visualization/)
+<i class="fa-solid fa-eye"></i> [Visualization interface](https://warmcoasts.shinyapps.io/WALIS_Visualization/)
 
 ## Other WALIS resources
 We maintain a repository with the scripts for a [visualization interface](https://github.com/Alerovere/WALIS_Visualization) for WALIS data, coded in R. Field descriptors for the WALIS database are available in a [ReadTheDocs](https://walis-help.readthedocs.io) webpage.
