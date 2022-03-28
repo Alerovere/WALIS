@@ -61,6 +61,7 @@ This software is part of a project that has received funding from the European R
 
 ![logo](./img/ERC.png)
 
+<i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i>
 
 <script src="https://kit.fontawesome.com/f4ba202135.js" crossorigin="anonymous"></script>
 
