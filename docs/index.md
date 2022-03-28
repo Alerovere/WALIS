@@ -21,7 +21,7 @@ Anyone can create an account and work with our interface. It is free and only re
 
 <i class="fa-solid fa-arrows-rotate"></i> [Access the database interface](http://ec2-52-14-227-13.us-east-2.compute.amazonaws.com/Management_Login/)
 
-<i class="fa-solid fa-arrow-down-to-square"></i> [Submit data to the Zenodo WALIS community](https://zenodo.org/login/?next=%2Fdeposit%2Fnew%3Fc%3Dwalis_database) 
+<i class="fa-regular fa-share-nodes"></i> [Submit data to the Zenodo WALIS community](https://zenodo.org/login/?next=%2Fdeposit%2Fnew%3Fc%3Dwalis_database) 
 
 ## <i class="fa-solid fa-circle-question"></i> Get help
 We know that, for less expert users, the large quantity of fields in WALIS might appear intimidating. For this reason, we prepared a ReadTheDocs page and a series of YouTube tutorials to facilitate data insertion and help the user to better understand the database structure. Both are a continuous work in progress, so please feel free to contact alessio.rovere@unive.it for questions, bug reports and requests. The ReadTheDocs files are also hosted in [GitHub](https://github.com/Alerovere/WALIS_Help) and the latest docs version is stored in [Zenodo](https://doi.org/10.5281/zenodo.3961543).
@@ -30,7 +30,8 @@ We know that, for less expert users, the large quantity of fields in WALIS might
 
 <i class="fa-solid fa-glasses"></i> [ReadTheDocs](https://walis-help.readthedocs.io/en/latest/)
 
-## <i class="fa-solid fa-earth-americas"></i> Visualize data
+## <i class="fa-solid fa-earth-americas"></i> Visualize and query data
+A summary with the main WALIS data can be visualized and queries via a ShinyApp coded in R. The code is 
 
 <i class="fa-solid fa-eye"></i> [Visualization interface](https://warmcoasts.shinyapps.io/WALIS_Visualization/)
 
