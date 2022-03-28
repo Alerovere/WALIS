@@ -38,7 +38,7 @@ A summary with the main WALIS data can be visualized and queried via a ShinyApp 
 # <i class="fa-solid fa-timer"></i> Future developments
 Prova
 
-# <i class="fa-regular fa-circle-dollar"></i> Suggested acknowledgments and funding
+# <i class="fa-regular fa-sack-dollar"></i> Suggested acknowledgments and funding
 WALIS is the result of the work of several people, within different projects. For this reason, we kindly ask you to follow these simple rules to properly acknowledge those who worked on it:
 
 1. Cite the original authors - Please maintain the original citations for each datapoint, to give proper credit to those who worked to collect the original data in the field or in the lab.
