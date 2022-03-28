@@ -2,17 +2,17 @@
 WALIS stands for "World Atlas of Last Interglacial Shorelines". It is a database collecting data on Last Interglacial sea-level proxies. Each data point in WALIS follows a standard template that can be filled from an online interface. WALIS is part of the [WARMCOASTS project](www.warmcoasts.eu), funded by the European Research Council, and falls under the purview of the [PALSEA](https://palseagroup.weebly.com) working group (supported by [PAGES](https://pastglobalchanges.org) and [INQUA](https://www.inqua.org)).
 
 # <i class="fa-solid fa-gears"></i> How does it work?
-1. **Contribute data**. Geoscientists wishing to contribute data should register to our database interface and insert their data directly online. Data remain private and are accessible only by the registered user, until they are ready for publication. Registration to the system is (and will always be) free.
-2. **Data publication**. WALIS aims to make Last Interglacial sea level data open-access and readily available. Data creators are encouraged, once their work is finalized, to submit their data to a repository under a CC BY license, and give it a DOI. We suggest submitting to Zenodo, where we set up a "Community" where data can be uploaded. Users are free to decide to submit to another open-access repository and let us know writing to alessio.rovere@unive.it
+1. **Contribute data**. Geoscientists wishing to contribute data should register to our database interface and insert their data directly online. Data remain private and are accessible only by the registered user until they are ready for publication. Registration to the system is (and will always be) free.
+2. **Data publication**. WALIS aims to make Last Interglacial sea-level data open-access and readily available. Once their work is finalized, data creators are encouraged to submit their data to a repository under a CC BY license and give it a DOI. We suggest submitting to Zenodo, where we set up a "Community" where anyone can upload data. Users are free to decide to submit to another open-access repository and let us know by writing to [alessio.rovere@unive.it](mailto:alessio.rovere@unive.it).
 3. **Download data**. Once the data inserted by a data creator has been assigned a DOI from an open-access repository, it can be downloaded and re-used freely (complying with the simple rules at the bottom of this page). 
-4. **Periodical database collations**. Periodically, WALIS data will be collated into a single release, containing all the data that were assigned a DOI up to the release date. The release will contain WALIS data in different formats, as well as scripts to query the database. The first release is planned to coincide with the closing of an ongoing Special Issue in the journal Earth System Science Data. 
+4. **Periodical database collations**. Periodically, WALIS data will be collated into a single release, containing all the data assigned a DOI up to the release date. The first release is planned to coincide with the closing of an ongoing Special Issue in the journal [Earth System Science Data](https://essd.copernicus.org/articles/special_issue1055.html). 
 
 ##  <i class="fa-solid fa-cloud-arrow-down"></i> Download data
-The data in WALIS is organized in a Zenodo Community. A series of manuscripts in a Special Issue of the journal Earth System Science Data  describes each region included in the database. The latest version of the global database, that collates all regional contributions, is also included in the GitHub repository linked on this page.
-
-<i class="fa-solid fa-users"></i> [Zenodo Community](https://zenodo.org/communities/walis_database/)
+The data in WALIS is organized in a Zenodo Community. A series of manuscripts in a Special Issue of the journal Earth System Science Data describes each region included in the database. The latest version of the global database is also included in the GitHub repository linked at this page and archived in Zenodo.
 
 <i class="fa-solid fa-book"></i> [Earth System Science Data](https://essd.copernicus.org/articles/special_issue1055.html)
+
+<i class="fa-solid fa-users"></i> [Zenodo Community](https://zenodo.org/communities/walis_database/)
 
 <i class="fa-brands fa-github"></i> [GitHub (latest stable version from Zenodo)](https://doi.org/10.5281/zenodo.5979519)
 
@@ -23,8 +23,8 @@ Anyone can create an account and work with our interface. It is free and only re
 
 <i class="fa-regular fa-share-nodes"></i> [Submit data to the Zenodo WALIS community](https://zenodo.org/login/?next=%2Fdeposit%2Fnew%3Fc%3Dwalis_database) 
 
-## <i class="fa-solid fa-circle-question"></i> Get help
-We know that, for less expert users, the large quantity of fields in WALIS might appear intimidating. For this reason, we prepared a ReadTheDocs page and a series of YouTube tutorials to facilitate data insertion and help the user to better understand the database structure. Both are a continuous work in progress, so please feel free to contact alessio.rovere@unive.it for questions, bug reports and requests. The ReadTheDocs files are also hosted in [GitHub](https://github.com/Alerovere/WALIS_Help) and the latest docs version is stored in [Zenodo](https://doi.org/10.5281/zenodo.3961543).
+## <i class="fa-solid fa-circle-question"></i> Help
+We know that, for less experienced users, the large number of fields in WALIS might appear intimidating. For this reason, we prepared a ReadTheDocs page and a series of YouTube tutorials to facilitate data insertion and help the user to understand the database structure better. Both are a continuous work in progress, so don't hesitate to get in touch with [alessio.rovere@unive.it](mailto:alessio.rovere@unive.it) for questions, bug reports, and requests. The ReadTheDocs files are also hosted in [GitHub](https://github.com/Alerovere/WALIS_Help), and the latest docs version is stored in [Zenodo](https://doi.org/10.5281/zenodo.3961543).
 
 <i class="fa-brands fa-youtube"></i> [YouTube](https://www.youtube.com/playlist?list=PLhYGGzjMovNfAK9Q9NAio52mBj55-MB6V)
 
