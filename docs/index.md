@@ -24,16 +24,15 @@ Anyone can create an account and work with our interface. It is free and only re
 <i class="fa-solid fa-share-all"></i> [Submit data to the Zenodo WALIS community](https://zenodo.org/login/?next=%2Fdeposit%2Fnew%3Fc%3Dwalis_database) 
 
 ## <i class="fa-solid fa-circle-question"></i> Get help
-We know that, for less expert users, the large quantity of fields in WALIS might appear intimidating. For this reason, we prepared a ReadTheDocs page and a series of YouTube tutorials to facilitate data insertion and help the user to better understand the database structure. Both are a continuous work in progress, so please feel free to contact alessio.rovere@unive.it for questions, bug reports and requests. The ReadTheDocs files are also hosted in [GitHub](https://github.com/Alerovere/WALIS_Help) and the latest version is stored in [Zenodo](https://doi.org/10.5281/zenodo.3961543).
+We know that, for less expert users, the large quantity of fields in WALIS might appear intimidating. For this reason, we prepared a ReadTheDocs page and a series of YouTube tutorials to facilitate data insertion and help the user to better understand the database structure. Both are a continuous work in progress, so please feel free to contact alessio.rovere@unive.it for questions, bug reports and requests. The ReadTheDocs files are also hosted in [GitHub](https://github.com/Alerovere/WALIS_Help) and the latest docs version is stored in [Zenodo](https://doi.org/10.5281/zenodo.3961543).
 
 <i class="fa-brands fa-youtube"></i> [YouTube](https://www.youtube.com/playlist?list=PLhYGGzjMovNfAK9Q9NAio52mBj55-MB6V)
 
 <i class="fa-solid fa-glasses"></i> [ReadTheDocs](https://walis-help.readthedocs.io/en/latest/)
 
-
 ## <i class="fa-solid fa-earth-americas"></i> Visualize data
 
-<i class="fa-solid fa-globe-stand"></i>[Visualization interface](https://warmcoasts.shinyapps.io/WALIS_Visualization/)
+<i class="fa-solid fa-globe-stand"></i> [Visualization interface](https://warmcoasts.shinyapps.io/WALIS_Visualization/)
 
 ## Other WALIS resources
 We maintain a repository with the scripts for a [visualization interface](https://github.com/Alerovere/WALIS_Visualization) for WALIS data, coded in R. Field descriptors for the WALIS database are available in a [ReadTheDocs](https://walis-help.readthedocs.io) webpage.
