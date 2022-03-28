@@ -30,10 +30,10 @@ We know that, for less experienced users, the large number of fields in WALIS mi
 
 <i class="fa-solid fa-glasses"></i> [ReadTheDocs](https://walis-help.readthedocs.io/en/latest/)
 
-## <i class="fa-solid fa-earth-americas"></i> Visualize and query data
+## <i class="fa-solid fa-magnifying-glass"></i> Visualize and query data
 A summary with the main WALIS data can be visualized and queried via a ShinyApp coded in R. The R code is available in [Github](https://github.com/Alerovere/WALIS_Visualization/tree/v1.0) and [Zenodo](https://doi.org/10.5281/zenodo.4943540). 
 
-<i class="fa-solid fa-eye"></i> [Visualization interface](https://warmcoasts.shinyapps.io/WALIS_Visualization/)
+<i class="fa-solid fa-earth-americas"></i> [Visualization interface](https://warmcoasts.shinyapps.io/WALIS_Visualization/)
 
 # <i class="fa-solid fa-timer"></i> Future developments
 Prova
@@ -55,6 +55,7 @@ This software is part of a project that has received funding from the European R
 You may get in touch with us using the following channels.
 
 <i class="fa-brands fa-twitter"></i>[Find us on twitter](https://twitter.com/walisdatabase)
+
 <i class="fa-solid fa-at"></i> [email](mailto:alessio.rovere@unive.it)
 
 ![logo](./img/ERC.png)
