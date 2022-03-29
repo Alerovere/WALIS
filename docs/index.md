@@ -48,7 +48,7 @@ WALIS is the result of the work of several people. For this reason, we kindly as
 **Example.** The data used in this study were *extracted from / compiled in* WALIS, a sea-level database interface developed by the ERC Starting Grant "WARMCOASTS" (ERC-StG-802414), in collaboration with PALSEA (PAGES / INQUA) working group. The database structure was designed by A. Rovere, D. Ryan, T. Lorscheid, A. Dutton, P. Chutcharavan, D. Brill, N. Jankowski, D. Mueller, M. Bartz, E. Gowan and K. Cohen. The data points used in this study were contributed to WALIS by *list names of database contributors here*.
 
 ## <i class="fa-regular fa-sack-dollar"></i> Funding
-This software is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. ERC-StG-802414)
+This software is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. [ERC-StG-802414](https://cordis.europa.eu/project/id/802414/it))
 
 # Contact us
 You may get in touch with us using the following channels.
