@@ -7,4 +7,4 @@ This is the repository for the World Atlas of Last Interglacial Shorelines (WALI
 Find more information on the project and associated tools [here](https://alerovere.github.io/WALIS/)
 
 ### Funding
-This software is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. ERC-StG-802414)
+This software is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. [ERC-StG-802414](https://cordis.europa.eu/project/id/802414/it))
