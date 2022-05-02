@@ -25,7 +25,7 @@ m = references.set_index('Ref_ID')['ShortRef'].to_dict()
 v = RSL_Datapoints.filter(items=['Ref'])
 RSL_Datapoints[v.columns] = v.replace(m)
 #Update additional references column
-RSL_Datapoints['addRef']=RSL_Datapoints['addRef'].replace('', '9999999')
+RSL_Datapoints['addRef']=RSL_Datapoints['addRef'].replace('', '9999999').astype(str) #####
 df1 = pd.DataFrame([[np.nan] * len(references.columns)], columns=references.columns)
 ref = df1.append(references, ignore_index=True)
 ref.loc[[0],'Ref_ID'] = 9999999
@@ -70,6 +70,7 @@ ageselect = pd.DataFrame({'ID':[1,2,3,4,5,6], 'Technique':['U-Series',
                                                        'Electro Spin Resonance',
                                                        'Chronostratigraphy',
                                                        'Other dating']})
+RSL_Datapoints['SelectAge']=RSL_Datapoints['SelectAge'].astype(str) #####
 RSL_Datapoints['SelectAge'] = (RSL_Datapoints['SelectAge'].str.split(',')
                                 .explode()
                                 .map(ageselect.assign(ID=ageselect.ID.astype(str))
@@ -79,12 +80,13 @@ RSL_Datapoints['SelectAge'] = (RSL_Datapoints['SelectAge'].str.split(',')
 
 #Update Useries sample list with ID names (saving original ID list separately)
 #RSL_Datapoints['Useries_ID_list']=RSL_Datapoints['Useries']
-RSL_Datapoints['Useries']=RSL_Datapoints['Useries'].replace('', '9999999')
+RSL_Datapoints['Useries']=RSL_Datapoints['Useries'].astype(str).replace('', '9999999') #####
 df1 = pd.DataFrame([[np.nan] * len(useries.columns)], columns=useries.columns)
 useries_mod = df1.append(useries, ignore_index=True)
 useries_mod.loc[[0],'ID_Useries'] = 9999999
 useries_mod.loc[[0],'AnalysisID'] = ''
 useries_mod['ID_Useries'] = useries_mod['ID_Useries'].astype(int)
+
 RSL_Datapoints['Useries'] = (RSL_Datapoints['Useries'].str.split(',')
                                 .explode()
                                 .map(useries_mod.assign(ID_Useries=useries_mod.ID_Useries.astype(str))
@@ -93,7 +95,7 @@ RSL_Datapoints['Useries'] = (RSL_Datapoints['Useries'].str.split(',')
 
 # Update AAR sample list with ID names (saving original ID list separately)
 #RSL_Datapoints['AAR_ID_list']=RSL_Datapoints['AAR']
-RSL_Datapoints['AAR']=RSL_Datapoints['AAR'].replace('', '9999999')
+RSL_Datapoints['AAR']=RSL_Datapoints['AAR'].astype(str).replace('', '9999999')
 df1 = pd.DataFrame([[np.nan] * len(aar.columns)], columns=aar.columns)
 aar_mod = df1.append(aar, ignore_index=True)
 aar_mod.loc[[0],'ID AAR'] = 9999999
@@ -108,7 +110,7 @@ RSL_Datapoints['AAR'] = (RSL_Datapoints['AAR'].str.split(',')
 
 # Update luminescence sample list with ID names (saving original ID list separately)
 #RSL_Datapoints['Lum_ID_list']=RSL_Datapoints['Luminescence']
-RSL_Datapoints['Luminescence']=RSL_Datapoints['Luminescence'].replace('', '9999999')
+RSL_Datapoints['Luminescence']=RSL_Datapoints['Luminescence'].astype(str).replace('', '9999999')
 df1 = pd.DataFrame([[np.nan] * len(luminescence.columns)], columns=luminescence.columns)
 luminescence_mod = df1.append(luminescence, ignore_index=True)
 luminescence_mod.loc[[0],'LUM_ID'] = 9999999
@@ -122,7 +124,7 @@ RSL_Datapoints['Luminescence'] = (RSL_Datapoints['Luminescence'].str.split(',')
 
 # Update luminescence sample list with ID names (saving original ID list separately)
 #RSL_Datapoints['ESR_ID_list']=RSL_Datapoints['ESR']
-RSL_Datapoints['ESR']=RSL_Datapoints['ESR'].replace('', '9999999')
+RSL_Datapoints['ESR']=RSL_Datapoints['ESR'].astype(str).replace('', '9999999')
 df1 = pd.DataFrame([[np.nan] * len(esr.columns)], columns=esr.columns)
 esr_mod = df1.append(esr, ignore_index=True)
 esr_mod.loc[[0],'ESR_ID'] = 9999999
@@ -136,7 +138,7 @@ RSL_Datapoints['ESR'] = (RSL_Datapoints['ESR'].str.split(',')
 
 # Update luminescence sample list with ID names (saving original ID list separately)
 #RSL_Datapoints['Strat_ID_list']=RSL_Datapoints['Stratcontext']
-RSL_Datapoints['Stratcontext']=RSL_Datapoints['Stratcontext'].replace('', '9999999')
+RSL_Datapoints['Stratcontext']=RSL_Datapoints['Stratcontext'].astype(str).replace('', '9999999')
 df1 = pd.DataFrame([[np.nan] * len(strat.columns)], columns=strat.columns)
 strat_mod = df1.append(strat, ignore_index=True)
 strat_mod.loc[[0],'Strat_ID'] = 9999999
@@ -150,7 +152,7 @@ RSL_Datapoints['Stratcontext'] = (RSL_Datapoints['Stratcontext'].str.split(',')
 
 # Update luminescence sample list with ID names (saving original ID list separately)
 #RSL_Datapoints['Other_age_ID_list']=RSL_Datapoints['Other_age']
-RSL_Datapoints['Other_age']=RSL_Datapoints['Other_age'].replace('', '9999999')
+RSL_Datapoints['Other_age']=RSL_Datapoints['Other_age'].astype(str).replace('', '9999999')
 df1 = pd.DataFrame([[np.nan] * len(other.columns)], columns=other.columns)
 other_mod = df1.append(other, ignore_index=True)
 other_mod.loc[[0],'idOther_dating'] = 9999999
@@ -176,7 +178,7 @@ RSL_Datapoints['UppLowErr'] = pd.to_numeric(RSL_Datapoints['UppLowErr'], errors=
 
 ###### Work on RSL_Ind dataframe ######
 #Update references
-RSL_Ind['Ref_indicator']=RSL_Ind['Ref_indicator'].replace('', '9999999')
+RSL_Ind['Ref_indicator']=RSL_Ind['Ref_indicator'].astype(str).replace('', '9999999')
 df1 = pd.DataFrame([[np.nan] * len(references.columns)], columns=references.columns)
 ref = df1.append(references, ignore_index=True)
 ref.loc[[0],'Ref_ID'] = 9999999
@@ -216,7 +218,7 @@ hrz_meas[v.columns] = v.replace(m)
 
 ###### Work on sl_datum dataframe ######
 #Update references
-sl_datum['Ref_SLdatum']=sl_datum['Ref_SLdatum'].replace('', '9999999')
+sl_datum['Ref_SLdatum']=sl_datum['Ref_SLdatum'].astype(str).replace('', '9999999')
 df1 = pd.DataFrame([[np.nan] * len(references.columns)], columns=references.columns)
 ref = df1.append(references, ignore_index=True)
 ref.loc[[0],'Ref_ID'] = 9999999
@@ -238,7 +240,7 @@ sl_datum[v.columns] = v.replace(m)
 
 ###### Work on esr dataframe ######
 #Update references
-esr['Refs']=esr['Refs'].replace('', '9999999')
+esr['Refs']=esr['Refs'].astype(str).replace('', '9999999')
 df1 = pd.DataFrame([[np.nan] * len(references.columns)], columns=references.columns)
 ref = df1.append(references, ignore_index=True)
 ref.loc[[0],'Ref_ID'] = 9999999
@@ -291,7 +293,7 @@ esr[v.columns] = v.replace(m)
 
 ###### Work on lum dataframe ######
 #Update references
-lum['lum_ref']=lum['lum_ref'].replace('', '9999999')
+lum['lum_ref']=lum['lum_ref'].astype(str).replace('', '9999999')
 df1 = pd.DataFrame([[np.nan] * len(references.columns)], columns=references.columns)
 ref = df1.append(references, ignore_index=True)
 ref.loc[[0],'Ref_ID'] = 9999999
@@ -367,7 +369,7 @@ strat[v.columns] = v.replace(m)
 
 ###### Work on other dataframe ######
 #Update references
-other['Ref']=other['Ref'].replace('', '9999999')
+other['Ref']=other['Ref'].astype(str).replace('', '9999999')
 df1 = pd.DataFrame([[np.nan] * len(references.columns)], columns=references.columns)
 ref = df1.append(references, ignore_index=True)
 ref.loc[[0],'Ref_ID'] = 9999999
@@ -401,7 +403,7 @@ useries['How_elevation_derived']=useries['How_elevation_derived'].replace('', '0
 useries['How_elevation_derived']=useries.How_elevation_derived.astype(int)
 
 #Update references
-useries['Source']=useries['Source'].replace('', '9999999')
+useries['Source']=useries['Source'].astype(str).replace('', '9999999')
 df1 = pd.DataFrame([[np.nan] * len(references.columns)], columns=references.columns)
 ref = df1.append(references, ignore_index=True)
 ref.loc[[0],'Ref_ID'] = 9999999
@@ -461,7 +463,7 @@ useries[v.columns] = v.replace(m)
 ###### Work on aar dataframe ######
 aar['Accepted'] = aar.Accepted.astype(int)
 #Update references
-aar['AARRef']=aar['AARRef'].replace('', '9999999')
+aar['AARRef']=aar['AARRef'].astype(str).replace('', '9999999')
 df1 = pd.DataFrame([[np.nan] * len(references.columns)], columns=references.columns)
 ref = df1.append(references, ignore_index=True)
 ref.loc[[0],'Ref_ID'] = 9999999
@@ -520,7 +522,7 @@ v = aar.filter(items=['Showblock'])
 aar[v.columns] = v.replace(m)
 
 #Update calibration references
-aar['IndepAgeRef']=aar['IndepAgeRef'].replace('', '9999999')
+aar['IndepAgeRef']=aar['IndepAgeRef'].astype(str).replace('', '9999999')
 df1 = pd.DataFrame([[np.nan] * len(references.columns)], columns=references.columns)
 ref = df1.append(references, ignore_index=True)
 ref.loc[[0],'Ref_ID'] = 9999999
@@ -533,7 +535,7 @@ aar['IndepAgeRef'] = (aar['IndepAgeRef'].str.split(',')
                                 .groupby(level=0).agg('\n '.join))
 
 #Update Useries sample list
-aar['Useries constraint']=aar['Useries constraint'].replace('', '9999999')
+aar['Useries constraint']=aar['Useries constraint'].astype(str).replace('', '9999999')
 df1 = pd.DataFrame([[np.nan] * len(useries.columns)], columns=useries.columns)
 useries_mod = df1.append(useries, ignore_index=True)
 useries_mod.loc[[0],'ID_Useries'] = 9999999
@@ -547,7 +549,7 @@ aar['Useries constraint'] = (aar['Useries constraint'].str.split(',')
                                 .groupby(level=0).agg('\n '.join))
 
 #Update luminescence sample list
-aar['Luminescene constraint']=aar['Luminescene constraint'].replace('', '9999999')
+aar['Luminescene constraint']=aar['Luminescene constraint'].astype(str).replace('', '9999999')
 df1 = pd.DataFrame([[np.nan] * len(luminescence.columns)], columns=luminescence.columns)
 luminescence_mod = df1.append(luminescence, ignore_index=True)
 luminescence_mod.loc[[0],'LUM_ID'] = 9999999
@@ -560,7 +562,7 @@ aar['Luminescene constraint'] = (aar['Luminescene constraint'].str.split(',')
                                 .groupby(level=0).agg('\n '.join))
 
 #Update ESR sample list
-aar['ESR constraint']=aar['ESR constraint'].replace('', '9999999')
+aar['ESR constraint']=aar['ESR constraint'].astype(str).replace('', '9999999')
 df1 = pd.DataFrame([[np.nan] * len(esr.columns)], columns=esr.columns)
 esr_mod = df1.append(esr, ignore_index=True)
 esr_mod.loc[[0],'ESR_ID'] = 9999999
@@ -573,7 +575,7 @@ aar['ESR constraint'] = (aar['ESR constraint'].str.split(',')
                                 .groupby(level=0).agg('\n '.join))
 
 #Update Stratigraphic ages sample list
-aar['Strat constraint']=aar['Strat constraint'].replace('', '9999999')
+aar['Strat constraint']=aar['Strat constraint'].astype(str).replace('', '9999999')
 df1 = pd.DataFrame([[np.nan] * len(strat.columns)], columns=strat.columns)
 strat_mod = df1.append(strat, ignore_index=True)
 strat_mod.loc[[0],'Strat_ID'] = 9999999
@@ -634,7 +636,7 @@ v = Summary.filter(items=['Region'])
 Summary[v.columns] = v.replace(m)
 
 #RSL Indicator substitution
-Summary['RSL Indicator'] = Summary['RSL Indicator'].replace('Yes', '9999')
+Summary['RSL Indicator'] = Summary['RSL Indicator'].astype(str).replace('Yes', '9999')
 df1 = pd.DataFrame([[np.nan] * len(rslind.columns)], columns=rslind.columns)
 rslind = df1.append(rslind, ignore_index=True)
 rslind.loc[[0],'idrsl_ind'] = 9999
