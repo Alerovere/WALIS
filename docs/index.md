@@ -24,7 +24,7 @@ WALIS data can be queried and visualized via a ShinyApp interface. The R code us
 ## <i class="fa-solid fa-pen-to-square"></i> Contribute to WALIS
 Anyone can create an account and work with our interface to insert data on sea-level proxies and associated dated samples. Our interface is (and will remain) free, only requiring registration. If you already have the data standardized in WALIS format and want to submit them to Zenodo, the link below resolves directly to the data submission page for our community.
 
-<i class="fa-solid fa-arrows-rotate"></i> [Access the database interface](http://ec2-52-14-227-13.us-east-2.compute.amazonaws.com/Management_Login/)
+<i class="fa-solid fa-arrows-rotate"></i> [Access the database interface](https://warmcoasts.eu/walis/)
 
 <i class="fa-regular fa-share-nodes"></i> [Submit data to the Zenodo WALIS community](https://zenodo.org/login/?next=%2Fdeposit%2Fnew%3Fc%3Dwalis_database) 
 
