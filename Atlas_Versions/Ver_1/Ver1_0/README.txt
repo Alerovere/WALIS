@@ -1,0 +1,1 @@
+This is WALIS Version 1.0. This version was prepared alongside the ESSD Special Issue Editorial.

@@ -6,3 +6,4 @@ VrtAcc,mediumtext,utf8_general_ci,YES,,Typical accuracy
 Createdby,varchar(45),utf8_general_ci,YES,,Record created by
 Updatedby,varchar(45),utf8_general_ci,YES,,Record updated by
 LastUpdate,datetime,,YES,,Last Update
+General_Type,text,utf8_general_ci,YES,,General type

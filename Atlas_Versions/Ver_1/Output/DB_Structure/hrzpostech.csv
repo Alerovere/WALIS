@@ -1,8 +1,0 @@
-Field,Type,Collation,Null,Key,Comment
-idposhrz,int(11),,NO,PRI,WALIS GeoPos ID
-HrzType,mediumtext,utf8_general_ci,YES,,Measurement technique
-HrzDescr,longtext,utf8_general_ci,YES,,Description
-HrzAcc,longtext,utf8_general_ci,YES,,Typical accuracy
-Createdby,text,utf8_general_ci,YES,,Record created by
-Updatedby,text,utf8_general_ci,YES,,Record updated by
-LastUpdate,datetime,,YES,,Last Update

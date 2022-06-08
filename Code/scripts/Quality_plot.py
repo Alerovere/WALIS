@@ -28,4 +28,4 @@ sns.heatmap(quality, annot=True,linewidths=1, linecolor='k',ax=ax, cmap='YlGnBu'
 ax.invert_yaxis()
 
 plt.savefig('Output/Images/svg/quality_heatmap.svg', dpi=300)
-plt.savefig('Output/Images/jpg/quality_heatmap.jpg', dpi=300)
+plt.savefig('Output/Images/jpg/quality_heatmap.jpg', dpi=300,bbox_inches='tight')

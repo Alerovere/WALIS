@@ -1,0 +1,1 @@
+This is the Ver1_beta version. It was used for the presentation of WALIS at the 2022 European Geosciences Union and the 2022 PAGES OSM meeting.

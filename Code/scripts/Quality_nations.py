@@ -44,4 +44,4 @@ filename1='Output/Images/svg/Quality'+str(Nation1.value)+'_'+str(Nation2.value)+
 filename2='Output/Images/jpg/Quality'+str(Nation1.value)+'_'+str(Nation2.value)+'.jpg'
 
 plt.savefig(filename1, dpi=300)
-plt.savefig(filename2, dpi=300)
+plt.savefig(filename2, dpi=300,bbox_inches='tight')

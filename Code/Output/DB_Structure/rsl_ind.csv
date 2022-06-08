@@ -8,3 +8,4 @@ Ref_indicator,mediumtext,utf8_general_ci,YES,,Indicator reference(s)
 Createdby,varchar(45),utf8_general_ci,YES,,Record created by
 Updatedby,varchar(45),utf8_general_ci,YES,,Record updated by
 LastUpdate,date,,YES,,Last Update
+General_type,text,utf8_general_ci,YES,,General type

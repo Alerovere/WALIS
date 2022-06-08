@@ -3,6 +3,7 @@
 db=mysql.connector.connect(host='es5.siteground.eu', user='ugvgouyqphgeu', 
                    passwd='WALIS_PUBLIC', db='dbvvfcofpmwxz7',charset='utf8',use_unicode=True,port=3306)
 
+
 SQLtables=['rsl','countries','regions','MIS_ages','`references`','hrzpostech','rsl_ind',
         'sldatum','vertmeastech','Useries_Corals','aar','luminescence','esr','strat',
 		'other_dating','sec_usersusers','Summary_sheets','Dated_samples_RSL','Summary_full']

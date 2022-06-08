@@ -1,0 +1,97 @@
+Field,Type,Collation,Null,Key,Comment
+ESR_ID,int(11),,NO,PRI,WALIS ESR ID
+Public,varchar(45),utf8_general_ci,YES,,Is this datapoint public?
+ESR_Method,tinytext,utf8_general_ci,YES,,Method
+IGSN,varchar(45),utf8_general_ci,YES,,IGSN
+Refs,longtext,utf8_general_ci,YES,,Reference(s)
+Sample_ID,varchar(45),utf8_general_ci,YES,,Sample ID
+AnalysisID,varchar(45),utf8_general_ci,YES,,Analysis ID
+ReportedID,varchar(45),utf8_general_ci,YES,,Reported ID
+Lab_name,mediumtext,utf8_general_ci,YES,,Laboratory name
+AnalysisDate,datetime,,YES,,Date of analysis
+Accepted,varchar(45),utf8_general_ci,YES,,Accepted?
+Reas_rej,longtext,utf8_general_ci,YES,,Reason for rejection
+Reported_Latitude,varchar(45),utf8_general_ci,YES,,Reported Latitude
+Reported_Longitude,varchar(45),utf8_general_ci,YES,,Reported Longitude
+SampleLat,varchar(45),utf8_general_ci,YES,,Latitude (decimal degrees)
+SampleLon,varchar(45),utf8_general_ci,YES,,Longitude (decimal degrees)
+Lat_Lon_Est,varchar(45),utf8_general_ci,YES,,Are Lat/Long estimated?
+Original_datum,varchar(45),utf8_general_ci,YES,,Original elevation datum used
+Elev_meas_method,varchar(45),utf8_general_ci,YES,,Elevation measurement method
+Reported_Elev,varchar(45),utf8_general_ci,YES,,Reported elevation (m)
+Reported_Elev_Unc,varchar(45),utf8_general_ci,YES,,Reported elevation uncertainty (m)
+Elev_MSL,varchar(45),utf8_general_ci,YES,,Elevation above MSL (m)
+Elev_MSL_unc,varchar(45),utf8_general_ci,YES,,Elevation uncertainty used (m)
+Elev_comments,longtext,utf8_general_ci,YES,,Elevation comments
+MISchoice_limit,varchar(45),utf8_general_ci,YES,,Age is Older/Younger/Equal to
+MISchoice,varchar(45),utf8_general_ci,YES,,Marine Isotopic Stage
+Reported_MIS,longtext,utf8_general_ci,YES,,Comments/details on MIS designation or age
+Final_age,varchar(45),utf8_general_ci,YES,,Age (ka)
+Final_age_unc,varchar(45),utf8_general_ci,YES,,Age uncertainty (ka)
+Mineral_type,varchar(45),utf8_general_ci,YES,,Mineral type
+Grain_size,varchar(45),utf8_general_ci,YES,,Grain size (µm)
+Aliquot size,varchar(45),utf8_general_ci,YES,,Aliquot size (mg)
+Meas_protocol,longtext,utf8_general_ci,YES,,Measurement protocol
+ESR_spectr_type,mediumtext,utf8_general_ci,YES,,ESR spectrometre type
+Meas_temp,longtext,utf8_general_ci,YES,,Measurement temperature (K)
+AAcquisition_parameters,mediumtext,utf8_general_ci,YES,,Acquisition parameters
+Paramagnetic_centre,mediumtext,utf8_general_ci,YES,,ESR signal
+Nb_Scans,varchar(45),utf8_general_ci,YES,,Number of scans
+Nb_repeat_meas,varchar(45),utf8_general_ci,YES,,Number of repeated measurements
+Nb_rotations,varchar(45),utf8_general_ci,YES,,Number of rotations in the cavity
+ESR_Sign_int,mediumtext,utf8_general_ci,YES,,Evaluation of the ESR signal intensity
+Corr_ESR_int,mediumtext,utf8_general_ci,YES,,Correction of the ESR intensities
+Bleaching_coeff,mediumtext,utf8_general_ci,YES,,Bleaching coefficient (%)
+Fitting_prog_err_calc,mediumtext,utf8_general_ci,YES,,Fitting program and error calculation
+Fitting function,mediumtext,utf8_general_ci,YES,,Fitting function
+Data_weight_fitting,mediumtext,utf8_general_ci,YES,,Data weighting used for fitting
+Equivalent_dose,varchar(45),utf8_general_ci,YES,,Equivalent dose estimate (Gy)
+Equivalent_dose_err,varchar(45),utf8_general_ci,YES,,Equivalent dose estimate undertainty (±1σ) (Gy)
+Depth,varchar(45),utf8_general_ci,YES,,Depth (m)
+Technique,longtext,utf8_general_ci,YES,,Technique
+Dose_rate_unc_type,varchar(45),utf8_general_ci,YES,,Dose rate uncertainty type
+extU,varchar(45),utf8_general_ci,YES,,external U (ppm)
+extU_unc,varchar(45),utf8_general_ci,YES,,external U error (ppm)
+extTh,varchar(45),utf8_general_ci,YES,,external Th (ppm)
+extTh_unc,varchar(45),utf8_general_ci,YES,,external Th error (ppm)
+extK,varchar(45),utf8_general_ci,YES,,external K (%)
+extK_unc,varchar(45),utf8_general_ci,YES,,external K error (%)
+extRb,varchar(45),utf8_general_ci,YES,,external Rb (ppm)
+extRb_unc,varchar(45),utf8_general_ci,YES,,external Rb error (ppm)
+Ext_dose_rate,varchar(45),utf8_general_ci,YES,,External dose rate (Gy/ka)
+Ext_dose_rate_unc,varchar(45),utf8_general_ci,YES,,External dose rate uncertainty (Gy/ka)
+intU,varchar(45),utf8_general_ci,YES,,internal U (ppm)
+intU_unc,varchar(45),utf8_general_ci,YES,,internal U error (ppm)
+intTh,varchar(45),utf8_general_ci,YES,,internal Th (ppm)
+intTh_unc,varchar(45),utf8_general_ci,YES,,internal Th error (ppm)
+intK,varchar(45),utf8_general_ci,YES,,internal K (%)
+intK_unc,varchar(45),utf8_general_ci,YES,,internal K error (%)
+intRb,varchar(45),utf8_general_ci,YES,,internal Rb (ppm)
+intRb_unc,varchar(45),utf8_general_ci,YES,,internal Rb error (ppm)
+Int_dose_rate,varchar(45),utf8_general_ci,YES,,Internal dose rate (Gy/ka)
+Int_dose_rate_unc,varchar(45),utf8_general_ci,YES,,Internal dose rate uncertainty (Gy/ka)
+Alpha_rate_val,varchar(45),utf8_general_ci,YES,,Alpha dose rate (Gy/ka)
+Alpha_rate_unc,varchar(45),utf8_general_ci,YES,,Alpha dose rate error (Gy/ka)
+Gamma_rate_val,varchar(45),utf8_general_ci,YES,,Gamma dose rate (Gy/ka)
+Gamma_rate_unc,varchar(45),utf8_general_ci,YES,,Gamma dose rate error (Gy/ka)
+Beta_rate_val,varchar(45),utf8_general_ci,YES,,Beta dose rate (Gy/ka)
+Beta_rate_unc,varchar(45),utf8_general_ci,YES,,Beta dose rate error (Gy/ka)
+Cosmic_rate_val,varchar(45),utf8_general_ci,YES,,Cosmic dose rate (Gy/ka)
+Cosmic_rate_unc,varchar(45),utf8_general_ci,YES,,Cosmic dose rate error (Gy/ka)
+Field_water,varchar(45),utf8_general_ci,YES,,Field water content (% of dry mass)
+Water_cont_det,longtext,utf8_general_ci,YES,,Water content determination method
+Water_cont_val,varchar(45),utf8_general_ci,YES,,Water content used (%)
+Water_cont_unc,varchar(45),utf8_general_ci,YES,,Water content used error (%)
+Atten_fact,longtext,utf8_general_ci,YES,,Attenuation factors
+Conv_fact,longtext,utf8_general_ci,YES,,Conversion factors
+Alpha_eff_fact,longtext,utf8_general_ci,YES,,Alpha efficiency factor
+Etching_method,longtext,utf8_general_ci,YES,,Etching method
+etch_depth,varchar(45),utf8_general_ci,YES,,Etch depth (µm)
+etch_depth_unc,varchar(45),utf8_general_ci,YES,,Etch depth error (µm)
+Total_dose_rate,varchar(45),utf8_general_ci,YES,,Total dose rate (Gy/ka)
+Total_dose_rate_unc,varchar(45),utf8_general_ci,YES,,Total dose rate uncertainty (Gy/ka)
+Notes,longtext,utf8_general_ci,YES,,Comments and notes
+Createdby,varchar(45),utf8_general_ci,YES,,Record created by
+Updatedby,varchar(45),utf8_general_ci,YES,,Record updated by
+LastUpdate,datetime,,YES,,Last Update
+coord,point,,YES,,mySQL coordinates

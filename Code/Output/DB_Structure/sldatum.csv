@@ -7,3 +7,4 @@ Ref_SLdatum,longtext,utf8_general_ci,YES,,Reference(s)
 Createdby,varchar(45),utf8_general_ci,YES,,Record created by
 Updatedby,varchar(45),utf8_general_ci,YES,,Record updated by
 LastUpdate,datetime,,YES,,Last Update
+General_Type,text,utf8_general_ci,YES,,General type
