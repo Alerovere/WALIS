@@ -31,6 +31,9 @@ os.mkdir(html_path)
 DB_Structure = 'DB_Structure'
 DB_Structure_path=os.path.join(Output_path,DB_Structure)
 os.mkdir(DB_Structure_path)
+Holocene = 'Holocene'
+Holocene_path=os.path.join(Output_path,Holocene)
+os.mkdir(Holocene_path)
 
 # Make CSV files with table column descriptions
 for i in range(len(SQLtables)): 

@@ -1,0 +1,59 @@
+Field,Type,Collation,Null,Key,Comment
+RSL_ID,int(11),,NO,PRI,WALIS RSL ID
+Public,int(11),,NO,,Is this datapoint public?
+Site,varchar(40),utf8_general_ci,NO,,Site
+AddLocInfo,varchar(100),utf8_general_ci,YES,,Subsite
+Nation,int(11),,YES,MUL,Nation
+Region,int(11),,NO,,Region
+Ref,int(11),,NO,MUL,Main reference
+addRef,varchar(45),utf8_general_ci,YES,,Additional references
+RSLlat,"decimal(10,6)",,NO,,Latitude (decimal degrees)
+RSLlon,"decimal(10,6)",,NO,,Longitude (decimal degrees)
+HrzPosTech,int(11),,YES,MUL,Horizontal Positioning Technique
+Limiting,varchar(45),utf8_general_ci,NO,,Is this a marine/terrestrial limiting record?
+Indicator,int(11),,YES,MUL,Type of RSL Indicator
+Ind_descr_det,longtext,utf8_general_ci,YES,,Indicator description
+ULmodAn,"decimal(10,2)",,YES,,Upper limit of modern analog (m)
+LLmodAn,"decimal(10,2)",,YES,,Lower limit of modern analog (m)
+Quant_ind_mean,varchar(45),utf8_general_ci,YES,,Quantification of indicative meaning
+SLdatum,int(11),,NO,MUL,Sea level datum
+VrtMeasTech,int(11),,NO,MUL,Elevation measurement technique
+Upper_Lower_elev,varchar(45),utf8_general_ci,YES,,Do you want to insert upper and lower elevation limits?
+Elev_upper,varchar(45),utf8_general_ci,YES,,Upper elevation of indicator (m)
+Elev_lower,varchar(45),utf8_general_ci,YES,,Lower elevation of indicator (m)
+UppLowErr,varchar(45),utf8_general_ci,YES,,Upper/Lower elevation measurement error (1-sigma) (m)
+RSLelev,"decimal(10,2)",,YES,,RSL indicator elevation (m)
+RSLelevErr,"decimal(10,2)",,YES,,RSL indicator elevation error (m)
+ElevationNotes,longtext,utf8_general_ci,YES,,Notes on elevation and indicative range
+RWL,"decimal(10,2)",,YES,,Reference Water Level (m)
+IR,"decimal(10,2)",,YES,,Indicative Range (m)
+PaleoRSL,"decimal(10,2)",,YES,,Paleo Relative Sea Level (m)
+PaleoRSLunc,"decimal(10,2)",,YES,,Paleo Relative Sea Level Uncertainty (m)
+ChoiceVLM,varchar(45),utf8_general_ci,YES,,Is data on vertical land movements (independent from the sea level record) available?
+Tect_cat,varchar(45),utf8_general_ci,YES,,Tectonic category
+tect_cat_comments,longtext,utf8_general_ci,YES,,Comments on tectonic category
+Publ_VLM,varchar(45),utf8_general_ci,YES,,Published VLM rate (m/ky)
+Publ_VLM_unc,varchar(45),utf8_general_ci,YES,,Published VLM rate uncertainty (m/ky)
+Interpr_VLM,varchar(45),utf8_general_ci,YES,,Interpreted VLM rate (m/ky)
+Interpr_VLM_unc,varchar(45),utf8_general_ci,YES,,Interpreted VLM rate (m/ky) uncertainty
+Comments_VLM,longtext,utf8_general_ci,YES,,Comments on VLM rates
+SelectAge,varchar(45),utf8_general_ci,NO,,Age attribution
+Useries_time,varchar(45),utf8_general_ci,YES,,U-Series constraint
+Useries,mediumtext,utf8_general_ci,YES,,U-series age IDs
+AAR_time,varchar(45),utf8_general_ci,YES,,AAR constraint
+AAR,mediumtext,utf8_general_ci,YES,,Amino Acid Racemization age IDs
+ESR_time,varchar(45),utf8_general_ci,YES,,ESR constraint
+ESR,mediumtext,utf8_general_ci,YES,,Electro Spin Resonance age IDs
+LUM_time,varchar(45),utf8_general_ci,YES,,Luminescence constraint
+Luminescence,mediumtext,utf8_general_ci,YES,,Luminescence age IDs
+Strat_time,varchar(45),utf8_general_ci,YES,,Stratigraphic constraint
+Stratcontext,mediumtext,utf8_general_ci,YES,,Stratigraphic context/age IDs
+Other_time,varchar(45),utf8_general_ci,YES,,Other age constraint
+Other_age,mediumtext,utf8_general_ci,YES,,Other age constraints IDs
+Qual,int(11),,NO,,Quality of RSL data
+Qual_Age,int(11),,NO,,Quality of age information
+Qualnotes,longtext,utf8_general_ci,YES,,Quality notes
+Createdby,varchar(45),utf8_general_ci,YES,,Record created by
+Updatedby,varchar(45),utf8_general_ci,YES,,Record updated by
+LastUpdate,datetime,,YES,,Last Update
+coord,point,,YES,,MySQL coordinates

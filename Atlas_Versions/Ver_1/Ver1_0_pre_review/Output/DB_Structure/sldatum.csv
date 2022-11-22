@@ -1,0 +1,10 @@
+Field,Type,Collation,Null,Key,Comment
+SLdatum_ID,int(11),,NO,PRI,WALIS SLdatum ID
+SLdatumname,varchar(45),utf8_general_ci,YES,,Datum name
+SLdatumdescr,longtext,utf8_general_ci,YES,,Datum description
+SLdatum_unc,longtext,utf8_general_ci,YES,,Datum uncertainty
+Ref_SLdatum,longtext,utf8_general_ci,YES,,Reference(s)
+Createdby,varchar(45),utf8_general_ci,YES,,Record created by
+Updatedby,varchar(45),utf8_general_ci,YES,,Record updated by
+LastUpdate,datetime,,YES,,Last Update
+General_Type,text,utf8_general_ci,YES,,General type

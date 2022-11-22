@@ -87,7 +87,7 @@ for User in multiUsr:
   #keep strat used as constraints in AAR table
   STR_2=pd.DataFrame(aar_df['Strat constraint'].str.split(',').explode()).replace('', np.nan).dropna(subset=['Strat constraint']).astype(float)
   STR_filter3=strat.loc[strat['Strat_ID'].isin(STR_2['Strat constraint']),:]    
-  strat_df = strat_df.append(pd.concat([STR_filter1,STR_filter2]).drop_duplicates(['Strat_ID']).reset_index())
+  strat_df = strat_df.append(pd.concat([STR_filter1,STR_filter2,STR_filter3]).drop_duplicates(['Strat_ID']).reset_index())
  else:
   strat_df=strat.copy()
  #Other
